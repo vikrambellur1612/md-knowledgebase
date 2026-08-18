@@ -103,7 +103,88 @@
 
 **Category/quota codes:** GM (General Merit govt seat); GMP (govt-fee seat inside a private/deemed college); OPN (open/management fee); NRI; HK & RK (Hyderabad-Karnataka/Kalyana-Karnataka Article 371(J), split into HK-region and Rest-of-Karnataka); Linguistic Minority (Tulu/Tamil/Telugu etc., needs Form 5/5A certified since school); Religious Minority; and caste/income-based reservation.
 
-**Fee structure (2025-26, FRA/KEA-regulated):** Government college govt-quota ≈ ₹64,350/year (some as low as ₹15,000–80,000/yr). Private college: government-quota (G) ≈ ₹1.5 lakh/year; private-quota (GMP/P) ≈ ₹12 lakh/year; management/other (OPN/Q) ≈ ₹27–45 lakh/year; NRI ≈ ₹32–40 lakh/year. Note: KEA and colleges sometimes disagree on private-quota figures (e.g., a 2025 SMSIMSR row: KEA fixed ₹22 lakh vs college’s stated ₹25 lakh).
+**Fee structure (2026-27, official — KEA "Medical College-wise Fee Structure 2026-27 (MBBS)," published per Government Orders No. MED 218 RGU 2026 dated 14-08-2026 and No. MED 213 RGU 2026 dated 13-08-2026):** The 2025-26 govt-quota fee was carried forward unchanged into 2026-27 for standard government colleges. All figures below are **per year**; multiply by 4.5 for an approximate total MBBS course cost (before hostel/mess/bond).
+
+- **Government colleges — govt-quota seat:** ₹64,350/year at the 22 standard government/autonomous-state medical colleges; **₹1,09,350/year at the two ESI Medical Colleges** (Rajajinagar-Bengaluru and Gulbarga) — these run higher because they're funded/regulated differently under the ESI scheme.
+- **Government colleges — management-quota seat:** 14 of the 24 government-type colleges (the newer "Institute of Medical Sciences" autonomous colleges, e.g. Mysore MC, Mandya IMS, Hassan IMS, KIMS Hubli, Belgaum IMS, Vijayanagar IMS Bellary, Bidar IMS, Raichur IMS, Gulbarga IMS, Koppal IMS, K.H. Patil (Gadag) IMS, Karwar IMS, Shri ABVIMS Bengaluru, Nandi MC Chikkaballapura) also offer a management/NRI-quota seat at a flat **₹25,09,350/year**; the remaining 10 (including Bangalore Medical College, Shimoga IMS, Chamarajanagar IMS, the two ESI colleges) do not offer this route through KEA.
+- **Private (Minority and Private-Unaided) colleges:** govt-quota fee ₹1,53,571/year (flat, except St John's Bengaluru at ₹0 — it runs no KEA govt-quota seats); private-quota fee flat **₹12,00,117/year** (St John's again the exception, at ₹8,10,535/year); management/NRI-quota fee ranges **₹25.1–44.1 lakh/year** across Minority colleges and **₹26.3–43.1 lakh/year** across Private Unaided colleges — i.e. an approximate **₹1.1–2.0 crore total course cost** on a management/NRI seat, before hostel/mess/bond.
+- **Private/Deemed Universities:** govt-quota fee mostly ₹1.53–1.83 lakh/year (one outlier — Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwad, at ₹6.09 lakh/year); where a private-quota/management-quota seat is offered, private-quota fee runs ₹16.3–25.2 lakh/year and management/NRI fee **₹29.75 lakh–₹45 lakh/year** (≈ **₹1.34–2.03 crore total course cost**, up meaningfully from the ₹85 lakh–₹1.3 crore range this KB previously carried — treat that older figure as superseded). **Six deemed universities show ₹0 across private/management/NRI fees in this table — Kasturba Medical College Mangalore, Yenepoya Medical College, K.S. Hegde Medical Academy, JSS Medical College Mysore, Jawaharlal Nehru Medical College Belgaum, and the Dharwad JGMMC college above** — meaning they currently route no seats through KEA's private/management/NRI channels (consistent with them showing zero or near-zero KEA-category seats in `MD-NEET-Cutoffs-KB.md`'s allotment data too — these institutions are effectively 100%-MCC/AIQ colleges for admission purposes).
+- **A separate, parallel fee track exists for KPCF/KRLMPCA/AMPCK private-medical-college-association candidates** admitted through the associations' own selection process (as opposed to KEA-routed government-quota seats at the same colleges): **₹11,88,167/year**, unchanged from 2025-26. This is distinct from, and roughly 8x, the ₹1,41,621/year fee the same government order sets for KEA-allotted government-quota candidates at those same association colleges — don't conflate the two when a parent asks about a KPCF/AMPCK-quota seat specifically.
+- **Newly-established or newly-affiliated colleges** (Nandi Medical College Chikkaballapura, Srinivasa Institute Mangalore, Sri Madhusudan Sai Chikkaballapura, Sapthagiri, BGS Medical College, PESUIMSR, M.S. Ramaiah, SDM Dharwad, KBN Kalaburagi, SDUAHER Bengaluru, and St John's) had their first-year 2026-27 fees fixed explicitly by the same order (₹8.1 lakh–₹25 lakh/year management-quota, per college) — these are already folded into the college-wise table below.
+- **A closely related but separate order (MED 213 RGU 2026, 13-08-2026)** fixes 2026-27 govt-quota MBBS fee at Basaveshwara Medical College & Hospital, Chitradurga (under Jagadguru Murugharajendra University) at **₹22,50,000/year govt-quota, ₹34,50,000/year management/NRI-quota** — broadly consistent with, though not identical to, that college's row in the master table below (small variance likely reflects a subsequent revision). The same order sets BDS (dental) fees for the affiliated JSS Dental College, Chitradurga, at ₹4,00,000/year for both govt-quota and management/NRI-quota seats — not reflected in the MBBS-only table below.
+
+**Full 2026-27 college-wise MBBS fee table (all 68 KEA-participating colleges, per year, ₹):**
+
+| # | Code | College | Type | Govt Fee | Private Fee | Management Fee | NRI Fee |
+|---|---|---|---|---|---|---|---|
+| 1 | M001 | Bangalore Medical College, Bangalore | Government | 64,350 | 0 | 0 | 0 |
+| 2 | M021 | Mysore Medical College, Mysore | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 3 | M024 | Mandya Institute of Medical Sciences, Mandya | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 4 | M025 | Hassan Institute of Medical Sciences, Hassan | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 5 | M031 | Karnataka Institute of Medical Sciences, Hubli | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 6 | M037 | Belgaum Institute of Medical Sciences, Belgaum | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 7 | M041 | Vijayanagar Institute of Medical Sciences, Bellary | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 8 | M044 | Bidar Institute of Medical Sciences, Bidar | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 9 | M045 | Raichur Institute of Medical Sciences, Raichur | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 10 | M063 | Shimoga Institute of Medical Sciences, Shimoga | Government | 64,350 | 0 | 0 | 0 |
+| 11 | M066 | ESI Medical College, Rajajinagar, Bengaluru | Government | 1,09,350 | 0 | 0 | 0 |
+| 12 | M070 | ESI Medical College, Sedam Road, Gulbarga | Government | 1,09,350 | 0 | 0 | 0 |
+| 13 | M072 | Gulbarga Institute of Medical Sciences, Gulbarga | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 14 | M073 | Koppal Institute of Medical Sciences, Koppal | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 15 | M074 | K.H. Patil Institute of Medical Sciences (formerly Gadag IMS), Gadag | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 16 | M075 | Chamarajanagar Institute of Medical Science, Chamarajanagar | Government | 64,350 | 0 | 0 | 0 |
+| 17 | M076 | Karwar Institute of Medical Science, Uttara Kannada | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 18 | M077 | Kodagu Institute of Medical Sciences, Madikeri | Government | 64,350 | 0 | 0 | 0 |
+| 19 | M082 | Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 20 | M084 | Nandi Medical College and Research Institute, Chikkaballapura | Government | 64,350 | 0 | 25,09,350 | 25,09,350 |
+| 21 | M085 | Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru | Government | 64,350 | 0 | 0 | 0 |
+| 22 | M086 | Haveri Institute of Medical Sciences, Haveri | Government | 64,350 | 0 | 0 | 0 |
+| 23 | M087 | Yadgiri Institute of Medical Sciences, Yadgiri | Government | 64,350 | 0 | 0 | 0 |
+| 24 | M092 | Chitradurga Medical College and Research Institute, Chitradurga | Government | 64,350 | 0 | 0 | 0 |
+| 25 | M008 | M.V.J. Medical College and Research Hospital, Bengaluru | Minority (L,R) | 1,53,571 | 12,00,117 | 40,11,950 | 40,11,950 |
+| 26 | M009 | Vydehi Institute of Medical Science and Research Centre, Bengaluru | Minority (L,R) | 1,53,571 | 12,00,117 | 44,11,950 | 44,11,950 |
+| 27 | M010 | A.J. Institute of Medical Sciences, Mangalore | Minority (L,R) | 1,53,571 | 12,00,117 | 40,11,950 | 40,11,950 |
+| 28 | M011 | St John Medical College, Bengaluru | Minority (L,R) | 0 | 8,10,535 | 0 | 0 |
+| 29 | M033 | Al-Ameen Medical College, Vijayapur | Minority (L,R) | 1,53,571 | 12,00,117 | 29,11,950 | 29,11,950 |
+| 30 | M043 | Navodaya Medical College, Raichur | Minority (L,R) | 1,53,571 | 12,00,117 | 27,36,950 | 27,36,950 |
+| 31 | M050 | Father Muller Institute of Med. Education & Research, Mangalore | Minority (L,R) | 1,53,571 | 12,00,117 | 36,11,950 | 36,11,950 |
+| 32 | M067 | Subbaiah Institute of Medical Science, Shimoga | Minority (L,R) | 1,53,571 | 12,00,117 | 27,11,950 | 27,11,950 |
+| 33 | M071 | The Oxford Medical College Hospital and Research Center, Bengaluru | Minority (L,R) | 1,53,571 | 12,00,117 | 34,11,950 | 36,11,950 |
+| 34 | M078 | Akash Institute of Medical Sciences and Research Centre, Bengaluru | Minority (L,R) | 1,53,571 | 12,00,117 | 36,11,950 | 36,11,950 |
+| 35 | M079 | Kanachur Institute of Medical Sciences and Research Centre, Mangalore | Minority (L,R) | 1,53,571 | 12,00,117 | 28,61,950 | 28,61,950 |
+| 36 | M088 | G R Medical College Hospital and Research Centre, Mangalore | Minority (L,R) | 1,53,571 | 12,00,117 | 27,11,950 | 27,11,950 |
+| 37 | M091 | Sri Chamundeshwari Medical College Hospital and Research Inst., Ramanagara | Minority (L,R) | 1,53,571 | 12,00,117 | 31,01,950 | 31,01,950 |
+| 38 | M098 | Alva's Institute of Medical Sciences and Research Centre, DK | Minority (L,R) | 1,53,571 | 12,00,117 | 25,11,950 | 25,11,950 |
+| 39 | M002 | Dr. B.R. Ambedkar Medical College, Bengaluru | Private Unaided | 1,53,571 | 12,00,117 | 35,11,950 | 35,11,950 |
+| 40 | M003 | Kempegowda Institute of Medical Sciences, Bengaluru | Private Unaided | 1,53,571 | 12,00,117 | 43,11,950 | 43,11,950 |
+| 41 | M035 | S. Nijalingappa Medical College and Research Centre, Bagalkot | Private Unaided | 1,53,571 | 12,00,117 | 33,61,950 | 33,61,950 |
+| 42 | M042 | Mahadevappa Rampure Medical College, Kalaburagi | Private Unaided | 1,53,571 | 12,00,117 | 39,11,950 | 39,11,950 |
+| 43 | M054 | K. Venkataramana Gowda Medical College and Hospital, Dakshina Kannada | Private Unaided | 1,53,571 | 12,00,117 | 26,34,214 | 26,34,214 |
+| 44 | M061 | Jaya Jagadguru Murugharajendra Medical College, Davangere | Private Unaided | 1,53,571 | 12,00,117 | 39,11,950 | 39,11,950 |
+| 45 | M062 | Shymanuru Shivashankarappa Institute of Medical Sciences, Davangere | Private Unaided | 1,53,571 | 12,00,117 | 36,11,950 | 36,11,950 |
+| 46 | M068 | BGS Global Institute of Medical Sciences, Bengaluru | Private Unaided | 1,53,571 | 12,00,117 | 42,11,950 | 42,11,950 |
+| 47 | M069 | Shridevi Institute of Medical Sciences and Research Hospital, Tumkur | Private Unaided | 1,53,571 | 12,00,117 | 33,41,950 | 33,41,950 |
+| 48 | M081 | East Point College of Medical Sciences and Research Center, Bengaluru | Private Unaided | 1,53,571 | 12,00,117 | 37,11,950 | 37,11,950 |
+| 49 | M090 | Siddaganga Medical College and Research Institute, Tumakuru | Private Unaided | 1,53,571 | 12,00,117 | 30,11,950 | 30,11,950 |
+| 50 | M096 | S R Patil Medical College Hospital and Research Center, Bagalkot | Private Unaided | 1,53,571 | 12,00,117 | 35,11,950 | 35,11,950 |
+| 51 | M097 | Farookh Academy of Medical Education Hospital and Research Institute, Mysore | Private Unaided | 1,53,571 | 12,00,117 | 33,11,950 | 33,11,950 |
+| 52 | M004 | M.S. Ramaiah Medical College, Bengaluru | Private/Deemed University | 1,56,621 | 25,15,000 | 45,00,000 | 45,00,000 |
+| 53 | M005 | Khaja Bande Navaz Institute of Medical Sciences, Gulbarga | Private/Deemed University | 1,56,621 | 16,29,965 | 32,15,000 | 32,15,000 |
+| 54 | M020 | Sri Basaveshwara Medical College and Hospital, Chitradurga | Private/Deemed University | 1,56,621 | 22,65,000 | 34,70,000 | 34,70,000 |
+| 55 | M022 | Jagadguru Sri Shivarathreeswara Medical College, Mysore | Private/Deemed University | 1,53,571 | 0 | 0 | 0 |
+| 56 | M023 | Adichunchanagiri Institute of Medical Sciences, Mandya | Private/Deemed University | 1,56,621 | 22,15,000 | 35,15,000 | 35,15,000 |
+| 57 | M032 | Jawaharlal Nehru Medical College, Belgaum | Private/Deemed University | 1,53,571 | 0 | 0 | 0 |
+| 58 | M036 | SDM College of Medical Sciences and Hospital, Dharwad | Private/Deemed University | 1,56,621 | 20,15,000 | 36,15,000 | 36,15,000 |
+| 59 | M051 | Kasturba Medical College, Mangalore | Private/Deemed University | 1,53,571 | 0 | 0 | 0 |
+| 60 | M052 | Yenepoya Medical College, Mangalore | Private/Deemed University | 1,56,621 | 0 | 0 | 0 |
+| 61 | M053 | K.S. Hegde Medical Academy, Mangalore | Private/Deemed University | 1,56,621 | 0 | 0 | 0 |
+| 62 | M064 | Sapthagiri Institute of Medical Sciences, Bengaluru | Private/Deemed University | 1,82,371 | 22,40,750 | 45,00,000 | 45,00,000 |
+| 63 | M065 | Srinivasa Institute of Medical Research Center, Mangalore | Private/Deemed University | 1,66,621 | 22,25,000 | 29,75,000 | 29,75,000 |
+| 64 | M083 | Dr. Chandramma Dayananda Sagar Institute of Medical Education, Kanakapura Rd | Private/Deemed University | 1,56,621 | 22,15,000 | 40,15,000 | 40,15,000 |
+| 65 | M089 | Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwad | Private/Deemed University | 6,09,084 | 0 | 0 | 0 |
+| 66 | M093 | Sri Madhusudan Sai Institute of Medical Sciences and Research, Chikkaballapura | Private/Deemed University | 0 | 22,00,000 | 45,00,000 | 45,00,000 |
+| 67 | M094 | PES University Institute of Medical Sciences and Research, Bengaluru | Private/Deemed University | 1,56,621 | 22,15,000 | 39,15,000 | 39,15,000 |
+| 68 | M095 | BGS Medical College and Hospital, Bengaluru | Private/Deemed University | 1,56,621 | 22,15,000 | 35,15,000 | 35,15,000 |
 
 **Bond/bank guarantee:** Most private colleges require a ~1-year service bond (a few like St. John’s have longer/distinct terms); GMP/private-quota seats often require a bank guarantee.
 
@@ -115,7 +196,7 @@
 
 **Central/top government (NIRF 2025 Medical, released Aug 2025 by Ministry of Education):** 1. AIIMS New Delhi (score 91.80; #1 for the eighth consecutive year), 2. PGIMER Chandigarh (82.58), 3. CMC Vellore, 4. JIPMER Puducherry, 5. SGPGIMS Lucknow; also BHU, AIIMS Jodhpur (into the top 20), NIMHANS Bengaluru (best for mental health/neuroscience), plus 20+ AIIMS campuses. Government fees are typically ₹10,000–₹50,000/year.
 
-**Major private/deemed universities:** Kasturba Medical College (KMC) Manipal (NIRF #10 medical; 250 MBBS seats incl. 38 NRI; ~₹70.8 lakh total course fee), JSS Mysuru, KLE JNMC Belagavi, SRM & Sri Ramachandra Chennai, Amrita Kochi, DY Patil & Bharati Vidyapeeth Pune, Saveetha Chennai (dropped to #11 after a research-retraction penalty), plus Karnataka private colleges commonly discussed by parents (BGS Global, PES, MVJ, Akash, Vydehi, East Point, Sapthagiri, MS Ramaiah). Deemed-university MBBS total cost commonly ₹85 lakh–₹1.3 crore (tier-1) with NRI quota ₹1.1–1.5 crore.
+**Major private/deemed universities:** Kasturba Medical College (KMC) Manipal (NIRF #10 medical; 250 MBBS seats incl. 38 NRI; ~₹70.8 lakh total course fee), JSS Mysuru, KLE JNMC Belagavi, SRM & Sri Ramachandra Chennai, Amrita Kochi, DY Patil & Bharati Vidyapeeth Pune, Saveetha Chennai (dropped to #11 after a research-retraction penalty), plus Karnataka private colleges commonly discussed by parents (BGS Global, PES, MVJ, Akash, Vydehi, East Point, Sapthagiri, MS Ramaiah). Deemed-university MBBS total cost commonly ₹85 lakh–₹1.3 crore (tier-1) with NRI quota ₹1.1–1.5 crore. **Within Karnataka specifically**, per KEA's official 2026-27 college-wise fee structure (see Section 5), the management/NRI-quota total course cost at KEA-participating deemed universities and private colleges runs somewhat higher, roughly **₹1.1–2.0 crore** — use the Section 5 table for a specific Karnataka college rather than this national range.
 
 ### Section 7 — Cutoff / Rank Trends
 
@@ -147,7 +228,7 @@
 1. **Register on every relevant portal in parallel** the moment the result is out — MCC (mcc.nic.in), your state authority (KEA for Karnataka), and AACCC if AYUSH is on the table. Losing a seat because you only registered for one channel is the single most common avoidable mistake.
 1. **Karnataka parents: complete UGCET/KCET registration regardless of NEET plans**, and pre-assemble the certificate stack (caste/income, HK-KK 371(J), linguistic-minority Form 5/5A, Aadhaar with exactly matching name, gap certificate for repeaters). Verification bottlenecks, not ranks, derail the most families.
 1. **Map rank to a realistic seat before choice-filling.** Below ~AIR 50,000 (General), target government MBBS; in the uncertain band, fill BDS/AYUSH/GMP-private choices generously rather than gambling on a single round. Fill more choices than you think you need.
-1. **Model the true cost, not the sticker fee.** For private/deemed seats add hostel/mess, bond/bank-guarantee, and the full 4.5-year tuition (deemed totals routinely ₹85 lakh–₹1.3 crore; NRI higher). Decide the ceiling before Round 1.
+1. **Model the true cost, not the sticker fee.** For private/deemed seats add hostel/mess, bond/bank-guarantee, and the full 4.5-year tuition — for Karnataka specifically, Section 5's official 2026-27 KEA fee table puts a management/NRI-quota seat at roughly ₹1.1–2.0 crore total course cost (nationally, deemed totals run ₹85 lakh–₹1.3 crore; NRI higher). Decide the ceiling before Round 1.
 1. **Benchmarks that should change your plan:** if MCC/state closing ranks in Round 1 trend tighter than last year for your category, don’t wait for a mythical late-round drop — accept and float. If a private-quota fee is revised upward after allotment (as happened at SMSIMSR in 2025), re-run the affordability math immediately before reporting.
 1. **Verify every date on the official portal the day it appears** — KEA in particular extends deadlines repeatedly, and unofficial sites carry wrong dates.
 
@@ -158,3 +239,4 @@
 - **Cutoff marks (715–213 etc.)** are consistently reported across education portals attributing them to NTA’s 16 July 2026 release, but the exact PwBD lower bounds should be verified against the official NTA notice; the primary PIB/NTA press note could not be opened directly.
 - **Much 2026-specific reporting comes from coaching/aggregator sites**, corroborated across multiple such sources; where possible verify against nta.ac.in, nmc.org.in, mcc.nic.in and your state authority.
 - **Karnataka fee and quota specifics** differ college-by-college and change annually via FRA/government orders; always cross-check the current-year KEA information bulletin.
+- **Section 5's 2026-27 fee table** is transcribed from KEA's official published fee-structure document (itself sourced from two Karnataka Government Orders, MED 218 RGU 2026 and MED 213 RGU 2026, whose supporting text was in Kannada and has been summarized/translated here) — figures should match the official KEA notification, but always cross-check the source PDF or current KEA bulletin before relying on a specific college's number for a real decision, especially where this KB's summary and the underlying GO's headline figure differ slightly (e.g., Basaveshwara Medical College, Chitradurga — see Section 5's note on that).
