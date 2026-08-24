@@ -1,11 +1,11 @@
 # KCET & ComedK Engineering Cutoff Knowledge Base — All Colleges
 
-> Generated 2026-08-18 from the same cutoff data and ranking logic as the live tracker at
+> Generated 2026-08-24 from the same cutoff data and ranking logic as the live tracker at
 > https://github.com/vikrambellur1612/KCET_ComedK_2026 — regenerate with `node scripts/build_knowledge_base.js`
 > whenever a new counseling round is added.
 
 **Category covered:** General Merit (GM) only. **Exams:** KCET (Karnataka CET / UGCET) and COMEDK UGET.
-**Rounds included:** KCET Round 1 (2026-07-13), Round 2 Mock (2026-08-17); ComedK Mock Round (2026-07-14), Round 1 (2026-07-27), Round 3 (2026-08-18).
+**Rounds included:** KCET Round 1 (2026-07-13), Round 2 Mock (2026-08-17), Round 2 (2026-08-23); ComedK Mock Round (2026-07-14), Round 1 (2026-07-27), Round 3 (2026-08-18).
 
 **Disclaimer:** All figures are AI-assisted extractions from official KEA/COMEDK cutoff publications and have not been independently re-verified row by row. Every rank cited here should be cross-checked against the official KEA/COMEDK publication before a student or parent makes an admission decision. This document contains **no information beyond what is derivable from cutoff ranks** — no placement, fee, facility, or accreditation claims are made about any institution, verified or otherwise.
 
@@ -26,286 +26,289 @@ Ranked by merged composite position (lower = better). "Best cutoff" is that coll
 | # | College | KCET pos. | KCET best cutoff | ComedK pos. | ComedK best cutoff |
 |---|---|---|---|---|---|
 | 1 | R. V. College of Engineering | #1 | 285 | #1 | 418 |
-| 2 | M S Ramaiah Institute of Technology | #3 | 1,400 | #2 | 1,152 |
-| 3 | PES University 100 Feet Ring Road | #2 | 911 | — | — |
-| 4 | B M S College of Engineering (KCET E048, ComedK E027) | #4 | 2,680 | #3 | 3,268 |
+| 2 | M S Ramaiah Institute of Technology | #3 | 1,411 | #2 | 1,152 |
+| 3 | PES University 100 Feet Ring Road | #2 | 908 | — | — |
+| 4 | B M S College of Engineering (KCET E048, ComedK E027) | #4 | 2,641 | #3 | 3,268 |
 | 5 | B M S College of Engineering (KCET E003, ComedK E027) | #5 | 1,350 | #3 | 3,268 |
-| 6 | Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University) (KCET E284, ComedK E058) | #7 | 4,780 | #4 | 4,585 |
-| 7 | Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University) (KCET E021, ComedK E058) | #9 | 3,729 | #4 | 4,585 |
-| 8 | Dayananda Sagar College of Engineering | #11 | 5,036 | #5 | 5,407 |
-| 9 | JSS Science and Technology University JSS TECHNICAL INSTITUTIONS CAMPUS | #13 | 5,809 | #6 | 5,371 |
-| 10 | PES UNIVERSITY(Electronic City Campus) Hosur Rd | #6 | 4,176 | — | — |
-| 11 | R V Institute Of Technology and Management | #14 | 9,054 | #7 | 12,224 |
-| 12 | Bangalore Institute of Technology | #15 | 6,829 | #8 | 7,969 |
-| 13 | BMS UNIVERSITY BULL TEMPLE ROAD | #8 | 4,169 | — | — |
+| 6 | Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University) (KCET E284, ComedK E058) | #7 | 4,851 | #4 | 4,585 |
+| 7 | Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University) (KCET E021, ComedK E058) | #8 | 3,745 | #4 | 4,585 |
+| 8 | Dayananda Sagar College of Engineering | #11 | 5,483 | #5 | 5,407 |
+| 9 | JSS Science and Technology University JSS TECHNICAL INSTITUTIONS CAMPUS | #13 | 5,713 | #6 | 5,371 |
+| 10 | PES UNIVERSITY(Electronic City Campus) Hosur Rd | #6 | 4,160 | — | — |
+| 11 | R V Institute Of Technology and Management | #15 | 9,678 | #7 | 12,224 |
+| 12 | Bangalore Institute of Technology | #14 | 6,967 | #8 | 7,969 |
+| 13 | BMS UNIVERSITY BULL TEMPLE ROAD | #9 | 4,838 | — | — |
 | 14 | The National Institute of Engineering North Campus-Koorgalli, Mysuru | — | — | #9 | 13,499 |
-| 15 | Siddaganga Institute of Technology | #17 | 6,937 | #10 | 12,795 |
-| 16 | Univesity of Visvesvaraya College of Engineering (A State Autonomous Public University on IIT Model) K R Circle | #10 | 4,507 | — | — |
+| 15 | Siddaganga Institute of Technology | #17 | 7,110 | #10 | 12,795 |
+| 16 | Univesity of Visvesvaraya College of Engineering (A State Autonomous Public University on IIT Model) K R Circle | #10 | 4,540 | — | — |
 | 17 | B M S Institute of Technology & Management | #18 | 11,368 | #11 | 13,710 |
-| 18 | RV University (KCET E285) | #12 | 7,914 | — | — |
+| 18 | RV University (KCET E285) | #12 | 8,266 | — | — |
 | 19 | The National Institute of Engineering South Campus-Mananthavady Road, Mysuru | — | — | #12 | 15,026 |
-| 20 | P E S College of Engineering (KCET E023, ComedK E089) | #57 | 35,113 | #13 | 8,100 |
-| 21 | P E S College of Engineering (KCET E058, ComedK E089) | #61 | 39,407 | #13 | 8,100 |
-| 22 | C M R Institute of Technology | #25 | 15,127 | #14 | 15,439 |
-| 23 | Sir M.Visvesvaraya Institute of Technology | #32 | 15,603 | #15 | 20,326 |
-| 24 | B N M Institute of Technology | #22 | 13,503 | #16 | 22,838 |
-| 25 | The National Institute of Engineering (KCET E178) | #16 | 10,383 | — | — |
-| 26 | RNS Institute of Technology | #24 | 14,521 | #17 | 23,608 |
-| 27 | M . S . Ramaiah University of Applied Sciences UNIVERSITY HOUSE | #21 | 6,325 | #18 | 27,550 |
-| 28 | J S S Academy of Technical Education | #31 | 21,817 | #19 | 32,267 |
+| 20 | P E S College of Engineering (KCET E023, ComedK E089) | #56 | 35,113 | #13 | 8,100 |
+| 21 | P E S College of Engineering (KCET E058, ComedK E089) | #62 | 39,123 | #13 | 8,100 |
+| 22 | C M R Institute of Technology | #25 | 15,780 | #14 | 15,439 |
+| 23 | Sir M.Visvesvaraya Institute of Technology | #32 | 16,351 | #15 | 20,326 |
+| 24 | B N M Institute of Technology | #22 | 13,368 | #16 | 22,838 |
+| 25 | The National Institute of Engineering (KCET E178) | #16 | 10,958 | — | — |
+| 26 | RNS Institute of Technology | #23 | 14,549 | #17 | 23,608 |
+| 27 | M . S . Ramaiah University of Applied Sciences UNIVERSITY HOUSE | #21 | 6,730 | #18 | 27,550 |
+| 28 | J S S Academy of Technical Education | #30 | 22,193 | #19 | 32,267 |
 | 29 | The National Institute of Engineering (KCET E022) | #19 | 7,483 | — | — |
-| 30 | KLE Technological University(Formerly (BVBCET) BVBHOOMARADDI COLLEGE CAMPUS | #20 | 12,501 | — | — |
-| 31 | REVA University RUKMINI KNOWLEDGE PARK | #36 | 18,110 | #20 | 29,397 |
-| 32 | Dayananda Sagar Academy of Technology & Management Technical Campus | #34 | 20,093 | #21 | 31,045 |
-| 33 | SRI SIDDHARTHA SCHOOL OF ENGINEERING | #187 | 81,743 | #22 | 38,038 |
-| 34 | Dr. Ambedkar Institute of Technology (KCET E004, ComedK E042) | #23 | 13,592 | #24 | 34,539 |
-| 35 | KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi | — | — | #23 | 32,273 |
-| 36 | Dr. Ambedkar Institute of Technology (KCET E060, ComedK E042) | #37 | 19,413 | #24 | 34,539 |
-| 37 | Yenepoya Institute Of Technology | #190 | 1,09,643 | #25 | 43,323 |
-| 38 | RAMAIAH UNIVERSITY COLLEGE OF ENGINEERING (A CONSTITUENT COLLEGE OF M.S. RAMAIAH UNIVESITY OF APPLIED SCIENCES) NO 15 | #26 | 16,862 | #26 | 39,375 |
-| 39 | New Horizon College of Engineering | #27 | 19,390 | — | — |
-| 40 | SJB Institute of Technology | #41 | 25,177 | #27 | 45,613 |
-| 41 | Acharya Institute of Technology | #44 | 26,824 | #28 | 45,906 |
-| 42 | The National Institute of Engineering (KCET E056) | #28 | 9,966 | — | — |
+| 30 | KLE Technological University(Formerly (BVBCET) BVBHOOMARADDI COLLEGE CAMPUS | #20 | 12,890 | — | — |
+| 31 | REVA University RUKMINI KNOWLEDGE PARK | #38 | 18,629 | #20 | 29,397 |
+| 32 | Dayananda Sagar Academy of Technology & Management Technical Campus | #33 | 20,370 | #21 | 31,045 |
+| 33 | SRI SIDDHARTHA SCHOOL OF ENGINEERING | #193 | 87,887 | #22 | 38,038 |
+| 34 | KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi | — | — | #23 | 32,273 |
+| 35 | Dr. Ambedkar Institute of Technology (KCET E004, ComedK E042) | #24 | 15,082 | #24 | 34,539 |
+| 36 | Dr. Ambedkar Institute of Technology (KCET E060, ComedK E042) | #37 | 20,224 | #24 | 34,539 |
+| 37 | Yenepoya Institute Of Technology | #194 | 1,17,748 | #25 | 43,323 |
+| 38 | New Horizon College of Engineering | #26 | 19,480 | — | — |
+| 39 | RAMAIAH UNIVERSITY COLLEGE OF ENGINEERING (A CONSTITUENT COLLEGE OF M.S. RAMAIAH UNIVESITY OF APPLIED SCIENCES) NO 15 | #28 | 18,886 | #26 | 39,375 |
+| 40 | SJB Institute of Technology | #42 | 25,518 | #27 | 45,613 |
+| 41 | The National Institute of Engineering (KCET E056) | #27 | 9,966 | — | — |
+| 42 | Acharya Institute of Technology | #44 | 26,738 | #28 | 45,906 |
 | 43 | H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi | — | — | #29 | 55,355 |
-| 44 | RV University (KCET E316) | #29 | 21,604 | — | — |
-| 45 | Cambridge Institute Of Technology | #75 | 49,505 | #30 | 49,700 |
-| 46 | K.L.S. Gogte Institute of Technology | #30 | 14,102 | #31 | 43,519 |
-| 47 | KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal | — | — | #32 | 56,495 |
-| 48 | Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru | — | — | #33 | 56,531 |
-| 49 | SDM College of Engineering | #33 | 22,328 | #35 | 52,122 |
-| 50 | Srinivas Institute of Technology | #198 | 1,05,786 | #34 | 60,488 |
-| 51 | G S S S Institute of Engineering & Technology for Women | #35 | 20,981 | #36 | 50,593 |
-| 52 | Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru | — | — | #37 | 21,141 |
-| 53 | Global Academy of Technology | #45 | 32,747 | #38 | 52,780 |
-| 54 | Vidya Vardhaka College of Engineering | #38 | 22,381 | — | — |
-| 55 | Amruta Institute of Engineering & Management Science (AIEMS) | #163 | 1,19,572 | #39 | 66,385 |
-| 56 | Govt.S K S J T Institute of Engineering | #39 | 23,065 | — | — |
-| 57 | B V V Sangha`s Basaveshwara Engineering College (KCET E031) | #40 | 24,053 | — | — |
-| 58 | C M N Institute Of Technology #18 | #174 | 1,18,121 | #40 | 56,723 |
+| 44 | SDM College of Engineering | #29 | 22,335 | #35 | 52,122 |
+| 45 | Cambridge Institute Of Technology | #82 | 49,202 | #30 | 49,700 |
+| 46 | K.L.S. Gogte Institute of Technology | #35 | 13,933 | #31 | 43,519 |
+| 47 | RV University (KCET E316) | #31 | 21,744 | — | — |
+| 48 | KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal | — | — | #32 | 56,495 |
+| 49 | Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru | — | — | #33 | 56,531 |
+| 50 | G S S S Institute of Engineering & Technology for Women | #34 | 22,452 | #36 | 50,593 |
+| 51 | Srinivas Institute of Technology | #223 | 1,04,348 | #34 | 60,488 |
+| 52 | Vidya Vardhaka College of Engineering | #36 | 22,344 | — | — |
+| 53 | Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru | — | — | #37 | 21,141 |
+| 54 | Global Academy of Technology | #45 | 32,370 | #38 | 52,780 |
+| 55 | Amruta Institute of Engineering & Management Science (AIEMS) | #167 | 1,29,645 | #39 | 66,385 |
+| 56 | B V V Sangha`s Basaveshwara Engineering College (KCET E031) | #39 | 26,146 | — | — |
+| 57 | C M N Institute Of Technology #18 | #172 | 1,30,438 | #40 | 56,723 |
+| 58 | K L E Technological Univeristy | #40 | 23,995 | — | — |
 | 59 | GITAM Deemed to be University-Dodaballapur taluk, Bengaluru | — | — | #41 | 56,631 |
-| 60 | Sahyadri College Of Engineering & Management | #42 | 21,800 | #91 | 69,572 |
+| 60 | Sahyadri College Of Engineering & Management | #41 | 21,727 | #91 | 69,572 |
 | 61 | Vidyavardhaka College of Engineering-Gokulam, Mysuru | — | — | #42 | 64,699 |
-| 62 | K L E Technological Univeristy | #43 | 26,787 | — | — |
-| 63 | PRESIDENCY University ITGALPURA | #65 | 39,742 | #43 | 42,779 |
-| 64 | APS College of Engineering | #142 | 88,083 | #44 | 62,509 |
-| 65 | M S Engineering College | #208 | 1,10,175 | #45 | 46,129 |
-| 66 | Dayananda Sagar University DEVARAKAGGALAHALLI VILLAGE | #46 | 23,390 | — | — |
+| 62 | Govt.S K S J T Institute of Engineering | #43 | 26,221 | — | — |
+| 63 | PRESIDENCY University ITGALPURA | #69 | 38,590 | #43 | 42,779 |
+| 64 | APS College of Engineering | #155 | 98,302 | #44 | 62,509 |
+| 65 | M S Engineering College | #217 | 1,14,512 | #45 | 46,129 |
+| 66 | Dayananda Sagar University DEVARAKAGGALAHALLI VILLAGE | #46 | 24,615 | — | — |
 | 67 | KLE Technological University, Belagavi Campus. Formerly known as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi | — | — | #46 | 58,719 |
-| 68 | ATME College of Engineering | #110 | 53,800 | #47 | 66,007 |
-| 69 | Cambridge Institutute of Technology | #47 | 29,959 | — | — |
-| 70 | M V J College of Engineering | #48 | 27,962 | — | — |
-| 71 | S E A College of Engineering & Technology | #183 | 1,07,447 | #48 | 44,566 |
-| 72 | BGS College of Engineering & Technology | #49 | 34,260 | #56 | 71,006 |
+| 68 | ATME College of Engineering | #108 | 53,800 | #47 | 66,007 |
+| 69 | Cambridge Institutute of Technology | #47 | 29,674 | — | — |
+| 70 | M V J College of Engineering | #48 | 28,752 | — | — |
+| 71 | S E A College of Engineering & Technology | #174 | 1,13,047 | #48 | 44,566 |
+| 72 | BGS College of Engineering & Technology | #49 | 34,684 | #56 | 71,006 |
 | 73 | DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru | — | — | #49 | 64,511 |
 | 74 | Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru | — | — | #50 | 46,079 |
-| 75 | CMR University Main Campus | #50 | 28,597 | #54 | 53,141 |
-| 76 | THE CHANAKYA UNIVERSITY NO 29 HARALURU | #56 | 32,233 | #51 | 49,701 |
-| 77 | University B.D.T College of Engineering (KCET E061) | #51 | 35,238 | — | — |
+| 75 | University B.D.T College of Engineering (KCET E061) | #50 | 34,004 | — | — |
+| 76 | CMR University Main Campus | #51 | 29,296 | #54 | 53,141 |
+| 77 | THE CHANAKYA UNIVERSITY NO 29 HARALURU | #57 | 32,233 | #51 | 49,701 |
 | 78 | Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru | — | — | #52 | 69,786 |
-| 79 | St.Joseph Engineering College | #52 | 27,286 | — | — |
-| 80 | East Point College of Engineering & Technology | #78 | 51,015 | #53 | 64,203 |
-| 81 | K S Institute of Technology | #53 | 41,182 | #78 | 82,559 |
-| 82 | The Oxford College of Engineering | #54 | 41,194 | — | — |
-| 83 | ALLIANCE University Central Campus | #55 | 26,825 | — | — |
-| 84 | Shridevi Institute of Engineering & Technology | #152 | 95,851 | #55 | 86,241 |
-| 85 | K S School of Engineering & Management | #115 | 79,157 | #57 | 89,261 |
-| 86 | Jain College of Engineering | #58 | 40,370 | #70 | 78,222 |
-| 87 | K N S Institute of Technology | #168 | 82,788 | #58 | 75,295 |
-| 88 | Malnad College of Engineering (KCET E024, ComedK E079) | #59 | 33,324 | #85 | 55,388 |
-| 89 | Rajiv Gandhi Institute of Technology | #109 | 54,681 | #59 | 84,634 |
-| 90 | Atria Institute of Technology | #60 | 41,489 | #88 | 92,826 |
+| 79 | St.Joseph Engineering College | #52 | 29,594 | — | — |
+| 80 | East Point College of Engineering & Technology | #81 | 52,389 | #53 | 64,203 |
+| 81 | K S Institute of Technology | #53 | 40,299 | #78 | 82,559 |
+| 82 | ALLIANCE University Central Campus | #54 | 26,800 | — | — |
+| 83 | Shridevi Institute of Engineering & Technology | #151 | 1,02,623 | #55 | 86,241 |
+| 84 | The Oxford College of Engineering | #55 | 43,103 | — | — |
+| 85 | K S School of Engineering & Management | #118 | 81,390 | #57 | 89,261 |
+| 86 | K N S Institute of Technology | #171 | 90,608 | #58 | 75,295 |
+| 87 | Malnad College of Engineering (KCET E024, ComedK E079) | #58 | 33,705 | #85 | 55,388 |
+| 88 | Jain College of Engineering | #59 | 40,497 | #70 | 78,222 |
+| 89 | Rajiv Gandhi Institute of Technology | #114 | 57,631 | #59 | 84,634 |
+| 90 | Atria Institute of Technology | #60 | 41,426 | #88 | 92,826 |
 | 91 | SDM Institute of Technology, Tulu Minority-Ujjire, Dakshina Kannada | — | — | #60 | 63,365 |
-| 92 | P E S Institute of Technology & Management | #132 | 79,198 | #61 | 70,093 |
-| 93 | B V V Sangha`s Basaveshwara Engineering College (KCET E049) | #62 | 39,021 | — | — |
+| 92 | B V V Sangha`s Basaveshwara Engineering College (KCET E049) | #61 | 38,489 | — | — |
+| 93 | P E S Institute of Technology & Management | #133 | 90,369 | #61 | 70,093 |
 | 94 | Dr H N National College Of Engineering-Jayanagar, Bengaluru | — | — | #62 | 81,964 |
 | 95 | Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural | — | — | #63 | 46,764 |
-| 96 | Government Engineering College (KCET E155) | #63 | 43,433 | — | — |
-| 97 | Mangalore Institute of Technology & Engineering | #64 | 46,865 | #67 | 75,814 |
-| 98 | Sai Vidya Institute of Technology | #107 | 67,968 | #64 | 27,749 |
-| 99 | Jawaharlal Nehru New College of Engineering | #82 | 34,852 | #65 | 43,244 |
-| 100 | BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura | — | — | #66 | 87,610 |
-| 101 | G M Institute of Technology | #66 | 56,527 | #102 | 1,08,109 |
-| 102 | AMC Engineering College | #67 | 52,173 | #103 | 96,359 |
-| 103 | DONBOSCO Institute of Technology | #68 | 53,117 | — | — |
-| 104 | R.R. Institute of Technology | #173 | 1,06,857 | #68 | 80,206 |
-| 105 | KLE College of Engineering and Technology-Chikodi Dist., Belagavi | — | — | #69 | 92,978 |
-| 106 | University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E283) | #69 | 52,911 | — | — |
-| 107 | Rajarajeswari College of Engineering | #70 | 56,759 | — | — |
-| 108 | Ballari Institute of Technology & Management | #71 | 49,692 | #80 | 78,277 |
-| 109 | Vemana Institute of Technology | #90 | 55,520 | #71 | 78,458 |
-| 110 | Sri Siddhartha Institute of Technology MARALUR | #72 | 39,260 | — | — |
+| 96 | Government Engineering College (KCET E155) | #63 | 43,787 | — | — |
+| 97 | Mangalore Institute of Technology & Engineering | #64 | 47,244 | #67 | 75,814 |
+| 98 | Sai Vidya Institute of Technology | #110 | 68,953 | #64 | 27,749 |
+| 99 | Ballari Institute of Technology & Management | #65 | 49,618 | #80 | 78,277 |
+| 100 | Jawaharlal Nehru New College of Engineering | #88 | 34,852 | #65 | 43,244 |
+| 101 | B M S College of Architecture | #66 | 49,937 | — | — |
+| 102 | BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura | — | — | #66 | 87,610 |
+| 103 | G M Institute of Technology | #67 | 56,979 | #102 | 1,08,109 |
+| 104 | R.R. Institute of Technology | #170 | 1,06,738 | #68 | 80,206 |
+| 105 | Rajarajeswari College of Engineering | #68 | 56,759 | — | — |
+| 106 | KLE College of Engineering and Technology-Chikodi Dist., Belagavi | — | — | #69 | 92,978 |
+| 107 | AMC Engineering College | #70 | 52,173 | #103 | 96,359 |
+| 108 | DONBOSCO Institute of Technology | #71 | 54,965 | — | — |
+| 109 | Vemana Institute of Technology | #96 | 57,228 | #71 | 78,458 |
+| 110 | Jain College of Engineering and Technology | #72 | 57,464 | #105 | 1,08,701 |
 | 111 | SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi | — | — | #72 | 91,882 |
-| 112 | Dr. ACS College of Engineering | #119 | 55,795 | #73 | 65,477 |
-| 113 | Sapthagiri College of Engineering. | #73 | 49,666 | — | — |
-| 114 | Gopalan College of Engineering & Management | #121 | 78,446 | #74 | 85,759 |
-| 115 | Sharanbasava University (Formerly Appa Institute of Engineering and Tech) SHARNBASVESHWARA INSTITUTIONS CAMPUS | #74 | 44,764 | — | — |
-| 116 | City Engineering College | #182 | 1,12,705 | #75 | 94,354 |
-| 117 | Government Engineering College (KCET E292) | #76 | 62,286 | — | — |
+| 112 | Dr. ACS College of Engineering | #127 | 56,641 | #73 | 65,477 |
+| 113 | University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E283) | #73 | 53,302 | — | — |
+| 114 | Gopalan College of Engineering & Management | #119 | 82,572 | #74 | 85,759 |
+| 115 | Sapthagiri College of Engineering. | #74 | 49,160 | — | — |
+| 116 | City Engineering College | #181 | 1,20,417 | #75 | 94,354 |
+| 117 | P D A College of Engineering (KCET E041) | #75 | 45,367 | — | — |
 | 118 | Maharaja Institute of Technology-Thandavapura, Mysuru | — | — | #76 | 85,961 |
-| 119 | Jain College of Engineering and Technology | #77 | 58,510 | #105 | 1,08,701 |
-| 120 | Shri Swami Nagabhushan Gurukul College of Engineering and Technology Post Halasangi Taluka | #220 | 2,50,946 | #77 | 13,237 |
-| 121 | Bheemanna Khandre Institute of Technology | #148 | 57,481 | #79 | 1,00,095 |
-| 122 | Visvesvaraya Technological University (KCET E289) | #79 | 60,100 | — | — |
-| 123 | K L E S's K L E College of Engineering & Technology | #80 | 49,980 | — | — |
-| 124 | Jain College Of Engineering and Research | #81 | 56,324 | #94 | 1,04,941 |
-| 125 | Jyothy Institute of Technology-Tathguni, Bengaluru | — | — | #81 | 75,431 |
-| 126 | Bapuji Institute of Engineering & Technology | #89 | 43,592 | #82 | 73,182 |
-| 127 | Bangalore Technological Institute | #166 | 98,108 | #83 | 88,526 |
-| 128 | Government Engineering College (KCET E162) | #83 | 62,083 | — | — |
-| 129 | East West Institute Of Technology | #96 | 53,385 | #84 | 73,567 |
-| 130 | Vidyashilp University #125 | #84 | 54,566 | — | — |
-| 131 | Malnad College of Engineering (KCET E047, ComedK E079) | #99 | 34,038 | #85 | 55,388 |
-| 132 | VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E279) | #85 | 52,684 | — | — |
-| 133 | Sri Krishna Institute of Technology | #153 | 1,16,977 | #86 | 1,01,985 |
-| 134 | Vidya Vikas Institute of Engineering & Technology | #86 | 66,607 | — | — |
-| 135 | Maharaja Institute of Technology | #88 | 58,416 | #87 | 69,793 |
-| 136 | Maharaja Institute of Technology Mysore | #91 | 47,749 | #87 | 69,793 |
-| 137 | P D A College of Engineering (KCET E041) | #87 | 47,280 | — | — |
-| 138 | SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSURU Plot No. 4 | #127 | 74,737 | #89 | 86,511 |
-| 139 | T.John Institute of technology | #160 | 80,495 | #90 | 99,111 |
-| 140 | P D A College of Engineering (KCET E059) | #92 | 50,641 | — | — |
-| 141 | Sri Venkateshwara College of Engineering | #100 | 60,165 | #92 | 93,687 |
-| 142 | BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology | #93 | 42,938 | — | — |
+| 119 | Visvesvaraya Technological University (KCET E289) | #76 | 59,968 | — | — |
+| 120 | Shri Swami Nagabhushan Gurukul College of Engineering and Technology Post Halasangi Taluka | #214 | 2,48,102 | #77 | 13,237 |
+| 121 | Sri Siddhartha Institute of Technology MARALUR | #77 | 43,698 | — | — |
+| 122 | Sharanbasava University (Formerly Appa Institute of Engineering and Tech) SHARNBASVESHWARA INSTITUTIONS CAMPUS | #78 | 49,285 | — | — |
+| 123 | Bheemanna Khandre Institute of Technology | #146 | 57,481 | #79 | 1,00,095 |
+| 124 | Government Engineering College (KCET E292) | #79 | 62,286 | — | — |
+| 125 | Government Engineering College (KCET E162) | #80 | 62,083 | — | — |
+| 126 | Jyothy Institute of Technology-Tathguni, Bengaluru | — | — | #81 | 75,431 |
+| 127 | Bapuji Institute of Engineering & Technology | #87 | 43,282 | #82 | 73,182 |
+| 128 | Bangalore Technological Institute | #182 | 1,00,271 | #83 | 88,526 |
+| 129 | Maharaja Institute of Technology | #83 | 63,998 | #87 | 69,793 |
+| 130 | East West Institute Of Technology | #97 | 56,434 | #84 | 73,567 |
+| 131 | Jain College Of Engineering and Research | #84 | 56,862 | #94 | 1,04,941 |
+| 132 | Malnad College of Engineering (KCET E047, ComedK E079) | #98 | 33,645 | #85 | 55,388 |
+| 133 | VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E279) | #85 | 52,684 | — | — |
+| 134 | K L E S's K L E College of Engineering & Technology | #86 | 56,324 | — | — |
+| 135 | Sri Krishna Institute of Technology | #147 | 96,986 | #86 | 1,01,985 |
+| 136 | Maharaja Institute of Technology Mysore | #90 | 50,235 | #87 | 69,793 |
+| 137 | SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSURU Plot No. 4 | #123 | 80,530 | #89 | 86,511 |
+| 138 | Vidyashilp University #125 | #89 | 57,743 | — | — |
+| 139 | T.John Institute of technology | #154 | 83,277 | #90 | 99,111 |
+| 140 | BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology | #91 | 42,838 | — | — |
+| 141 | Government Engineering College (KCET E272) | #92 | 70,254 | — | — |
+| 142 | Sri Venkateshwara College of Engineering | #101 | 60,877 | #92 | 93,687 |
 | 143 | Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru | — | — | #93 | 97,162 |
-| 144 | Visvesvaraya Technological University (KCET E290) | #94 | 65,282 | — | — |
-| 145 | Brindavan College of Engineering | #154 | 96,809 | #95 | 1,03,707 |
-| 146 | Government Engineering College (KCET E272) | #95 | 70,150 | — | — |
-| 147 | Jain Institute of Technology | #162 | 1,03,007 | #96 | 1,05,475 |
-| 148 | Basaveshwar Engineering College-Vidya Nagar, Bagalkote | — | — | #97 | 1,01,225 |
-| 149 | East West College Of Engineering | #97 | 69,243 | #100 | 92,004 |
-| 150 | AMITY UNIVERSITY National Highway 648 (old 207) | #98 | 47,535 | — | — |
-| 151 | Cambridge Institute of Technology North Campus-Kundana, Bengaluru | — | — | #98 | 80,761 |
-| 152 | ISBR College of Engineering and Technology 29-P1 AND 30 | #159 | 92,492 | #99 | 1,04,735 |
-| 153 | S J C Institute of Technology | #105 | 54,101 | #101 | 42,945 |
-| 154 | University B.D.T College of Engineering (KCET E066) | #101 | 66,141 | — | — |
-| 155 | Jyothi Institute of Technology | #102 | 59,001.5 | — | — |
-| 156 | Channabasaveshwara Institute of Technology | #103 | 67,238 | — | — |
-| 157 | Nagarjuna College of Engineering & Technology | #122 | 75,091 | #104 | 88,650 |
-| 158 | Sharanbasava University (Exclusively for Women) (Formerly Goduati Engineering College For Women) SHARNBASVESHWARA INSTITUTIONS CAMPUS | #104 | 68,444 | — | — |
-| 159 | Garden City University 16th KM | #191 | 1,00,905 | #106 | 1,10,006 |
-| 160 | Government Engineering College (KCET E163) | #106 | 83,607 | — | — |
-| 161 | Government Engineering College (KCET E157) | #108 | 84,102 | — | — |
-| 162 | S.S.E.T.S.S.G.Balekundri Institute of Technology | #111 | 72,057 | — | — |
-| 163 | GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS BENGALURU NH 207 | #112 | 66,725 | — | — |
-| 164 | K L S Viswanathrao Deshpande Institute of Technology | #113 | 77,966 | — | — |
-| 165 | Government Engineering College (KCET E281) | #114 | 73,971 | — | — |
-| 166 | Alva's Institute of Engineering & Technology | #116 | 71,644 | — | — |
-| 167 | H N N COLLEGE OF ENGINEERING BENGALURU | #117 | 94,086 | — | — |
-| 168 | Government Engineering College (KCET E164) | #118 | 92,536 | — | — |
-| 169 | Gurunanak Dev Engineering College | #120 | 53,926 | — | — |
-| 170 | Government Engineering College (KCET E273) | #123 | 93,189 | — | — |
-| 171 | H.K.B.K.College of Engineering | #124 | 77,187 | — | — |
-| 172 | Khaja Bandanawaz University KBN University Street | #125 | 95,263 | — | — |
-| 173 | University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E321) | #126 | 65,658 | — | — |
-| 174 | Government Engineering College (KCET E154) | #128 | 99,178 | — | — |
-| 175 | K R PET KRISHNA | #129 | 1,02,152 | — | — |
-| 176 | Government Engineering College (KCET E161) | #130 | 1,02,048 | — | — |
-| 177 | Angadi Institute of Technology and Management | #131 | 95,540 | — | — |
-| 178 | Government Engineering College (KCET E291) | #133 | 96,808 | — | — |
-| 179 | VTU Constituent Engineering College (KCET E315) | #134 | 93,988 | — | — |
-| 180 | Government Engineering College (KCET E194) | #135 | 1,05,036 | — | — |
-| 181 | Government Engineering College (KCET E274) | #136 | 87,035 | — | — |
-| 182 | H K E's Society's Sir M Visvesvaraya College of Engineering | #137 | 85,071 | — | — |
-| 183 | KISHKINDA UNIVERSITY MOUNT VIEW CAMPUS | #138 | 91,099 | — | — |
-| 184 | Hira Sugar Institute of Technology | #139 | 1,02,668 | — | — |
-| 185 | Adhichunchanagiri University (Formerly B G S Institute of Technology) B.G.NAGARA | #140 | 85,114 | — | — |
-| 186 | CONSTITUENT COLLEGE OF VTU (KCET E308) | #141 | 97,767 | — | — |
-| 187 | K C T Engineering College | #143 | 1,13,827 | — | — |
-| 188 | Adhichunchanagiri Institute of Technology | #144 | 58,580 | — | — |
-| 189 | Secab Institute of Engineering & Technology | #145 | 1,00,465 | — | — |
-| 190 | Canara Engineering College Bantwal | #146 | 78,866 | — | — |
-| 191 | Smt. Kamala & Sri Venkappa M.Agadi College of Engineering & Technology | #147 | 91,573 | — | — |
-| 192 | S J M Institute of Technology | #149 | 1,09,672 | — | — |
-| 193 | Navodaya Institute of Technology | #150 | 92,635 | — | — |
-| 194 | Sri Sairam College Of Engineering | #151 | 95,998 | — | — |
-| 195 | VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E278) | #155 | 1,21,324 | — | — |
-| 196 | GOVERNMENT ENGINEERING COLLEGE | #156 | 86,806 | — | — |
-| 197 | Tontadarya College of Engineering | #157 | 1,05,955 | — | — |
-| 198 | Sambhram Institute of Technology | #158 | 95,162 | — | — |
-| 199 | AGM College of Engineering and Technology | #161 | 1,15,626 | — | — |
-| 200 | AGM Rural Engineering College | #164 | 1,10,092 | — | — |
-| 201 | NAVKIS COLLEGE OF ENGINEERING | #165 | 1,11,504 | — | — |
-| 202 | Mysore College Of Engineering and Management | #167 | 92,265 | — | — |
-| 203 | A J Institute Of Engineering And Technology.Kottar chowki Boloor Village Mangalore KOTTARA CHOWKI BOLOOR VILLAGE | #169 | 75,025 | — | — |
-| 204 | Shri Madhwa Vadiraja Institute of Technology and Management | #170 | 79,421 | — | — |
-| 205 | Vivekananada Institute of Technology | #171 | 1,14,940 | — | — |
-| 206 | R.T.E. Soceity's Rural Engineering College | #172 | 1,08,536 | — | — |
-| 207 | Moodalakatte Institute of Technology | #175 | 80,971 | — | — |
-| 208 | Shetty Institute of Technology | #176 | 1,40,154 | — | — |
-| 209 | Dr.T.Thimmaiah Institute of Technology | #177 | 1,16,189 | — | — |
-| 210 | GM University KARUR VILLAGE | #178 | 61,982 | — | — |
-| 211 | Lingarajappa Engineering College | #179 | 1,42,773 | — | — |
-| 212 | ANUVARTIK MIRJI BHARATESH INSTITUTE OF TECHNOLOGY Chandragiri Campus | #180 | 1,07,922 | — | — |
-| 213 | Krupanidhi Institute of Technology NO 12/1 | #181 | 1,12,094 | — | — |
-| 214 | Ghousia Engineering College | #184 | 97,092 | — | — |
-| 215 | P A College of Engineering | #185 | 69,298 | — | — |
-| 216 | AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY PRASANNAHALLI MAIN RAOD | #186 | 1,45,090 | — | — |
-| 217 | Biluru Gurubasava Mahaswamiji Institute of Technology | #188 | 1,41,494 | — | — |
-| 218 | HARSHA INSTITUTE OF TECHNOLOGY VARADANAYAKANA HALLY VILLAGE | #189 | 1,27,617 | — | — |
-| 219 | Mysuru Royal Institute Of Technology | #192 | 1,07,305 | — | — |
-| 220 | Sri Revana Siddeswara Institute of Technology | #193 | 1,98,297 | — | — |
-| 221 | Coorg Institute of Technology | #194 | 1,17,248 | — | — |
-| 222 | Shreedevi Institute of Technology | #195 | 1,07,153 | — | — |
-| 223 | Maratha Mandal Engineering College | #196 | 1,36,145 | — | — |
-| 224 | Sri Taralabalu Jagadguru Institute of Technology | #197 | 1,73,843 | — | — |
-| 225 | Rajeev Institute of Technology | #199 | 1,50,045 | — | — |
-| 226 | Proudadevaraya Institute of Technology | #200 | 1,60,757 | — | — |
-| 227 | CONSTITUENT COLLEGE OF VTU (KCET E309) | #201 | 1,69,574 | — | — |
-| 228 | Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering | #202 | 1,56,220 | — | — |
-| 229 | Bahubali College of Engineering | #203 | 1,67,763 | — | — |
-| 230 | V S M`s Somashekhar R Kothiwale Institute of Technology | #204 | 1,72,781 | — | — |
-| 231 | Beary's Institute of Technology | #205 | 1,48,845 | — | — |
-| 232 | Kalpatharu Institute of Technology | #206 | 1,11,210 | — | — |
-| 233 | KOSHYS INSTITUTE OF TECHNOLOGY BENGALURU | #207 | 1,68,935 | — | — |
-| 234 | Akshaya Institute of Technology | #209 | 1,38,929 | — | — |
-| 235 | C Byre Gowda Institute of Technology | #210 | 2,05,963 | — | — |
-| 236 | S D M Institute of Tech. | #211 | 1,35,547 | — | — |
-| 237 | RATHINAM INSTITUTE OF TECHNOLOGY DODDAKAMMANAHALLY VILLAGE | #212 | 2,08,175 | — | — |
-| 238 | BASAV ENGINEERING SCHOOL OF TECHNOLOGY | #213 | 2,36,503 | — | — |
-| 239 | Karavali Institute of Technology | #214 | 1,42,788 | — | — |
-| 240 | Vijaya Vittala Institute of Technology | #215 | 1,40,106 | — | — |
-| 241 | Anjuman Institute of Technology & Management | #216 | 1,63,032 | — | — |
-| 242 | SJB School of Achitecture & Planning | #217 | 2,51,450 | — | — |
-| 243 | ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY SURVEY NO 2/8 2/9 AND 2/2 | #218 | 1,18,917 | — | — |
-| 244 | Rao Bahadur Y.Mahabaleswarappa Engineering College | #219 | 1,26,798 | — | — |
-| 245 | CAUVERY COLLEGE OF ENGINEERING KBL LAYOUT | #221 | 1,48,097 | — | — |
-| 246 | Dhanwantari Institute of Technology 39/1 | #222 | 1,98,186 | — | — |
-| 247 | Cauvery institute of Technology | #223 | 1,28,342 | — | — |
-| 248 | Vivekananada College of Engineering Technology | #224 | 93,062 | — | — |
-| 249 | Ghousia Institute of Technology for Women | #225 | 2,60,978 | — | — |
-| 250 | Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU | #226 | 2,49,526 | — | — |
-| 251 | Impact College of Engineering & Applied Sciences | #227 | 1,43,343 | — | — |
-| 252 | Sri Basaveswara Institute of Technology | #228 | 1,34,945 | — | — |
-| 253 | G Madegowda Institute of Technology | #229 | 2,38,125 | — | — |
-| 254 | R.L.Jalappa Institute of Technology | #230 | 1,45,689 | — | — |
-| 255 | Basavakalyana Engineering College | #231 | 1,34,719 | — | — |
-| 256 | K V G College of Engineering | #232 | 2,50,274 | — | — |
-| 257 | NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD | #233 | 2,13,045 | — | — |
-| 258 | Veerappa Nisty Engineering College | #234 | 1,23,797 | — | — |
-| 259 | RAI TECHNOLOGICAL UNIVERSITY 11TH MILE GALLU | #235 | 2,75,809 | — | — |
-| 260 | Sampoorna Group of Institutions | #236 | 1,95,333 | — | — |
-| 261 | Future Forge Engineering Academy VIDYANAGAR | #237 | 2,68,585 | — | — |
-| 262 | VTU Constituent Engineering College (KCET E317) | #238 | 2,47,422 | — | — |
-| 263 | Jnanavikasa Institute of Technology | #239 | 2,71,608 | — | — |
+| 144 | Visvesvaraya Technological University (KCET E290) | #93 | 65,754 | — | — |
+| 145 | P D A College of Engineering (KCET E059) | #94 | 47,681 | — | — |
+| 146 | Brindavan College of Engineering | #148 | 89,719 | #95 | 1,03,707 |
+| 147 | Vidya Vikas Institute of Engineering & Technology | #95 | 70,791 | — | — |
+| 148 | Jain Institute of Technology | #163 | 98,144 | #96 | 1,05,475 |
+| 149 | Basaveshwar Engineering College-Vidya Nagar, Bagalkote | — | — | #97 | 1,01,225 |
+| 150 | Cambridge Institute of Technology North Campus-Kundana, Bengaluru | — | — | #98 | 80,761 |
+| 151 | AMITY UNIVERSITY National Highway 648 (old 207) | #99 | 49,334 | — | — |
+| 152 | ISBR College of Engineering and Technology 29-P1 AND 30 | #156 | 90,510 | #99 | 1,04,735 |
+| 153 | East West College Of Engineering | #103 | 76,887 | #100 | 92,004 |
+| 154 | Jyothi Institute of Technology | #100 | 61,099 | — | — |
+| 155 | S J C Institute of Technology | #106 | 55,954 | #101 | 42,945 |
+| 156 | University B.D.T College of Engineering (KCET E066) | #102 | 65,990 | — | — |
+| 157 | GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS BENGALURU NH 207 | #104 | 67,114 | — | — |
+| 158 | Nagarjuna College of Engineering & Technology | #126 | 76,177 | #104 | 88,650 |
+| 159 | Government Engineering College (KCET E163) | #105 | 83,678 | — | — |
+| 160 | Garden City University 16th KM | #186 | 1,00,905 | #106 | 1,10,006 |
+| 161 | Sharanbasava University (Exclusively for Women) (Formerly Goduati Engineering College For Women) SHARNBASVESHWARA INSTITUTIONS CAMPUS | #107 | 68,444 | — | — |
+| 162 | Channabasaveshwara Institute of Technology | #109 | 67,238 | — | — |
+| 163 | Government Engineering College (KCET E157) | #111 | 89,103 | — | — |
+| 164 | S.S.E.T.S.S.G.Balekundri Institute of Technology | #112 | 72,510 | — | — |
+| 165 | K L S Viswanathrao Deshpande Institute of Technology | #113 | 74,686 | — | — |
+| 166 | Gurunanak Dev Engineering College | #115 | 57,451 | — | — |
+| 167 | Alva's Institute of Engineering & Technology | #116 | 76,156 | — | — |
+| 168 | Government Engineering College (KCET E281) | #117 | 75,625 | — | — |
+| 169 | H.K.B.K.College of Engineering | #120 | 69,919 | — | — |
+| 170 | H N N COLLEGE OF ENGINEERING BENGALURU | #121 | 96,932 | — | — |
+| 171 | Government Engineering College (KCET E164) | #122 | 94,782 | — | — |
+| 172 | Khaja Bandanawaz University KBN University Street | #124 | 97,676 | — | — |
+| 173 | Government Engineering College (KCET E273) | #125 | 96,878 | — | — |
+| 174 | Government Engineering College (KCET E291) | #128 | 97,843 | — | — |
+| 175 | University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E321) | #129 | 65,658 | — | — |
+| 176 | Angadi Institute of Technology and Management | #130 | 95,540 | — | — |
+| 177 | Government Engineering College (KCET E154) | #131 | 1,05,432 | — | — |
+| 178 | VTU Constituent Engineering College (KCET E315) | #132 | 97,745 | — | — |
+| 179 | Government Engineering College (KCET E274) | #134 | 91,717 | — | — |
+| 180 | H K E's Society's Sir M Visvesvaraya College of Engineering | #135 | 89,082 | — | — |
+| 181 | Government Engineering College (KCET E161) | #136 | 1,08,566 | — | — |
+| 182 | Hira Sugar Institute of Technology | #137 | 1,06,737 | — | — |
+| 183 | Secab Institute of Engineering & Technology | #138 | 1,02,349 | — | — |
+| 184 | Adhichunchanagiri University (Formerly B G S Institute of Technology) B.G.NAGARA | #139 | 85,114 | — | — |
+| 185 | K R PET KRISHNA | #140 | 1,13,241 | — | — |
+| 186 | Government Engineering College (KCET E194) | #141 | 1,08,594 | — | — |
+| 187 | Smt. Kamala & Sri Venkappa M.Agadi College of Engineering & Technology | #142 | 91,573 | — | — |
+| 188 | KISHKINDA UNIVERSITY MOUNT VIEW CAMPUS | #143 | 91,099 | — | — |
+| 189 | Canara Engineering College Bantwal | #144 | 83,747 | — | — |
+| 190 | K C T Engineering College | #145 | 1,19,223 | — | — |
+| 191 | S J M Institute of Technology | #149 | 1,03,732 | — | — |
+| 192 | Adhichunchanagiri Institute of Technology | #150 | 59,884 | — | — |
+| 193 | CONSTITUENT COLLEGE OF VTU (KCET E308) | #152 | 1,18,980 | — | — |
+| 194 | Sri Sairam College Of Engineering | #153 | 99,520 | — | — |
+| 195 | Tontadarya College of Engineering | #157 | 1,09,545 | — | — |
+| 196 | VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E278) | #158 | 1,26,067 | — | — |
+| 197 | GOVERNMENT ENGINEERING COLLEGE | #159 | 92,125 | — | — |
+| 198 | Navodaya Institute of Technology | #160 | 95,211 | — | — |
+| 199 | Sambhram Institute of Technology | #161 | 96,484 | — | — |
+| 200 | NAVKIS COLLEGE OF ENGINEERING | #162 | 1,07,469 | — | — |
+| 201 | AGM Rural Engineering College | #164 | 1,10,199 | — | — |
+| 202 | GM University KARUR VILLAGE | #165 | 67,761 | — | — |
+| 203 | A J Institute Of Engineering And Technology.Kottar chowki Boloor Village Mangalore KOTTARA CHOWKI BOLOOR VILLAGE | #166 | 87,385 | — | — |
+| 204 | Mysore College Of Engineering and Management | #168 | 97,220 | — | — |
+| 205 | AGM College of Engineering and Technology | #169 | 1,47,356 | — | — |
+| 206 | ANUVARTIK MIRJI BHARATESH INSTITUTE OF TECHNOLOGY Chandragiri Campus | #173 | 99,126 | — | — |
+| 207 | Vivekananada Institute of Technology | #175 | 1,20,160 | — | — |
+| 208 | Lingarajappa Engineering College | #176 | 1,39,885 | — | — |
+| 209 | Moodalakatte Institute of Technology | #177 | 83,945 | — | — |
+| 210 | Krupanidhi Institute of Technology NO 12/1 | #178 | 1,15,105 | — | — |
+| 211 | R.T.E. Soceity's Rural Engineering College | #179 | 1,07,776 | — | — |
+| 212 | Vivekananada College of Engineering Technology | #180 | 75,660 | — | — |
+| 213 | Shetty Institute of Technology | #183 | 1,41,872 | — | — |
+| 214 | Biluru Gurubasava Mahaswamiji Institute of Technology | #184 | 1,40,926 | — | — |
+| 215 | P A College of Engineering | #185 | 73,768 | — | — |
+| 216 | Mysuru Royal Institute Of Technology | #187 | 1,03,910 | — | — |
+| 217 | AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY PRASANNAHALLI MAIN RAOD | #188 | 1,37,178 | — | — |
+| 218 | Dr.T.Thimmaiah Institute of Technology | #189 | 1,26,894 | — | — |
+| 219 | Ghousia Engineering College | #190 | 99,204 | — | — |
+| 220 | Shri Madhwa Vadiraja Institute of Technology and Management | #191 | 82,310 | — | — |
+| 221 | Coorg Institute of Technology | #192 | 1,29,099 | — | — |
+| 222 | School of Planning and Architecture | #195 | 2,08,174 | — | — |
+| 223 | Shreedevi Institute of Technology | #196 | 1,39,774 | — | — |
+| 224 | Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering | #197 | 1,56,220 | — | — |
+| 225 | Maratha Mandal Engineering College | #198 | 1,46,503 | — | — |
+| 226 | Sir M V School of Architecture | #199 | 2,08,276 | — | — |
+| 227 | Proudadevaraya Institute of Technology | #200 | 1,56,828 | — | — |
+| 228 | Bahubali College of Engineering | #201 | 1,51,345 | — | — |
+| 229 | Rajeev Institute of Technology | #202 | 1,57,195 | — | — |
+| 230 | V S M`s Somashekhar R Kothiwale Institute of Technology | #203 | 1,57,670 | — | — |
+| 231 | HARSHA INSTITUTE OF TECHNOLOGY VARADANAYAKANA HALLY VILLAGE | #204 | 1,14,904 | — | — |
+| 232 | Rao Bahadur Y.Mahabaleswarappa Engineering College | #205 | 1,19,992 | — | — |
+| 233 | CONSTITUENT COLLEGE OF VTU (KCET E309) | #206 | 1,77,196 | — | — |
+| 234 | Beary's Institute of Technology | #207 | 1,55,264 | — | — |
+| 235 | Kalpatharu Institute of Technology | #208 | 1,12,480 | — | — |
+| 236 | KOSHYS INSTITUTE OF TECHNOLOGY BENGALURU | #209 | 1,52,566 | — | — |
+| 237 | C Byre Gowda Institute of Technology | #210 | 2,05,963 | — | — |
+| 238 | RATHINAM INSTITUTE OF TECHNOLOGY DODDAKAMMANAHALLY VILLAGE | #211 | 2,08,175 | — | — |
+| 239 | S D M Institute of Tech. | #212 | 1,45,902 | — | — |
+| 240 | ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY SURVEY NO 2/8 2/9 AND 2/2 | #213 | 1,21,927 | — | — |
+| 241 | Vijaya Vittala Institute of Technology | #215 | 1,30,322 | — | — |
+| 242 | Sri Taralabalu Jagadguru Institute of Technology | #216 | 2,15,724 | — | — |
+| 243 | Sri Basaveswara Institute of Technology | #218 | 1,34,945 | — | — |
+| 244 | RAI TECHNOLOGICAL UNIVERSITY 11TH MILE GALLU | #219 | 1,63,234 | — | — |
+| 245 | Cauvery institute of Technology | #220 | 1,28,638 | — | — |
+| 246 | Sri Revana Siddeswara Institute of Technology | #221 | 2,55,371 | — | — |
+| 247 | CAUVERY COLLEGE OF ENGINEERING KBL LAYOUT | #222 | 1,46,404 | — | — |
+| 248 | Anjuman Institute of Technology & Management | #224 | 1,98,306 | — | — |
+| 249 | NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD | #225 | 1,86,647 | — | — |
+| 250 | Ghousia Institute of Technology for Women | #226 | 2,60,978 | — | — |
+| 251 | Impact College of Engineering & Applied Sciences | #227 | 1,48,863 | — | — |
+| 252 | G Madegowda Institute of Technology | #228 | 2,62,872 | — | — |
+| 253 | Akshaya Institute of Technology | #229 | 1,34,729 | — | — |
+| 254 | Dhanwantari Institute of Technology 39/1 | #230 | 1,55,904 | — | — |
+| 255 | R.L.Jalappa Institute of Technology | #231 | 1,51,981 | — | — |
+| 256 | BASAV ENGINEERING SCHOOL OF TECHNOLOGY | #232 | 2,67,911 | — | — |
+| 257 | K V G College of Engineering | #233 | 2,50,274 | — | — |
+| 258 | Basavakalyana Engineering College | #234 | 1,37,627 | — | — |
+| 259 | SJB School of Achitecture & Planning | #235 | 2,73,839 | — | — |
+| 260 | Karavali Institute of Technology | #236 | 1,73,241 | — | — |
+| 261 | Veerappa Nisty Engineering College | #237 | 1,23,797 | — | — |
+| 262 | Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU | #238 | 2,60,751 | — | — |
+| 263 | Future Forge Engineering Academy VIDYANAGAR | #239 | 2,75,807 | — | — |
+| 264 | Sampoorna Group of Institutions | #240 | 2,70,919 | — | — |
+| 265 | VTU Constituent Engineering College (KCET E317) | #241 | 2,47,422 | — | — |
+| 266 | Jnanavikasa Institute of Technology | #242 | 2,74,301 | — | — |
 
 ## Branch category competitiveness (within all colleges)
 
 Median cutoff rank per branch category, computed only across these colleges — lower median = more competitive category overall. Use this to answer "is Category A more competitive than Category B" questions.
 
-### KCET — Round 2 Mock
+### KCET — Round 2
 
 | Branch category | Colleges offering it | Branches counted | Median cutoff | Best (lowest) | Loosest (highest) |
 |---|---|---|---|---|---|
-| Biotechnology & Life Sciences | 22 | 22 | 36,714 | 5,960 | 69,298 |
-| Aerospace | 24 | 28 | 54,948 | 1,604 | 2,33,451 |
-| Chemical & Polymer | 11 | 11 | 55,365 | 5,961 | 1,19,327 |
-| Computer Science & IT | 232 | 825 | 92,265 | 285 | 2,82,548 |
-| Electronics & Communication | 225 | 262 | 1,09,575 | 555.5 | 2,82,306 |
-| Electrical & Electronics | 104 | 104 | 1,13,827 | 975 | 2,82,075 |
-| Mechanical & Allied | 167 | 195 | 1,95,124 | 3,736 | 2,82,467 |
-| Other Branches | 16 | 18 | 2,16,775 | 38,740 | 2,82,471 |
-| Civil & Construction | 159 | 161 | 2,45,116 | 7,842 | 2,82,256 |
+| Biotechnology & Life Sciences | 22 | 22 | 37,538 | 5,960 | 73,768 |
+| Chemical & Polymer | 11 | 11 | 54,081 | 6,088 | 1,21,610 |
+| Aerospace | 24 | 28 | 56,298 | 1,662 | 2,77,832 |
+| Computer Science & IT | 232 | 828 | 92,238 | 285 | 2,82,548 |
+| Electronics & Communication | 224 | 261 | 1,09,227 | 584 | 2,82,306 |
+| Electrical & Electronics | 105 | 105 | 1,15,707 | 961 | 2,82,075 |
+| Mechanical & Allied | 166 | 195 | 2,12,229 | 3,774 | 2,82,467 |
+| Other Branches | 19 | 24 | 2,18,355 | 49,937 | 2,82,471 |
+| Civil & Construction | 154 | 156 | 2,41,913 | 8,184 | 2,82,256 |
 
 ### ComedK — Round 3
 
@@ -321,39 +324,39 @@ Median cutoff rank per branch category, computed only across these colleges — 
 | Aerospace | 13 | 15 | 77,845 | 3,113 | 1,07,114 |
 | Civil & Construction | 22 | 22 | 87,336 | 10,199 | 1,09,684 |
 
-## KCET Round 1 → Round 2 Mock movement (within all colleges)
+## KCET Round 2 Mock → Round 2 movement (within all colleges)
 
 Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest ranks) — a transition that tightens more than usual (e.g. a Mock round settling into an official round) is expected to be a one-off, not the norm. These are the largest individual college+branch swings in scope.
 
 **Loosened the most:**
 
-| College | Branch | Round 1 rank | Round 2 Mock rank | Change |
+| College | Branch | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| S D M Institute of Tech. | Computer Science and Engineering | 92,688 | 2,76,829 | +198.7% |
-| KISHKINDA UNIVERSITY MOUNT VIEW CAMPUS | Btech in Pharmaceutica L Engineering | 96,224 | 2,63,586 | +173.9% |
-| SJB School of Achitecture & Planning | Design | 91,802 | 2,51,450 | +173.9% |
-| P D A College of Engineering | Ceramics & Cement Engineering | 1,04,567 | 2,82,471 | +170.1% |
-| M S Engineering College | Computer Science and Engineering (Cyber Security) | 1,06,844 | 2,78,222.5 | +160.4% |
-| Sri Revana Siddeswara Institute of Technology | Electronics and Communication Engg | 1,08,357 | 2,81,323 | +159.6% |
-| Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU | B Tech in Artificial Intelligence and Machine Learning | 1,06,931 | 2,76,587 | +158.7% |
-| Vivekananada College of Engineering Technology | Computer Science and Engineering | 1,02,749 | 2,60,685 | +153.7% |
-| Proudadevaraya Institute of Technology | Computer Science and Engineering | 1,06,825 | 2,70,362 | +153.1% |
-| Canara Engineering College Bantwal | Electronics and Communication Engg | 1,11,450 | 2,77,577 | +149.1% |
+| Jawaharlal Nehru New College of Engineering | Electronics and Telecommunica Tion Engineering | 1,46,979 | 2,81,632 | +91.6% |
+| K.L.S. Gogte Institute of Technology | Industrial Design | 1,43,293 | 2,44,428 | +70.6% |
+| Shri Madhwa Vadiraja Institute of Technology and Management | Artificial Intelligence and Data Science | 1,51,854 | 2,41,277 | +58.9% |
+| ALLIANCE University Central Campus | Production Engineering | 1,69,571 | 2,67,646 | +57.8% |
+| Anjuman Institute of Technology & Management | Electronics and Communication Engg | 1,63,032 | 2,39,591 | +47.0% |
+| Ghousia Engineering College | Electronics and Communication Engg | 1,93,576 | 2,77,434 | +43.3% |
+| St.Joseph Engineering College | Civil Engineering | 1,89,447 | 2,70,645 | +42.9% |
+| THE CHANAKYA UNIVERSITY NO 29 HARALURU | B Tech in Civil Engineering | 1,54,045 | 2,16,111 | +40.3% |
+| Shreedevi Institute of Technology | Artificial Intelligence and Data Science | 1,07,153 | 1,48,981 | +39.0% |
+| Sampoorna Group of Institutions | Artificial Intelligence and Data Science | 1,95,333 | 2,70,919 | +38.7% |
 
 **Tightened the most:**
 
-| College | Branch | Round 1 rank | Round 2 Mock rank | Change |
+| College | Branch | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Veerappa Nisty Engineering College | Electrical & Electronics Engineering | 2,66,185 | 1,23,797 | -53.5% |
-| Sri Basaveswara Institute of Technology | Electronics and Communication Engg | 2,82,267 | 1,34,945 | -52.2% |
-| Srinivas Institute of Technology | Information Science and Engineering | 2,76,130 | 1,87,520 | -32.1% |
-| Krupanidhi Institute of Technology NO 12/1 | Electrical & Electronics Engineering | 2,57,093 | 1,78,960 | -30.4% |
-| C Byre Gowda Institute of Technology | Information Science and Engineering | 2,63,696 | 2,05,963 | -21.9% |
-| Anjuman Institute of Technology & Management | Electronics and Communication Engg | 2,06,529 | 1,63,032 | -21.1% |
-| Srinivas Institute of Technology | Computer Science and Design | 2,65,394 | 2,11,337 | -20.4% |
-| Shreedevi Institute of Technology | Civil Engineering | 2,80,071 | 2,35,414 | -15.9% |
-| Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering | Information Science and Engineering | 1,81,180 | 1,56,220 | -13.8% |
-| Beary's Institute of Technology | Civil Engineering | 2,77,645 | 2,39,766 | -13.6% |
+| Vivekananada College of Engineering Technology | Civil Engineering | 2,55,794 | 75,660 | -70.4% |
+| Vivekananada College of Engineering Technology | Computer Science and Engineering(Da Ta Science) | 2,67,120 | 1,66,641 | -37.6% |
+| Coorg Institute of Technology | Civil Engineering | 2,60,901 | 1,64,812 | -36.8% |
+| Vivekananada College of Engineering Technology | Electronics and Communication Engg | 2,51,979 | 1,75,710 | -30.3% |
+| NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD | Electronics and Communication Engg | 2,59,779 | 1,86,647 | -28.2% |
+| R.R. Institute of Technology | Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | 2,18,271 | 1,60,868 | -26.3% |
+| GM University KARUR VILLAGE | Robotics and Automation | 1,91,243 | 1,42,734 | -25.4% |
+| S E A College of Engineering & Technology | Electronics and Communication Engg | 2,50,849 | 1,89,448 | -24.5% |
+| Rao Bahadur Y.Mahabaleswarappa Engineering College | Computer Science and Engineering(Da Ta Science) | 2,79,248 | 2,18,837 | -21.6% |
+| Dhanwantari Institute of Technology 39/1 | Electrical & Electronics Engineering | 1,98,186 | 1,55,904 | -21.3% |
 
 ## ComedK Round 1 → Round 3 movement (within all colleges)
 
@@ -393,26 +396,26 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #1 — R. V. College of Engineering
 
-**KCET code:** E005 · **Composite rank:** #1 of 239 KCET colleges (score 748.3)
+**KCET code:** E005 · **Composite rank:** #1 of 242 KCET colleges (score 741.8)
 **ComedK code:** E095 · **Composite rank:** #1 of 106 ComedK colleges (score 1,009)
 
-**KCET branches — Round 2 Mock, GM category** (13 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (13 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 144 | 285 | +97.9% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 243 | 434 | +78.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 266 | 454 | +70.7% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 288 | 483 | +67.7% |
-| Electronics and Communication Engg | Electronics & Communication | 375 | 555.5 | +48.1% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 632 | 742 | +17.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 721 | 975 | +35.2% |
-| Aero Space Engineering | Aerospace | 959 | 1,604 | +67.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,458 | 3,736 | +52.0% |
-| Bio-Technology | Biotechnology & Life Sciences | 2,783 | 5,960 | +114.2% |
-| Chemical Engineering | Chemical & Polymer | 4,067 | 5,961 | +46.6% |
-| Civil Engineering | Civil & Construction | 5,266 | 7,842 | +48.9% |
-| Industrial Engineering & Management | Mechanical & Allied | 6,656 | 9,042 | +35.8% |
+| Computer Science and Engineering | Computer Science & IT | 285 | 285 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 434 | 424 | -2.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 454 | 448 | -1.3% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 483 | 481 | -0.4% |
+| Electronics and Communication Engg | Electronics & Communication | 555.5 | 584 | +5.1% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 742 | 722 | -2.7% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 975 | 961 | -1.4% |
+| Aero Space Engineering | Aerospace | 1,604 | 1,662 | +3.6% |
+| Mechanical Engineering | Mechanical & Allied | 3,736 | 3,774 | +1.0% |
+| Bio-Technology | Biotechnology & Life Sciences | 5,960 | 5,960 | 0.0% |
+| Chemical Engineering | Chemical & Polymer | 5,961 | 6,088 | +2.1% |
+| Civil Engineering | Civil & Construction | 7,842 | 8,184 | +4.4% |
+| Industrial Engineering & Management | Mechanical & Allied | 9,042 | 8,893 | -1.6% |
 
 **ComedK branches — Round 3, GM category** (13 branches; most competitive category: Computer Science & IT):
 
@@ -434,30 +437,30 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #2 — M S Ramaiah Institute of Technology
 
-**KCET code:** E006 · **Composite rank:** #3 of 239 KCET colleges (score 2,894.9)
+**KCET code:** E006 · **Composite rank:** #3 of 242 KCET colleges (score 2,803.8)
 **ComedK code:** E077 · **Composite rank:** #2 of 106 ComedK colleges (score 2,943.3)
 
-**KCET branches — Round 2 Mock, GM category** (17 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (17 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 976 | 1,400 | +43.4% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,250 | 1,783 | +42.6% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,650 | 2,080 | +26.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,557 | 2,121 | +36.2% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,483 | 2,189 | +47.6% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 1,612 | 2,359 | +46.3% |
-| Information Science and Engineering | Computer Science & IT | 2,104 | 2,820 | +34.0% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 2,861 | 4,302.75 | +50.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,431 | 4,701 | +93.4% |
-| Aero Space Engineering | Aerospace | 2,777 | 4,919 | +77.1% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 3,675 | 5,677 | +54.5% |
-| Bio-Technology | Biotechnology & Life Sciences | 4,010 | 9,273.5 | +131.3% |
-| Mechanical Engineering | Mechanical & Allied | 7,676 | 10,452 | +36.2% |
-| Chemical Engineering | Chemical & Polymer | 10,110 | 14,053 | +39.0% |
-| Industrial Engineering & Management | Mechanical & Allied | 14,834 | 19,665 | +32.6% |
-| Medical Electronics Engineering | Electronics & Communication | 8,593 | 19,682 | +129.0% |
-| Civil Engineering | Civil & Construction | 12,463 | 21,043.75 | +68.8% |
+| Computer Science and Engineering | Computer Science & IT | 1,400 | 1,411 | +0.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,783 | 1,763 | -1.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,080 | 1,914 | -8.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,121 | 2,094 | -1.3% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,189 | 2,255 | +3.0% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 2,359 | 2,342 | -0.7% |
+| Information Science and Engineering | Computer Science & IT | 2,820 | 2,761 | -2.1% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 4,302.75 | 4,164 | -3.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 4,701 | 4,481 | -4.7% |
+| Aero Space Engineering | Aerospace | 4,919 | 5,092.5 | +3.5% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 5,677 | 5,677 | 0.0% |
+| Bio-Technology | Biotechnology & Life Sciences | 9,273.5 | 9,273.5 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 10,452 | 10,607 | +1.5% |
+| Chemical Engineering | Chemical & Polymer | 14,053 | 12,656 | -9.9% |
+| Medical Electronics Engineering | Electronics & Communication | 19,682 | 18,753 | -4.7% |
+| Industrial Engineering & Management | Mechanical & Allied | 19,665 | 19,665 | 0.0% |
+| Civil Engineering | Civil & Construction | 21,043.75 | 20,323 | -3.4% |
 
 **ComedK branches — Round 3, GM category** (17 branches; most competitive category: Computer Science & IT):
 
@@ -483,40 +486,40 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #3 — PES University 100 Feet Ring Road
 
-**KCET code:** E009 · **Composite rank:** #2 of 239 KCET colleges (score 1,409.5)
+**KCET code:** E009 · **Composite rank:** #2 of 242 KCET colleges (score 1,397.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering | Computer Science & IT | 628 | 911 | +45.1% |
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 971 | 1,303 | +34.2% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,223 | 1,682 | +37.5% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 1,550 | 3,309 | +113.5% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 4,935 | 7,090 | +43.7% |
-| B Tech in Bio- Technology | Biotechnology & Life Sciences | 4,479 | 7,876 | +75.8% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 911 | 908 | -0.3% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 1,303 | 1,303 | 0.0% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,682 | 1,682 | 0.0% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 3,309 | 3,165 | -4.4% |
+| B Tech in Bio- Technology | Biotechnology & Life Sciences | 7,876 | 7,475 | -5.1% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 7,090 | 7,991 | +12.7% |
 
 ### #4 — B M S College of Engineering (KCET E048, ComedK E027)
 
-**KCET code:** E048 · **Composite rank:** #4 of 239 KCET colleges (score 3,863.2)
+**KCET code:** E048 · **Composite rank:** #4 of 242 KCET colleges (score 3,700.7)
 **ComedK code:** E027 · **Composite rank:** #3 of 106 ComedK colleges (score 4,128.3)
 
-**KCET branches — Round 2 Mock, GM category** (11 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (11 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 2,204 | 2,680 | +21.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,920 | 2,865 | +49.2% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 2,255 | 3,278 | +45.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,084 | 3,364.625 | +61.5% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 2,102 | 3,490 | +66.0% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,388 | 3,629 | +52.0% |
-| Computer Science and Business Systems | Computer Science & IT | 2,550 | 3,976 | +55.9% |
-| Bio-Technology | Biotechnology & Life Sciences | 5,022 | 10,706 | +113.2% |
-| Mechanical Engineering | Mechanical & Allied | 6,844 | 10,839.5 | +58.4% |
-| Chemical Engineering | Chemical & Polymer | 9,627 | 12,656 | +31.5% |
-| Civil Engineering | Civil & Construction | 22,210 | 30,006 | +35.1% |
+| Electronics and Communication Engg | Electronics & Communication | 2,680 | 2,641 | -1.5% |
+| Computer Science and Engineering | Computer Science & IT | 2,865 | 2,856 | -0.3% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 3,278 | 3,076 | -6.2% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 3,364.625 | 3,233 | -3.9% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 3,490 | 3,308 | -5.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 3,629 | 3,610 | -0.5% |
+| Computer Science and Business Systems | Computer Science & IT | 3,976 | 3,912 | -1.6% |
+| Bio-Technology | Biotechnology & Life Sciences | 10,706 | 10,320 | -3.6% |
+| Mechanical Engineering | Mechanical & Allied | 10,839.5 | 10,965 | +1.2% |
+| Chemical Engineering | Chemical & Polymer | 12,656 | 12,195 | -3.6% |
+| Civil Engineering | Civil & Construction | 30,006 | 28,829 | -3.9% |
 
 **ComedK branches — Round 3, GM category** (11 branches; most competitive category: Computer Science & IT):
 
@@ -536,18 +539,18 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #5 — B M S College of Engineering (KCET E003, ComedK E027)
 
-**KCET code:** E003 · **Composite rank:** #5 of 239 KCET colleges (score 4,403)
+**KCET code:** E003 · **Composite rank:** #5 of 242 KCET colleges (score 4,144)
 **ComedK code:** E027 · **Composite rank:** #3 of 106 ComedK colleges (score 4,128.3)
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 1,049 | 1,350 | +28.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 3,248 | 4,793 | +47.6% |
-| Mechanical Engineering | Mechanical & Allied | 6,144 | 8,047 | +31.0% |
-| Industrial Engineering & Management | Mechanical & Allied | 17,336 | 19,949.5 | +15.1% |
-| Civil Engineering | Civil & Construction | 19,141 | 20,173 | +5.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,350 | 1,350 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 4,793 | 4,572 | -4.6% |
+| Mechanical Engineering | Mechanical & Allied | 8,047 | 7,922 | -1.6% |
+| Industrial Engineering & Management | Mechanical & Allied | 19,949.5 | 19,680 | -1.4% |
+| Civil Engineering | Civil & Construction | 20,173 | 21,025 | +4.2% |
 
 **ComedK branches — Round 3, GM category** (11 branches; most competitive category: Computer Science & IT):
 
@@ -567,14 +570,14 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #6 — Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University) (KCET E284, ComedK E058)
 
-**KCET code:** E284 · **Composite rank:** #7 of 239 KCET colleges (score 4,780)
+**KCET code:** E284 · **Composite rank:** #7 of 242 KCET colleges (score 4,851)
 **ComedK code:** E058 · **Composite rank:** #4 of 106 ComedK colleges (score 4,585)
 
-**KCET branches — Round 2 Mock, GM category** (1 branch; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (1 branch; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 3,197 | 4,780 | +49.5% |
+| Computer Science and Engineering | Computer Science & IT | 4,780 | 4,851 | +1.5% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -584,22 +587,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #7 — Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University) (KCET E021, ComedK E058)
 
-**KCET code:** E021 · **Composite rank:** #9 of 239 KCET colleges (score 5,416.8)
+**KCET code:** E021 · **Composite rank:** #8 of 242 KCET colleges (score 5,258.3)
 **ComedK code:** E058 · **Composite rank:** #4 of 106 ComedK colleges (score 4,585)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 2,625 | 3,729 | +42.1% |
-| Electronics and Communication Engg | Electronics & Communication | 3,698 | 4,699 | +27.1% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 10,539 | 14,516 | +37.7% |
-| Electronics & Instrumentatio N Engineering | Electronics & Communication | 13,775 | 19,168 | +39.2% |
-| Mechanical Engineering | Mechanical & Allied | 23,631 | 29,522 | +24.9% |
-| Civil Engineering | Civil & Construction | 40,139 | 45,155 | +12.5% |
-| Industrial & Production Engineering | Mechanical & Allied | 56,838 | 65,891 | +15.9% |
-| Environmental Engineering | Civil & Construction | 54,081 | 80,573.5 | +49.0% |
-| Polymer Science & Technology | Chemical & Polymer | 78,374 | 1,19,327 | +52.3% |
+| Computer Science and Engineering | Computer Science & IT | 3,729 | 3,745 | +0.4% |
+| Electronics and Communication Engg | Electronics & Communication | 4,699 | 4,712 | +0.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 14,516 | 15,201 | +4.7% |
+| Electronics & Instrumentatio N Engineering | Electronics & Communication | 19,168 | 19,168 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 29,522 | 29,645 | +0.4% |
+| Civil Engineering | Civil & Construction | 45,155 | 45,948 | +1.8% |
+| Industrial & Production Engineering | Mechanical & Allied | 65,891 | 67,074 | +1.8% |
+| Environmental Engineering | Civil & Construction | 80,573.5 | 90,418 | +12.2% |
+| Polymer Science & Technology | Chemical & Polymer | 1,19,327 | 1,21,610 | +1.9% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -609,28 +612,28 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #8 — Dayananda Sagar College of Engineering
 
-**KCET code:** E007 · **Composite rank:** #11 of 239 KCET colleges (score 7,354.9)
+**KCET code:** E007 · **Composite rank:** #11 of 242 KCET colleges (score 7,497)
 **ComedK code:** E040 · **Composite rank:** #5 of 106 ComedK colleges (score 8,009)
 
-**KCET branches — Round 2 Mock, GM category** (15 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (15 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 3,572 | 5,036 | +41.0% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 3,898 | 5,727 | +46.9% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 4,112 | 5,894 | +43.3% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 4,096 | 6,127 | +49.6% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 4,593 | 6,481 | +41.1% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 5,184 | 7,078 | +36.5% |
-| Electronics and Communication Engg | Electronics & Communication | 4,834 | 7,147 | +47.8% |
-| Aeronautical Engineering | Aerospace | 6,173 | 9,275 | +50.3% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 8,710 | 12,646 | +45.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 9,513 | 14,638 | +53.9% |
-| Bio-Technology | Biotechnology & Life Sciences | 6,832 | 15,576 | +128.0% |
-| Mechanical Engineering | Mechanical & Allied | 15,873 | 20,555 | +29.5% |
-| Chemical Engineering | Chemical & Polymer | 19,607 | 27,605 | +40.8% |
-| Automobile Engineering | Mechanical & Allied | 22,938 | 29,555 | +28.8% |
-| Civil Engineering | Civil & Construction | 49,666 | 61,141 | +23.1% |
+| Computer Science and Engineering | Computer Science & IT | 5,036 | 5,483 | +8.9% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 5,727 | 5,727 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 6,127 | 6,192 | +1.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 5,894 | 6,271.5 | +6.4% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 6,481 | 6,793 | +4.8% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 7,078 | 7,192 | +1.6% |
+| Electronics and Communication Engg | Electronics & Communication | 7,147 | 7,382 | +3.3% |
+| Aeronautical Engineering | Aerospace | 9,275 | 8,877 | -4.3% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 12,646 | 12,785 | +1.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 14,638 | 15,080 | +3.0% |
+| Bio-Technology | Biotechnology & Life Sciences | 15,576 | 15,140 | -2.8% |
+| Mechanical Engineering | Mechanical & Allied | 20,555 | 20,328 | -1.1% |
+| Chemical Engineering | Chemical & Polymer | 27,605 | 27,165 | -1.6% |
+| Automobile Engineering | Mechanical & Allied | 29,555 | 36,125 | +22.2% |
+| Civil Engineering | Civil & Construction | 61,141 | 61,970 | +1.4% |
 
 **ComedK branches — Round 3, GM category** (15 branches; most competitive category: Computer Science & IT):
 
@@ -654,22 +657,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #9 — JSS Science and Technology University JSS TECHNICAL INSTITUTIONS CAMPUS
 
-**KCET code:** E057 · **Composite rank:** #13 of 239 KCET colleges (score 8,558.2)
+**KCET code:** E057 · **Composite rank:** #13 of 242 KCET colleges (score 8,531.8)
 **ComedK code:** E061 · **Composite rank:** #6 of 106 ComedK colleges (score 11,303)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 4,409 | 5,809 | +31.8% |
-| Electronics and Communication Engg | Electronics & Communication | 4,665 | 6,370 | +36.5% |
-| Computer Science and Engineering | Computer Science & IT | 4,537 | 6,728 | +48.3% |
-| Information Science and Engineering | Computer Science & IT | 6,241 | 7,877 | +26.2% |
-| Computer Science and Business Systems | Computer Science & IT | 7,205 | 9,406 | +30.5% |
-| Bio-Technology | Biotechnology & Life Sciences | 8,903 | 21,087 | +136.9% |
-| Mechanical Engineering | Mechanical & Allied | 25,069 | 31,574 | +25.9% |
-| Civil Engineering | Civil & Construction | 49,500 | 61,869 | +25.0% |
-| Construction Technology and Mgmt | Civil & Construction | 75,221 | 1,22,379 | +62.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 5,809 | 5,713 | -1.7% |
+| Electronics and Communication Engg | Electronics & Communication | 6,370 | 5,957 | -6.5% |
+| Computer Science and Engineering | Computer Science & IT | 6,728 | 6,724 | -0.1% |
+| Information Science and Engineering | Computer Science & IT | 7,877 | 7,869 | -0.1% |
+| Computer Science and Business Systems | Computer Science & IT | 9,406 | 9,299 | -1.1% |
+| Bio-Technology | Biotechnology & Life Sciences | 21,087 | 20,580 | -2.4% |
+| Mechanical Engineering | Mechanical & Allied | 31,574 | 31,837 | +0.8% |
+| Civil Engineering | Civil & Construction | 61,869 | 61,869 | 0.0% |
+| Construction Technology and Mgmt | Civil & Construction | 1,22,379 | 1,38,284 | +13.0% |
 
 **ComedK branches — Round 3, GM category** (6 branches; most competitive category: Computer Science & IT):
 
@@ -684,29 +687,29 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #10 — PES UNIVERSITY(Electronic City Campus) Hosur Rd
 
-**KCET code:** E141 · **Composite rank:** #6 of 239 KCET colleges (score 4,428.1)
+**KCET code:** E141 · **Composite rank:** #6 of 242 KCET colleges (score 4,405.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 3,345 | 4,176 | +24.8% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 3,057 | 4,227 | +38.3% |
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 3,477 | 4,672 | +34.4% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 4,176 | 4,160 | -0.4% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 4,227 | 4,217 | -0.2% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 4,672 | 4,633 | -0.8% |
 
 ### #11 — R V Institute Of Technology and Management
 
-**KCET code:** E275 · **Composite rank:** #14 of 239 KCET colleges (score 9,701.3)
+**KCET code:** E275 · **Composite rank:** #15 of 242 KCET colleges (score 10,190.6)
 **ComedK code:** E198 · **Composite rank:** #7 of 106 ComedK colleges (score 13,123.6)
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 5,464 | 9,054 | +65.7% |
-| Electronics and Communication Engg | Electronics & Communication | 6,575 | 9,687 | +47.3% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 6,113 | 10,351 | +69.3% |
+| Computer Science and Engineering | Computer Science & IT | 9,054 | 9,678 | +6.9% |
+| Electronics and Communication Engg | Electronics & Communication | 9,687 | 9,687 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 10,351 | 10,783 | +4.2% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -718,26 +721,26 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #12 — Bangalore Institute of Technology
 
-**KCET code:** E008 · **Composite rank:** #15 of 239 KCET colleges (score 9,758)
+**KCET code:** E008 · **Composite rank:** #14 of 242 KCET colleges (score 9,886.4)
 **ComedK code:** E019 · **Composite rank:** #8 of 106 ComedK colleges (score 13,136.5)
 
-**KCET branches — Round 2 Mock, GM category** (13 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (13 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 4,567 | 6,829 | +49.5% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 4,839 | 7,695 | +59.0% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 5,213 | 8,119 | +55.7% |
-| Electronics and Communication Engg | Electronics & Communication | 5,628 | 8,555 | +52.0% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 5,458 | 8,897 | +63.0% |
-| Information Science and Engineering | Computer Science & IT | 6,245 | 9,443 | +51.2% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 6,191 | 11,126 | +79.7% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 7,522 | 11,363 | +51.1% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 10,406 | 15,403 | +48.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 11,793 | 18,282 | +55.0% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 13,166 | 22,686 | +72.3% |
-| Mechanical Engineering | Mechanical & Allied | 27,757 | 34,398 | +23.9% |
-| Civil Engineering | Civil & Construction | 51,350 | 66,522 | +29.5% |
+| Computer Science and Engineering | Computer Science & IT | 6,829 | 6,967 | +2.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 7,695 | 8,289 | +7.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 8,119 | 8,470 | +4.3% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 8,897 | 8,975 | +0.9% |
+| Electronics and Communication Engg | Electronics & Communication | 8,555 | 9,438 | +10.3% |
+| Information Science and Engineering | Computer Science & IT | 9,443 | 9,963 | +5.5% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 11,126 | 12,070 | +8.5% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 11,363 | 12,462 | +9.7% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 15,403 | 16,131 | +4.7% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 18,282 | 19,738.5 | +8.0% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 22,686 | 24,563 | +8.3% |
+| Mechanical Engineering | Mechanical & Allied | 34,398 | 33,966 | -1.3% |
+| Civil Engineering | Civil & Construction | 66,522 | 65,343 | -1.8% |
 
 **ComedK branches — Round 3, GM category** (13 branches; most competitive category: Computer Science & IT):
 
@@ -759,16 +762,16 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #13 — BMS UNIVERSITY BULL TEMPLE ROAD
 
-**KCET code:** E318 · **Composite rank:** #8 of 239 KCET colleges (score 5,118.3)
+**KCET code:** E318 · **Composite rank:** #9 of 242 KCET colleges (score 5,633.4)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,870 | 4,169 | +122.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 2,318 | 4,851 | +109.3% |
-| B.Tech in Artifical Intellience and Robotics | Computer Science & IT | 2,770 | 6,113 | +120.7% |
+| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 4,169 | 4,838 | +16.0% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 4,851 | 5,512 | +13.6% |
+| B.Tech in Artifical Intellience and Robotics | Computer Science & IT | 6,113 | 6,448 | +5.5% |
 
 ### #14 — The National Institute of Engineering North Campus-Koorgalli, Mysuru
 
@@ -784,24 +787,24 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #15 — Siddaganga Institute of Technology
 
-**KCET code:** E016 · **Composite rank:** #17 of 239 KCET colleges (score 12,480.7)
+**KCET code:** E016 · **Composite rank:** #17 of 242 KCET colleges (score 12,219.7)
 **ComedK code:** E125 · **Composite rank:** #10 of 106 ComedK colleges (score 14,636.8)
 
-**KCET branches — Round 2 Mock, GM category** (11 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (11 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 5,920 | 6,937 | +17.2% |
-| Computer Science and Engineering | Computer Science & IT | 6,526 | 10,144 | +55.4% |
-| Information Science and Engineering | Computer Science & IT | 8,705 | 13,120 | +50.7% |
-| Electronics and Communication Engg | Electronics & Communication | 9,208 | 13,663 | +48.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 14,546 | 22,890 | +57.4% |
-| Bio-Technology | Biotechnology & Life Sciences | 14,369 | 26,879 | +87.1% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 23,329 | 29,572.5 | +26.8% |
-| Chemical Engineering | Chemical & Polymer | 30,535 | 40,565 | +32.8% |
-| Mechanical Engineering | Mechanical & Allied | 45,906 | 52,773 | +15.0% |
-| Industrial Engineering & Management | Mechanical & Allied | 42,892 | 57,429 | +33.9% |
-| Civil Engineering | Civil & Construction | 57,549 | 67,051 | +16.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 6,937 | 7,110 | +2.5% |
+| Computer Science and Engineering | Computer Science & IT | 10,144 | 10,040 | -1.0% |
+| Information Science and Engineering | Computer Science & IT | 13,120 | 12,969 | -1.2% |
+| Electronics and Communication Engg | Electronics & Communication | 13,663 | 13,625 | -0.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 22,890 | 22,519 | -1.6% |
+| Bio-Technology | Biotechnology & Life Sciences | 26,879 | 26,879 | 0.0% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 29,572.5 | 30,691 | +3.8% |
+| Chemical Engineering | Chemical & Polymer | 40,565 | 40,196 | -0.9% |
+| Mechanical Engineering | Mechanical & Allied | 52,773 | 53,095 | +0.6% |
+| Industrial Engineering & Management | Mechanical & Allied | 57,429 | 58,405 | +1.7% |
+| Civil Engineering | Civil & Construction | 67,051 | 64,345 | -4.0% |
 
 **ComedK branches — Round 3, GM category** (6 branches; most competitive category: Computer Science & IT):
 
@@ -816,37 +819,37 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #16 — Univesity of Visvesvaraya College of Engineering (A State Autonomous Public University on IIT Model) K R Circle
 
-**KCET code:** E001 · **Composite rank:** #10 of 239 KCET colleges (score 6,327.5)
+**KCET code:** E001 · **Composite rank:** #10 of 242 KCET colleges (score 6,356.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 2,952 | 4,507 | +52.7% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 3,571 | 5,567.5 | +55.9% |
-| Electronics and Communication Engg | Electronics & Communication | 4,082 | 5,782 | +41.6% |
-| Information Science and Engineering | Computer Science & IT | 4,016 | 5,997.5 | +49.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 9,426 | 15,273 | +62.0% |
-| Mechanical Engineering | Mechanical & Allied | 22,974 | 30,751 | +33.9% |
-| Civil Engineering | Civil & Construction | 37,819 | 49,126 | +29.9% |
+| Computer Science and Engineering | Computer Science & IT | 4,507 | 4,540 | +0.7% |
+| Electronics and Communication Engg | Electronics & Communication | 5,782 | 5,650 | -2.3% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 5,567.5 | 5,743 | +3.2% |
+| Information Science and Engineering | Computer Science & IT | 5,997.5 | 6,123 | +2.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 15,273 | 15,273 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 30,751 | 29,352 | -4.5% |
+| Civil Engineering | Civil & Construction | 49,126 | 49,126 | 0.0% |
 
 ### #17 — B M S Institute of Technology & Management
 
-**KCET code:** E126 · **Composite rank:** #18 of 239 KCET colleges (score 12,951.7)
+**KCET code:** E126 · **Composite rank:** #18 of 242 KCET colleges (score 13,071.2)
 **ComedK code:** E028 · **Composite rank:** #11 of 106 ComedK colleges (score 15,433)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 9,243 | 11,368 | +23.0% |
-| Computer Science and Engineering | Computer Science & IT | 8,487 | 11,837 | +39.5% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 9,242 | 12,386 | +34.0% |
-| Computer Science and Business Systems | Computer Science & IT | 9,689 | 13,408 | +38.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 11,271 | 17,729 | +57.3% |
-| Mechanical Engineering | Mechanical & Allied | 18,930 | 30,598 | +61.6% |
-| Civil Engineering | Civil & Construction | 38,660 | 58,173 | +50.5% |
+| Electronics and Communication Engg | Electronics & Communication | 11,368 | 11,368 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 11,837 | 12,006 | +1.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 12,386 | 12,655.5 | +2.2% |
+| Computer Science and Business Systems | Computer Science & IT | 13,408 | 13,213.5 | -1.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 17,729 | 16,919 | -4.6% |
+| Mechanical Engineering | Mechanical & Allied | 30,598 | 29,600 | -3.3% |
+| Civil Engineering | Civil & Construction | 58,173 | 54,650.5 | -6.1% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -862,14 +865,14 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #18 — RV University (KCET E285)
 
-**KCET code:** E285 · **Composite rank:** #12 of 239 KCET colleges (score 7,914)
+**KCET code:** E285 · **Composite rank:** #12 of 242 KCET colleges (score 8,266)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (1 branch; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (1 branch; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering | Computer Science & IT | 4,709 | 7,914 | +68.1% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 7,914 | 8,266 | +4.4% |
 
 ### #19 — The National Institute of Engineering South Campus-Mananthavady Road, Mysuru
 
@@ -886,17 +889,17 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #20 — P E S College of Engineering (KCET E023, ComedK E089)
 
-**KCET code:** E023 · **Composite rank:** #57 of 239 KCET colleges (score 51,620.3)
+**KCET code:** E023 · **Composite rank:** #56 of 242 KCET colleges (score 50,334)
 **ComedK code:** E089 · **Composite rank:** #13 of 106 ComedK colleges (score 18,483.7)
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 28,639 | 35,113 | +22.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 43,277 | 55,453 | +28.1% |
-| Mechanical Engineering | Mechanical & Allied | 85,203 | 1,01,837 | +19.5% |
-| Civil Engineering | Civil & Construction | 1,06,896 | 1,35,966 | +27.2% |
+| Electronics and Communication Engg | Electronics & Communication | 35,113 | 35,113 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 55,453 | 59,391 | +7.1% |
+| Mechanical Engineering | Mechanical & Allied | 1,01,837 | 1,03,455 | +1.6% |
+| Civil Engineering | Civil & Construction | 1,35,966 | 1,31,956 | -2.9% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Electronics & Communication):
 
@@ -912,23 +915,23 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #21 — P E S College of Engineering (KCET E058, ComedK E089)
 
-**KCET code:** E058 · **Composite rank:** #61 of 239 KCET colleges (score 54,080.2)
+**KCET code:** E058 · **Composite rank:** #62 of 242 KCET colleges (score 54,844.8)
 **ComedK code:** E089 · **Composite rank:** #13 of 106 ComedK colleges (score 18,483.7)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 28,359 | 39,407 | +39.0% |
-| Computer Science and Engineering | Computer Science & IT | 32,298 | 43,006 | +33.2% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 36,920 | 50,256 | +36.1% |
-| Electronics and Communication Engg | Electronics & Communication | 41,025 | 50,459 | +23.0% |
-| Information Science and Engineering | Computer Science & IT | 39,796 | 55,200 | +38.7% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 47,455 | 61,450 | +29.5% |
-| Computer Science and Business Systems | Computer Science & IT | 53,437 | 62,383 | +16.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 51,199 | 63,306 | +23.6% |
-| Electronics and Communication Engg (Vlsi Design and Technology) | Electronics & Communication | 48,360 | 64,277 | +32.9% |
-| Civil Engineering | Civil & Construction | 97,644 | 1,47,514 | +51.1% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 39,407 | 39,123 | -0.7% |
+| Computer Science and Engineering | Computer Science & IT | 43,006 | 44,230 | +2.8% |
+| Electronics and Communication Engg | Electronics & Communication | 50,459 | 50,613 | +0.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 50,256 | 50,919 | +1.3% |
+| Information Science and Engineering | Computer Science & IT | 55,200 | 56,116 | +1.7% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 61,450 | 62,844 | +2.3% |
+| Computer Science and Business Systems | Computer Science & IT | 62,383 | 64,006 | +2.6% |
+| Electronics and Communication Engg (Vlsi Design and Technology) | Electronics & Communication | 64,277 | 64,392 | +0.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 63,306 | 69,738 | +10.2% |
+| Civil Engineering | Civil & Construction | 1,47,514 | 1,45,302 | -1.5% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Electronics & Communication):
 
@@ -944,20 +947,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #22 — C M R Institute of Technology
 
-**KCET code:** E097 · **Composite rank:** #25 of 239 KCET colleges (score 19,148.7)
+**KCET code:** E097 · **Composite rank:** #25 of 242 KCET colleges (score 19,076.2)
 **ComedK code:** E032 · **Composite rank:** #14 of 106 ComedK colleges (score 18,630.4)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 12,220 | 15,127 | +23.8% |
-| Computer Science and Engineering | Computer Science & IT | 11,540 | 15,820 | +37.1% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 14,090 | 18,402 | +30.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 13,012 | 19,095 | +46.7% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 14,896 | 20,905 | +40.3% |
-| Information Science and Engineering | Computer Science & IT | 16,053 | 21,980 | +36.9% |
-| Electronics and Communication Engg | Electronics & Communication | 17,539 | 23,857 | +36.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 15,127 | 15,780 | +4.3% |
+| Computer Science and Engineering | Computer Science & IT | 15,820 | 15,820 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 18,402 | 18,479 | +0.4% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 19,095 | 19,075 | -0.1% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 20,905 | 20,680 | -1.1% |
+| Information Science and Engineering | Computer Science & IT | 21,980 | 21,492 | -2.2% |
+| Electronics and Communication Engg | Electronics & Communication | 23,857 | 22,854 | -4.2% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -973,26 +976,26 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #23 — Sir M.Visvesvaraya Institute of Technology
 
-**KCET code:** E012 · **Composite rank:** #32 of 239 KCET colleges (score 23,902.9)
+**KCET code:** E012 · **Composite rank:** #32 of 242 KCET colleges (score 24,863.2)
 **ComedK code:** E126 · **Composite rank:** #15 of 106 ComedK colleges (score 26,478.3)
 
-**KCET branches — Round 2 Mock, GM category** (13 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (13 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 8,828 | 15,603 | +76.7% |
-| Computer Science and Engineering | Computer Science & IT | 11,025 | 18,890 | +71.3% |
-| Electronics and Communication Engg | Electronics & Communication | 12,917 | 20,040 | +55.1% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 12,491 | 20,178 | +61.5% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 14,651 | 22,443 | +53.2% |
-| Information Science and Engineering | Computer Science & IT | 16,232 | 23,525 | +44.9% |
-| Bio-Technology | Biotechnology & Life Sciences | 11,996 | 25,840 | +115.4% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 17,602 | 26,476 | +50.4% |
-| Electronics & Computer Engineering | Computer Science & IT | 19,432 | 27,365 | +40.8% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 20,682 | 35,255 | +70.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 27,735 | 37,752 | +36.1% |
-| Mechanical Engineering | Mechanical & Allied | 40,589 | 57,366 | +41.3% |
-| Civil Engineering | Civil & Construction | 62,275 | 78,020 | +25.3% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 15,603 | 16,351 | +4.8% |
+| Computer Science and Engineering | Computer Science & IT | 18,890 | 19,632 | +3.9% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 20,178 | 21,165 | +4.9% |
+| Electronics and Communication Engg | Electronics & Communication | 20,040 | 21,764 | +8.6% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 22,443 | 23,665 | +5.4% |
+| Information Science and Engineering | Computer Science & IT | 23,525 | 24,654 | +4.8% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 26,476 | 26,633 | +0.6% |
+| Bio-Technology | Biotechnology & Life Sciences | 25,840 | 26,931 | +4.2% |
+| Electronics & Computer Engineering | Computer Science & IT | 27,365 | 30,054 | +9.8% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 35,255 | 33,612 | -4.7% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 37,752 | 38,316 | +1.5% |
+| Mechanical Engineering | Mechanical & Allied | 57,366 | 56,304 | -1.9% |
+| Civil Engineering | Civil & Construction | 78,020 | 80,147 | +2.7% |
 
 **ComedK branches — Round 3, GM category** (13 branches; most competitive category: Computer Science & IT):
 
@@ -1014,19 +1017,19 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #24 — B N M Institute of Technology
 
-**KCET code:** E107 · **Composite rank:** #22 of 239 KCET colleges (score 15,937.8)
+**KCET code:** E107 · **Composite rank:** #22 of 242 KCET colleges (score 15,875.6)
 **ComedK code:** E015 · **Composite rank:** #16 of 106 ComedK colleges (score 27,861.5)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 8,191 | 13,503 | +64.9% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 9,941 | 15,531 | +56.2% |
-| Electronics and Communication Engg | Electronics & Communication | 10,328 | 15,546 | +50.5% |
-| Information Science and Engineering | Computer Science & IT | 10,647 | 16,249 | +52.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 17,301 | 28,249 | +63.3% |
-| Mechanical Engineering | Mechanical & Allied | 37,196 | 41,484 | +11.5% |
+| Computer Science and Engineering | Computer Science & IT | 13,503 | 13,368 | -1.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 15,531 | 15,531 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 15,546 | 16,036 | +3.2% |
+| Information Science and Engineering | Computer Science & IT | 16,249 | 16,407 | +1.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 28,249 | 28,425 | +0.6% |
+| Mechanical Engineering | Mechanical & Allied | 41,484 | 45,273 | +9.1% |
 
 **ComedK branches — Round 3, GM category** (6 branches; most competitive category: Computer Science & IT):
 
@@ -1041,35 +1044,35 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #25 — The National Institute of Engineering (KCET E178)
 
-**KCET code:** E178 · **Composite rank:** #16 of 239 KCET colleges (score 10,718.5)
+**KCET code:** E178 · **Composite rank:** #16 of 242 KCET colleges (score 11,157)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (2 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 7,200 | 10,383 | +44.2% |
-| Computer Science and Engineering | Computer Science & IT | 7,182 | 11,054 | +53.9% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 10,383 | 10,958 | +5.5% |
+| Computer Science and Engineering | Computer Science & IT | 11,054 | 11,356 | +2.7% |
 
 ### #26 — RNS Institute of Technology
 
-**KCET code:** E118 · **Composite rank:** #24 of 239 KCET colleges (score 17,586.2)
+**KCET code:** E118 · **Composite rank:** #23 of 242 KCET colleges (score 17,499.4)
 **ComedK code:** E104 · **Composite rank:** #17 of 106 ComedK colleges (score 28,840.8)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 10,765 | 14,521 | +34.9% |
-| Electronics and Communication Engg | Electronics & Communication | 11,995 | 15,076 | +25.7% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 11,356 | 15,345 | +35.1% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 12,278 | 16,725 | +36.2% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 12,467 | 16,816 | +34.9% |
-| Computer Science and Business Systems | Computer Science & IT | 13,112 | 17,971 | +37.1% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 13,784 | 18,434 | +33.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 17,223 | 26,543 | +54.1% |
-| Mechanical Engineering | Mechanical & Allied | 33,392 | 39,117 | +17.1% |
-| Civil Engineering | Civil & Construction | 55,967 | 75,810 | +35.5% |
+| Computer Science and Engineering | Computer Science & IT | 14,521 | 14,549 | +0.2% |
+| Electronics and Communication Engg | Electronics & Communication | 15,076 | 15,076 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 15,345 | 15,360 | +0.1% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 16,816 | 16,767 | -0.3% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 16,725 | 16,930 | +1.2% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 18,434 | 17,746 | -3.7% |
+| Computer Science and Business Systems | Computer Science & IT | 17,971 | 18,025 | +0.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 26,543 | 27,116 | +2.2% |
+| Mechanical Engineering | Mechanical & Allied | 39,117 | 39,117 | 0.0% |
+| Civil Engineering | Civil & Construction | 75,810 | 74,946 | -1.1% |
 
 **ComedK branches — Round 3, GM category** (10 branches; most competitive category: Computer Science & IT):
 
@@ -1088,25 +1091,25 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #27 — M . S . Ramaiah University of Applied Sciences UNIVERSITY HOUSE
 
-**KCET code:** E235 · **Composite rank:** #21 of 239 KCET colleges (score 14,862.9)
+**KCET code:** E235 · **Composite rank:** #21 of 242 KCET colleges (score 15,672)
 **ComedK code:** E197 · **Composite rank:** #18 of 106 ComedK colleges (score 31,895.9)
 
-**KCET branches — Round 2 Mock, GM category** (12 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (12 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Mathamatics and Computing | Computer Science & IT | 4,155 | 6,325 | +52.2% |
-| B Tech in Aero Space Engineering | Aerospace | 7,269 | 8,144 | +12.0% |
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 8,395 | 12,668 | +50.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 8,562 | 14,131 | +65.0% |
-| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 11,276 | 16,160 | +43.3% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 11,100 | 17,362 | +56.4% |
-| Btech in Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 12,964 | 19,993 | +54.2% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 17,299 | 21,402 | +23.7% |
-| B Tech in Robotics Engineering | Mechanical & Allied | 14,474 | 21,758 | +50.3% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 14,361 | 22,655 | +57.8% |
-| Automotive Engineering | Mechanical & Allied | 21,171 | 36,452 | +72.2% |
-| B Tech in Civil Engineering | Civil & Construction | 33,123 | 42,637 | +28.7% |
+| B Tech in Mathamatics and Computing | Computer Science & IT | 6,325 | 6,730 | +6.4% |
+| B Tech in Aero Space Engineering | Aerospace | 8,144 | 9,869 | +21.2% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 12,668 | 13,238 | +4.5% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 14,131 | 14,216 | +0.6% |
+| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 16,160 | 17,299 | +7.0% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 17,362 | 17,788 | +2.5% |
+| Btech in Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 19,993 | 20,828 | +4.2% |
+| B Tech in Robotics Engineering | Mechanical & Allied | 21,758 | 22,605 | +3.9% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 21,402 | 23,390 | +9.3% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 22,655 | 23,901 | +5.5% |
+| B Tech in Civil Engineering | Civil & Construction | 42,637 | 42,830 | +0.5% |
+| Automotive Engineering | Mechanical & Allied | 36,452 | 43,691 | +19.9% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Electronics & Communication):
 
@@ -1123,20 +1126,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #28 — J S S Academy of Technical Education
 
-**KCET code:** E082 · **Composite rank:** #31 of 239 KCET colleges (score 23,866.9)
+**KCET code:** E082 · **Composite rank:** #30 of 242 KCET colleges (score 24,089.1)
 **ComedK code:** E060 · **Composite rank:** #19 of 106 ComedK colleges (score 33,537.8)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 15,519 | 21,817 | +40.6% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 14,934 | 21,898 | +46.6% |
-| Electronics and Communication Engg | Electronics & Communication | 17,927 | 26,225 | +46.3% |
-| Robotics and Automation | Mechanical & Allied | 21,743 | 30,428 | +39.9% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 30,984 | 42,912 | +38.5% |
-| Mechanical Engineering | Mechanical & Allied | 47,093 | 67,550 | +43.4% |
-| Civil Engineering | Civil & Construction | 82,886 | 1,08,723 | +31.2% |
+| Computer Science and Engineering | Computer Science & IT | 21,817 | 22,193 | +1.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 21,898 | 22,320 | +1.9% |
+| Electronics and Communication Engg | Electronics & Communication | 26,225 | 26,477 | +1.0% |
+| Robotics and Automation | Mechanical & Allied | 30,428 | 33,202 | +9.1% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 42,912 | 43,130 | +0.5% |
+| Mechanical Engineering | Mechanical & Allied | 67,550 | 70,457 | +4.3% |
+| Civil Engineering | Civil & Construction | 1,08,723 | 1,09,597 | +0.8% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -1148,60 +1151,61 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #29 — The National Institute of Engineering (KCET E022)
 
-**KCET code:** E022 · **Composite rank:** #19 of 239 KCET colleges (score 14,541.8)
+**KCET code:** E022 · **Composite rank:** #19 of 242 KCET colleges (score 14,466.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 6,018 | 7,483 | +24.3% |
-| Mechanical Engineering | Mechanical & Allied | 23,500 | 28,641 | +21.9% |
-| Civil Engineering | Civil & Construction | 52,964 | 60,442 | +14.1% |
+| Electronics and Communication Engg | Electronics & Communication | 7,483 | 7,483 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 28,641 | 28,848 | +0.7% |
+| Civil Engineering | Civil & Construction | 60,442 | 63,146 | +4.5% |
 
 ### #30 — KLE Technological University(Formerly (BVBCET) BVBHOOMARADDI COLLEGE CAMPUS
 
-**KCET code:** E241 · **Composite rank:** #20 of 239 KCET colleges (score 14,581.9)
+**KCET code:** E241 · **Composite rank:** #20 of 242 KCET colleges (score 14,719.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 8,861 | 12,501 | +41.1% |
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 9,340 | 13,397 | +43.4% |
-| Electronics and Communication Engg | Electronics & Communication | 13,383 | 17,025 | +27.2% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 15,333 | 19,572 | +27.6% |
-| Automation and Robotic Engineering | Mechanical & Allied | 17,399 | 25,707 | +47.7% |
-| Bio-Technology | Biotechnology & Life Sciences | 23,607 | 29,173 | +23.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 23,417 | 31,911 | +36.3% |
-| Mechanical Engineering | Mechanical & Allied | 39,871 | 51,252 | +28.5% |
-| Civil Engineering | Civil & Construction | 44,579 | 52,614 | +18.0% |
+| Computer Science and Engineering | Computer Science & IT | 12,501 | 12,890 | +3.1% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 13,397 | 13,397 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 17,025 | 17,136 | +0.7% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 19,572 | 19,572 | 0.0% |
+| Automation and Robotic Engineering | Mechanical & Allied | 25,707 | 26,639 | +3.6% |
+| Bio-Technology | Biotechnology & Life Sciences | 29,173 | 30,628 | +5.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 31,911 | 31,204 | -2.2% |
+| Mechanical Engineering | Mechanical & Allied | 51,252 | 50,496 | -1.5% |
+| Civil Engineering | Civil & Construction | 52,614 | 52,540 | -0.1% |
 
 ### #31 — REVA University RUKMINI KNOWLEDGE PARK
 
-**KCET code:** E232 · **Composite rank:** #36 of 239 KCET colleges (score 25,696.3)
+**KCET code:** E232 · **Composite rank:** #38 of 242 KCET colleges (score 28,153.9)
 **ComedK code:** E164 · **Composite rank:** #20 of 106 ComedK colleges (score 33,896.9)
 
-**KCET branches — Round 2 Mock, GM category** (15 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (16 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 15,655 | 18,110 | +15.7% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 15,492 | 20,167 | +30.2% |
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 18,380 | 22,310 | +21.4% |
-| B Tech in Computer Science and Engineering(Iot Including Block Chain) | Computer Science & IT | 17,679 | 23,476 | +32.8% |
-| B Tech in Aero Space Engineering | Aerospace | 15,777 | 23,963 | +51.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 20,449 | 25,634 | +25.4% |
-| B Tech in Information Science Engineering | Computer Science & IT | 19,878 | 25,644 | +29.0% |
-| B Tech in Computer Science and Information Technology | Computer Science & IT | 20,912 | 27,308 | +30.6% |
-| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 20,128 | 28,481 | +41.5% |
-| B Tech in Electronics & Computer Engineering | Computer Science & IT | 23,027 | 28,879 | +25.4% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 28,914 | 35,954 | +24.3% |
-| B Tech in Agricultural Engineering | Other Branches | 27,562 | 38,740 | +40.6% |
-| B Tech in Mechatronics Engineering | Mechanical & Allied | 30,267 | 42,919 | +41.8% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 45,781 | 53,132 | +16.1% |
-| B Tech in Civil Engineering | Civil & Construction | 70,681 | 87,780 | +24.2% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 18,110 | 18,629 | +2.9% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 20,167 | 20,167 | 0.0% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 22,310 | 22,233 | -0.3% |
+| B Tech in Computer Science and Engineering(Iot Including Block Chain) | Computer Science & IT | 23,476 | 23,160 | -1.3% |
+| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 28,481 | 25,419 | -10.8% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 25,634 | 25,639 | +0.0% |
+| B Tech in Information Science Engineering | Computer Science & IT | 25,644 | 25,955 | +1.2% |
+| B Tech in Aero Space Engineering | Aerospace | 23,963 | 26,494 | +10.6% |
+| B Tech in Computer Science and Information Technology | Computer Science & IT | 27,308 | 27,269 | -0.1% |
+| B Tech in Electronics & Computer Engineering | Computer Science & IT | 28,879 | 27,973 | -3.1% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 35,954 | 36,008 | +0.2% |
+| B Tech in Mechatronics Engineering | Mechanical & Allied | 42,919 | 42,919 | 0.0% |
+| B Tech in Agricultural Engineering | Other Branches | 38,740 | 53,136 | +37.2% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 53,132 | 53,633 | +0.9% |
+| B Tech in Civil Engineering | Civil & Construction | 87,780 | 82,241 | -6.3% |
+| Btech in Design Engineering | Other Branches | — | 2,74,747 | — |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Electronics & Communication):
 
@@ -1218,21 +1222,21 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #32 — Dayananda Sagar Academy of Technology & Management Technical Campus
 
-**KCET code:** E212 · **Composite rank:** #34 of 239 KCET colleges (score 25,130.1)
+**KCET code:** E212 · **Composite rank:** #33 of 242 KCET colleges (score 24,967.3)
 **ComedK code:** E039 · **Composite rank:** #21 of 106 ComedK colleges (score 35,926.4)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 13,178 | 20,093 | +52.5% |
-| Computer Science and Engineering | Computer Science & IT | 15,524 | 21,905 | +41.1% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 17,684 | 24,134 | +36.5% |
-| Electronics and Communication Engg | Electronics & Communication | 19,023 | 24,661 | +29.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 17,464 | 25,668 | +47.0% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 18,654 | 26,122 | +40.0% |
-| Information Science and Engineering | Computer Science & IT | 19,816 | 27,256 | +37.5% |
-| Mechanical Engineering | Mechanical & Allied | 41,762 | 52,024 | +24.6% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 20,093 | 20,370 | +1.4% |
+| Computer Science and Engineering | Computer Science & IT | 21,905 | 21,842 | -0.3% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 24,134 | 24,186 | +0.2% |
+| Electronics and Communication Engg | Electronics & Communication | 24,661 | 24,940 | +1.1% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 25,668 | 25,485 | -0.7% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 26,122 | 26,153.5 | +0.1% |
+| Information Science and Engineering | Computer Science & IT | 27,256 | 27,427 | +0.6% |
+| Mechanical Engineering | Mechanical & Allied | 52,024 | 52,024 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Computer Science & IT):
 
@@ -1249,22 +1253,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #33 — SRI SIDDHARTHA SCHOOL OF ENGINEERING
 
-**KCET code:** E081 · **Composite rank:** #187 of 239 KCET colleges (score 1,81,271.5)
+**KCET code:** E081 · **Composite rank:** #193 of 242 KCET colleges (score 2,04,865.5)
 **ComedK code:** E214 · **Composite rank:** #22 of 106 ComedK colleges (score 38,038)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 59,064 | 81,743 | +38.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,03,135 | 1,56,987 | +52.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,06,873 | 1,74,810 | +63.6% |
-| Cyber Security | Computer Science & IT | 1,01,298 | 1,80,337 | +78.0% |
-| Civil Engineering | Civil & Construction | 1,69,059 | 2,35,344 | +39.2% |
-| Information Science and Engineering | Computer Science & IT | 1,34,985 | 2,75,974 | +104.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,62,565 | 2,79,587 | +72.0% |
-| Mechanical Engineering | Mechanical & Allied | 2,24,412 | 2,79,598 | +24.6% |
-| Data Sciences | Computer Science & IT | 1,20,658 | 2,81,835 | +133.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 81,743 | 87,887 | +7.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,56,987 | 1,83,444 | +16.9% |
+| Computer Science and Engineering | Computer Science & IT | 1,74,810 | 2,03,895 | +16.6% |
+| Cyber Security | Computer Science & IT | 1,80,337 | 2,04,465 | +13.4% |
+| Civil Engineering | Civil & Construction | 2,35,344 | 2,63,761 | +12.1% |
+| Information Science and Engineering | Computer Science & IT | 2,75,974 | 2,75,974 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,79,598 | 2,79,598 | 0.0% |
+| Data Sciences | Computer Science & IT | 2,81,835 | 2,81,835 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,79,587 | 2,81,908 | +0.8% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -1272,36 +1276,7 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Information Science & Engineering | Computer Science & IT | — | 38,038 | — |
 
-### #34 — Dr. Ambedkar Institute of Technology (KCET E004, ComedK E042)
-
-**KCET code:** E004 · **Composite rank:** #23 of 239 KCET colleges (score 16,755.6)
-**ComedK code:** E042 · **Composite rank:** #24 of 106 ComedK colleges (score 41,680.2)
-
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 8,484 | 13,592 | +60.2% |
-| Electronics and Communication Engg | Electronics & Communication | 15,113 | 20,428 | +35.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 25,056 | 35,034 | +39.8% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 29,198 | 36,501 | +25.0% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 36,127 | 45,685 | +26.5% |
-| Industrial Engineering & Management | Mechanical & Allied | 48,578 | 56,185 | +15.7% |
-| Mechanical Engineering | Mechanical & Allied | 57,591 | 68,668 | +19.2% |
-| Civil Engineering | Civil & Construction | 74,370 | 92,188 | +24.0% |
-
-**ComedK branches — Round 3, GM category** (6 branches; most competitive category: Electronics & Communication):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Electronics & Communicatio n Engineering | Electronics & Communication | 22,669 | 34,539 | +52.4% |
-| Electronics and Communicatio n Engineering (V LSI Design & Technology) | Electronics & Communication | 24,970 | 40,362 | +61.6% |
-| Computer Science & Engineering | Computer Science & IT | 25,445 | 40,632 | +59.7% |
-| Artificial Intelligence & Machine Learning | Computer Science & IT | 26,037 | 42,308 | +62.5% |
-| Computer Science & Engineering (Data Science) | Computer Science & IT | 26,414 | 42,896 | +62.4% |
-| Computer Science & Business Systems | Computer Science & IT | 26,249 | 44,189 | +68.3% |
-
-### #35 — KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi
+### #34 — KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E016 · **Composite rank:** #23 of 106 ComedK colleges (score 38,292.8)
@@ -1320,23 +1295,52 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Mechanical Engineering | Mechanical & Allied | 60,465 | 98,659 | +63.2% |
 | Civil Engineering | Civil & Construction | 77,042 | 1,09,684 | +42.4% |
 
-### #36 — Dr. Ambedkar Institute of Technology (KCET E060, ComedK E042)
+### #35 — Dr. Ambedkar Institute of Technology (KCET E004, ComedK E042)
 
-**KCET code:** E060 · **Composite rank:** #37 of 239 KCET colleges (score 25,807.5)
+**KCET code:** E004 · **Composite rank:** #24 of 242 KCET colleges (score 17,835.5)
 **ComedK code:** E042 · **Composite rank:** #24 of 106 ComedK colleges (score 41,680.2)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 12,690 | 19,413 | +53.0% |
-| Computer Science and Engineering | Computer Science & IT | 15,175 | 23,239 | +53.1% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 16,496 | 25,353 | +53.7% |
-| Electronics and Communication Engg | Electronics & Communication | 18,880 | 25,877 | +37.1% |
-| Computer Science and Business Systems | Computer Science & IT | 20,937 | 30,389 | +45.1% |
-| Electronics and Communication Engg (Vlsi Design and Technology) | Electronics & Communication | 23,188 | 31,190 | +34.5% |
-| Aeronautical Engineering | Aerospace | 27,253 | 41,033 | +50.6% |
-| Civil Engineering | Civil & Construction | 90,561 | 1,08,113 | +19.4% |
+| Computer Science and Engineering | Computer Science & IT | 13,592 | 15,082 | +11.0% |
+| Electronics and Communication Engg | Electronics & Communication | 20,428 | 20,468 | +0.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 35,034 | 36,563 | +4.4% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 36,501 | 37,141 | +1.8% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 45,685 | 46,434 | +1.6% |
+| Industrial Engineering & Management | Mechanical & Allied | 56,185 | 55,706 | -0.9% |
+| Mechanical Engineering | Mechanical & Allied | 68,668 | 69,221 | +0.8% |
+| Civil Engineering | Civil & Construction | 92,188 | 91,088 | -1.2% |
+
+**ComedK branches — Round 3, GM category** (6 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Electronics & Communicatio n Engineering | Electronics & Communication | 22,669 | 34,539 | +52.4% |
+| Electronics and Communicatio n Engineering (V LSI Design & Technology) | Electronics & Communication | 24,970 | 40,362 | +61.6% |
+| Computer Science & Engineering | Computer Science & IT | 25,445 | 40,632 | +59.7% |
+| Artificial Intelligence & Machine Learning | Computer Science & IT | 26,037 | 42,308 | +62.5% |
+| Computer Science & Engineering (Data Science) | Computer Science & IT | 26,414 | 42,896 | +62.4% |
+| Computer Science & Business Systems | Computer Science & IT | 26,249 | 44,189 | +68.3% |
+
+### #36 — Dr. Ambedkar Institute of Technology (KCET E060, ComedK E042)
+
+**KCET code:** E060 · **Composite rank:** #37 of 242 KCET colleges (score 26,685.5)
+**ComedK code:** E042 · **Composite rank:** #24 of 106 ComedK colleges (score 41,680.2)
+
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 19,413 | 20,224 | +4.2% |
+| Computer Science and Engineering | Computer Science & IT | 23,239 | 23,735 | +2.1% |
+| Electronics and Communication Engg | Electronics & Communication | 25,877 | 25,794 | -0.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 25,353 | 26,203 | +3.4% |
+| Computer Science and Business Systems | Computer Science & IT | 30,389 | 31,481 | +3.6% |
+| Electronics and Communication Engg (Vlsi Design and Technology) | Electronics & Communication | 31,190 | 32,239 | +3.4% |
+| Aeronautical Engineering | Aerospace | 41,033 | 46,867 | +14.2% |
+| Civil Engineering | Civil & Construction | 1,08,113 | 1,20,862 | +11.8% |
 
 **ComedK branches — Round 3, GM category** (6 branches; most competitive category: Electronics & Communication):
 
@@ -1351,21 +1355,21 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #37 — Yenepoya Institute Of Technology
 
-**KCET code:** E165 · **Composite rank:** #190 of 239 KCET colleges (score 1,88,365.7)
+**KCET code:** E165 · **Composite rank:** #194 of 242 KCET colleges (score 2,07,638.9)
 **ComedK code:** E043 · **Composite rank:** #25 of 106 ComedK colleges (score 43,323)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 85,116 | 1,09,643 | +28.8% |
-| Computer Science and Engineering | Computer Science & IT | 1,05,069 | 1,53,809 | +46.4% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,22,991 | 1,83,040 | +48.8% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,06,032 | 2,00,974 | +89.5% |
-| Mechanical Engineering | Mechanical & Allied | 1,69,169 | 2,10,408 | +24.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,10,379 | 2,35,555 | +113.4% |
-| Information Science and Engineering | Computer Science & IT | 1,61,166 | 2,59,516.5 | +61.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,40,189 | 2,61,313 | +86.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,09,643 | 1,17,748 | +7.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,53,809 | 1,65,618 | +7.7% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,00,974 | 2,02,682 | +0.8% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,83,040 | 2,22,635 | +21.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,10,408 | 2,42,295 | +15.2% |
+| Electronics and Communication Engg | Electronics & Communication | 2,35,555 | 2,57,990 | +9.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,61,313 | 2,61,313 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,59,516.5 | 2,66,837 | +2.8% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -1373,19 +1377,34 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Computer Science & Engineering | Computer Science & IT | 96,082 | 43,323 | -54.9% |
 
-### #38 — RAMAIAH UNIVERSITY COLLEGE OF ENGINEERING (A CONSTITUENT COLLEGE OF M.S. RAMAIAH UNIVESITY OF APPLIED SCIENCES) NO 15
+### #38 — New Horizon College of Engineering
 
-**KCET code:** E319 · **Composite rank:** #26 of 239 KCET colleges (score 19,760.3)
+**KCET code:** E099 · **Composite rank:** #26 of 242 KCET colleges (score 19,977.6)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 19,523 | 19,480 | -0.2% |
+| Computer Science and Engineering | Computer Science & IT | 19,390 | 19,523 | +0.7% |
+| Electronics and Communication Engg | Electronics & Communication | 21,187 | 21,297 | +0.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 35,248 | 35,989 | +2.1% |
+| Mechanical Engineering | Mechanical & Allied | 45,683 | 47,009 | +2.9% |
+
+### #39 — RAMAIAH UNIVERSITY COLLEGE OF ENGINEERING (A CONSTITUENT COLLEGE OF M.S. RAMAIAH UNIVESITY OF APPLIED SCIENCES) NO 15
+
+**KCET code:** E319 · **Composite rank:** #28 of 242 KCET colleges (score 21,204.1)
 **ComedK code:** E220 · **Composite rank:** #26 of 106 ComedK colleges (score 43,664.8)
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering | Computer Science & IT | 8,113 | 16,862 | +107.8% |
-| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 12,016 | 21,421 | +78.3% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 16,465 | 24,148 | +46.7% |
-| Btech in Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 25,199 | 29,932 | +18.8% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 16,862 | 18,886 | +12.0% |
+| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 21,421 | 22,177 | +3.5% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 24,148 | 26,939 | +11.6% |
+| Btech in Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 29,932 | 32,452 | +8.4% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -1396,38 +1415,23 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electronics & Communicatio n Engineering | Electronics & Communication | 28,890 | 52,601 | +82.1% |
 | Electronics Engineering (VLSI Design & Technology) | Electronics & Communication | 39,715 | 60,765 | +53.0% |
 
-### #39 — New Horizon College of Engineering
-
-**KCET code:** E099 · **Composite rank:** #27 of 239 KCET colleges (score 20,038.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 13,597 | 19,390 | +42.6% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 13,941 | 19,523 | +40.0% |
-| Electronics and Communication Engg | Electronics & Communication | 16,121 | 21,187 | +31.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 28,249 | 35,248 | +24.8% |
-| Mechanical Engineering | Mechanical & Allied | 43,420 | 45,683 | +5.2% |
-
 ### #40 — SJB Institute of Technology
 
-**KCET code:** E115 · **Composite rank:** #41 of 239 KCET colleges (score 29,415.2)
+**KCET code:** E115 · **Composite rank:** #42 of 242 KCET colleges (score 29,637.5)
 **ComedK code:** E107 · **Composite rank:** #27 of 106 ComedK colleges (score 50,554.4)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 17,851 | 25,177 | +41.0% |
-| Computer Science and Engineering | Computer Science & IT | 19,100 | 26,942 | +41.1% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 19,872 | 28,392 | +42.9% |
-| Electronics and Communication Engg | Electronics & Communication | 24,102 | 30,839 | +28.0% |
-| Information Science and Engineering | Computer Science & IT | 24,341 | 32,785 | +34.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 35,221 | 43,062 | +22.3% |
-| Mechanical Engineering | Mechanical & Allied | 70,821 | 76,892 | +8.6% |
-| Civil Engineering | Civil & Construction | 93,301 | 1,24,189 | +33.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 25,177 | 25,518 | +1.4% |
+| Computer Science and Engineering | Computer Science & IT | 26,942 | 27,319 | +1.4% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 28,392 | 28,988 | +2.1% |
+| Electronics and Communication Engg | Electronics & Communication | 30,839 | 30,415 | -1.4% |
+| Information Science and Engineering | Computer Science & IT | 32,785 | 32,930 | +0.4% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 43,062 | 43,748 | +1.6% |
+| Mechanical Engineering | Mechanical & Allied | 76,892 | 84,370 | +9.7% |
+| Civil Engineering | Civil & Construction | 1,24,189 | 1,24,772 | +0.5% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Computer Science & IT):
 
@@ -1442,28 +1446,42 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Mechanical Engineering | Mechanical & Allied | 46,370 | 96,812 | +108.8% |
 | Civil Engineering | Civil & Construction | 57,022 | 1,01,392 | +77.8% |
 
-### #41 — Acharya Institute of Technology
+### #41 — The National Institute of Engineering (KCET E056)
 
-**KCET code:** E079 · **Composite rank:** #44 of 239 KCET colleges (score 31,717.9)
+**KCET code:** E056 · **Composite rank:** #27 of 242 KCET colleges (score 20,440.1)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Electronics and Communication Engg | Electronics & Communication | 9,966 | 9,966 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 25,206 | 25,206 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 32,184 | 33,788 | +5.0% |
+| Civil Engineering | Civil & Construction | 85,829 | 90,410 | +5.3% |
+
+### #42 — Acharya Institute of Technology
+
+**KCET code:** E079 · **Composite rank:** #44 of 242 KCET colleges (score 32,248.3)
 **ComedK code:** E001 · **Composite rank:** #28 of 106 ComedK colleges (score 54,345.6)
 
-**KCET branches — Round 2 Mock, GM category** (13 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (13 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 19,614 | 26,824 | +36.8% |
-| Computer Science and Engineering | Computer Science & IT | 21,183 | 29,847 | +40.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 20,920 | 30,201 | +44.4% |
-| Bio-Technology | Biotechnology & Life Sciences | 16,318 | 31,858 | +95.2% |
-| Electronics and Communication Engg | Electronics & Communication | 26,229 | 34,631 | +32.0% |
-| Aero Space Engineering | Aerospace | 28,905 | 37,038 | +28.1% |
-| Aeronautical Engineering | Aerospace | 25,608 | 37,439 | +46.2% |
-| Information Science and Engineering | Computer Science & IT | 26,955 | 37,959 | +40.8% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 28,196 | 38,217 | +35.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 34,451 | 46,747 | +35.7% |
-| Mechatronics | Mechanical & Allied | 47,394 | 58,797 | +24.1% |
-| Mechanical Engineering | Mechanical & Allied | 57,394 | 68,080 | +18.6% |
-| Civil Engineering | Civil & Construction | 79,401 | 87,401 | +10.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 26,824 | 26,738 | -0.3% |
+| Computer Science and Engineering | Computer Science & IT | 29,847 | 30,032 | +0.6% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 30,201 | 30,950 | +2.5% |
+| Bio-Technology | Biotechnology & Life Sciences | 31,858 | 31,858 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 34,631 | 35,051 | +1.2% |
+| Aeronautical Engineering | Aerospace | 37,439 | 35,324 | -5.6% |
+| Aero Space Engineering | Aerospace | 37,038 | 37,782 | +2.0% |
+| Information Science and Engineering | Computer Science & IT | 37,959 | 37,959 | 0.0% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 38,217 | 38,217 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 46,747 | 47,149 | +0.9% |
+| Mechatronics | Mechanical & Allied | 58,797 | 62,409 | +6.1% |
+| Mechanical Engineering | Mechanical & Allied | 68,080 | 68,080 | 0.0% |
+| Civil Engineering | Civil & Construction | 87,401 | 90,561 | +3.6% |
 
 **ComedK branches — Round 3, GM category** (13 branches; most competitive category: Computer Science & IT):
 
@@ -1483,20 +1501,6 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Civil Engineering | Civil & Construction | 58,602 | 1,06,843 | +82.3% |
 | Mechatronics Engineering | Mechanical & Allied | 46,108 | 1,09,265 | +137.0% |
 
-### #42 — The National Institute of Engineering (KCET E056)
-
-**KCET code:** E056 · **Composite rank:** #28 of 239 KCET colleges (score 20,044.4)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Electronics & Communication):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 7,483 | 9,966 | +33.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 14,878 | 25,206 | +69.4% |
-| Mechanical Engineering | Mechanical & Allied | 27,914 | 32,184 | +15.3% |
-| Civil Engineering | Civil & Construction | 63,686 | 85,829 | +34.8% |
-
 ### #43 — H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi
 
 **KCET:** no seats found under General Merit in the current KCET data.
@@ -1509,36 +1513,51 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 83,505 | 55,355 | -33.7% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 90,664 | 57,140 | -37.0% |
 
-### #44 — RV University (KCET E316)
+### #44 — SDM College of Engineering
 
-**KCET code:** E316 · **Composite rank:** #29 of 239 KCET colleges (score 22,279.8)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+**KCET code:** E034 · **Composite rank:** #29 of 242 KCET colleges (score 23,910)
+**ComedK code:** E117 · **Composite rank:** #35 of 106 ComedK colleges (score 60,727.5)
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech (Hons) Computer Science and Engineering(Ar Tifical Intelligence and Machine Learning) | Computer Science & IT | 15,651 | 21,604 | +38.0% |
-| B Tech (Hons) Computer Science and Engineering | Computer Science & IT | 13,758 | 21,907 | +59.2% |
-| B.Tech (Hons) Computer Science and Engineering (Cyber Security) | Computer Science & IT | 16,650 | 22,444 | +34.8% |
-| B.Tech (Hons) Electronics and Communication | Electronics & Communication | 15,139 | 23,507 | +55.3% |
-| B Tech (Hons) Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 11,769 | 23,816 | +102.4% |
+| Computer Science and Engineering | Computer Science & IT | 22,328 | 22,335 | +0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 23,095 | 22,736 | -1.6% |
+| Electronics and Communication Engg | Electronics & Communication | 24,096 | 23,854 | -1.0% |
+| Information Science and Engineering | Computer Science & IT | 27,816 | 28,315 | +1.8% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 37,773 | 37,773 | 0.0% |
+| Chemical Engineering | Chemical & Polymer | 60,257 | 60,500 | +0.4% |
+| Mechanical Engineering | Mechanical & Allied | 83,771 | 75,557 | -9.8% |
+| Civil Engineering | Civil & Construction | 99,378 | 96,318 | -3.1% |
+
+**ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Computer Science & Engineering | Computer Science & IT | 37,905 | 52,122 | +37.5% |
+| Artificial Intelligence & Machine Learning | Computer Science & IT | 40,916 | 54,925 | +34.2% |
+| Information Science & Engineering | Computer Science & IT | 43,827 | 66,299 | +51.3% |
+| Electronics & Communicatio n Engineering | Electronics & Communication | 47,353 | 68,041 | +43.7% |
+| Chemical Engineering | Chemical & Polymer | 53,128 | 87,604 | +64.9% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 59,854 | 1,02,301 | +70.9% |
+| Mechanical Engineering | Mechanical & Allied | 85,068 | 1,08,570 | +27.6% |
 
 ### #45 — Cambridge Institute Of Technology
 
-**KCET code:** E222 · **Composite rank:** #75 of 239 KCET colleges (score 66,536.3)
+**KCET code:** E222 · **Composite rank:** #82 of 242 KCET colleges (score 69,540.6)
 **ComedK code:** E033 · **Composite rank:** #30 of 106 ComedK colleges (score 57,232.5)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 35,066 | 49,505 | +41.2% |
-| Electronics and Communication Engg | Electronics & Communication | 40,763 | 60,128 | +47.5% |
-| Computer Science and Engineering | Computer Science & IT | 43,913 | 64,231 | +46.3% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 50,808 | 68,823 | +35.5% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 54,392 | 71,311 | +31.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,05,106 | 1,21,940 | +16.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 49,505 | 49,202 | -0.6% |
+| Electronics and Communication Engg | Electronics & Communication | 60,128 | 65,752 | +9.4% |
+| Computer Science and Engineering | Computer Science & IT | 64,231 | 69,360 | +8.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 68,823 | 69,646 | +1.2% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 71,311 | 73,835 | +3.5% |
+| Mechanical Engineering | Mechanical & Allied | 1,21,940 | 1,37,747 | +13.0% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -1554,23 +1573,23 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #46 — K.L.S. Gogte Institute of Technology
 
-**KCET code:** E037 · **Composite rank:** #30 of 239 KCET colleges (score 23,497.2)
+**KCET code:** E037 · **Composite rank:** #35 of 242 KCET colleges (score 25,291.2)
 **ComedK code:** E073 · **Composite rank:** #31 of 106 ComedK colleges (score 59,162.1)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 12,079 | 14,102 | +16.7% |
-| Computer Science and Engineering | Computer Science & IT | 16,473 | 20,575 | +24.9% |
-| Electronics and Communication Engg | Electronics & Communication | 20,406 | 25,193 | +23.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 32,224 | 37,545 | +16.5% |
-| Aeronautical Engineering | Aerospace | 33,593 | 40,230 | +19.8% |
-| Mechanical Engineering | Mechanical & Allied | 71,014 | 74,554 | +5.0% |
-| Civil Engineering | Civil & Construction | 94,142 | 1,07,055 | +13.7% |
-| Industrial Design | Mechanical & Allied | 1,22,633 | 1,43,293 | +16.8% |
-| Fashion Design | Other Branches | 1,13,830 | 2,54,635 | +123.7% |
-| Communication Design | Other Branches | 1,19,501 | 2,73,959 | +129.3% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 14,102 | 13,933 | -1.2% |
+| Computer Science and Engineering | Computer Science & IT | 20,575 | 20,571 | -0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 25,193 | 25,345 | +0.6% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 37,545 | 35,398 | -5.7% |
+| Aeronautical Engineering | Aerospace | 40,230 | 42,235 | +5.0% |
+| Mechanical Engineering | Mechanical & Allied | 74,554 | 76,782 | +3.0% |
+| Civil Engineering | Civil & Construction | 1,07,055 | 1,05,655 | -1.3% |
+| Industrial Design | Mechanical & Allied | 1,43,293 | 2,44,428 | +70.6% |
+| Fashion Design | Other Branches | 2,54,635 | 2,54,635 | 0.0% |
+| Communication Design | Other Branches | 2,73,959 | 2,73,959 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -1584,7 +1603,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Mechanical Engineering | Mechanical & Allied | 63,419 | 1,02,200 | +61.2% |
 | Aeronau- tical Engineering | Aerospace | 57,055 | 1,07,114 | +87.7% |
 
-### #47 — KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal
+### #47 — RV University (KCET E316)
+
+**KCET code:** E316 · **Composite rank:** #31 of 242 KCET colleges (score 24,619.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| B Tech (Hons) Computer Science and Engineering(Ar Tifical Intelligence and Machine Learning) | Computer Science & IT | 21,604 | 21,744 | +0.6% |
+| B Tech (Hons) Computer Science and Engineering | Computer Science & IT | 21,907 | 23,967 | +9.4% |
+| B.Tech (Hons) Electronics and Communication | Electronics & Communication | 23,507 | 24,161 | +2.8% |
+| B Tech (Hons) Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 23,816 | 25,344 | +6.4% |
+| B.Tech (Hons) Computer Science and Engineering (Cyber Security) | Computer Science & IT | 22,444 | 25,652 | +14.3% |
+
+### #48 — KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E074 · **Composite rank:** #32 of 106 ComedK colleges (score 59,741.3)
@@ -1596,7 +1630,7 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 1,09,505 | 56,495 | -48.4% |
 | Electronics & Communicatio n Engineering | Electronics & Communication | 1,06,510 | 74,636 | -29.9% |
 
-### #48 — Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru
+### #49 — Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E116 · **Composite rank:** #33 of 106 ComedK colleges (score 59,929.6)
@@ -1610,78 +1644,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electronics & Communicatio n Engineering | Electronics & Communication | 30,747 | 61,713 | +100.7% |
 | Electrical & Electronics Engineering | Electrical & Electronics | 50,446 | 90,563 | +79.5% |
 
-### #49 — SDM College of Engineering
+### #50 — G S S S Institute of Engineering & Technology for Women
 
-**KCET code:** E034 · **Composite rank:** #33 of 239 KCET colleges (score 24,590.4)
-**ComedK code:** E117 · **Composite rank:** #35 of 106 ComedK colleges (score 60,727.5)
-
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 15,470 | 22,328 | +44.3% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 15,706 | 23,095 | +47.0% |
-| Electronics and Communication Engg | Electronics & Communication | 19,936 | 24,096 | +20.9% |
-| Information Science and Engineering | Computer Science & IT | 19,830 | 27,816 | +40.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 29,054 | 37,773 | +30.0% |
-| Chemical Engineering | Chemical & Polymer | 44,362 | 60,257 | +35.8% |
-| Mechanical Engineering | Mechanical & Allied | 69,224 | 83,771 | +21.0% |
-| Civil Engineering | Civil & Construction | 84,877 | 99,378 | +17.1% |
-
-**ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Computer Science & Engineering | Computer Science & IT | 37,905 | 52,122 | +37.5% |
-| Artificial Intelligence & Machine Learning | Computer Science & IT | 40,916 | 54,925 | +34.2% |
-| Information Science & Engineering | Computer Science & IT | 43,827 | 66,299 | +51.3% |
-| Electronics & Communicatio n Engineering | Electronics & Communication | 47,353 | 68,041 | +43.7% |
-| Chemical Engineering | Chemical & Polymer | 53,128 | 87,604 | +64.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 59,854 | 1,02,301 | +70.9% |
-| Mechanical Engineering | Mechanical & Allied | 85,068 | 1,08,570 | +27.6% |
-
-### #50 — Srinivas Institute of Technology
-
-**KCET code:** E144 · **Composite rank:** #198 of 239 KCET colleges (score 2,13,368.3)
-**ComedK code:** E138 · **Composite rank:** #34 of 106 ComedK colleges (score 60,488)
-
-**KCET branches — Round 2 Mock, GM category** (12 branches; most competitive category: Other Branches):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Marine Engineering | Other Branches | 87,595 | 1,05,786 | +20.8% |
-| Information Science and Engineering | Computer Science & IT | 2,76,130 | 1,87,520 | -32.1% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 96,440 | 1,87,650 | +94.6% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 1,30,098 | 2,06,427 | +58.7% |
-| Computer Science and Design | Computer Science & IT | 2,65,394 | 2,11,337 | -20.4% |
-| Automobile Engineering | Mechanical & Allied | 2,54,843 | 2,27,327 | -10.8% |
-| Aeronautical Engineering | Aerospace | 1,32,937 | 2,33,451 | +75.6% |
-| Electronics and Communication Engg | Electronics & Communication | 2,29,902 | 2,63,531 | +14.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,67,708 | 2,67,639 | +59.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,81,323 | 2,69,850 | -4.1% |
-| Computer Science and Business Systems | Computer Science & IT | 2,67,749 | 2,73,231 | +2.0% |
-| Mechanical Engineering | Mechanical & Allied | 2,03,645 | 2,76,707 | +35.9% |
-
-**ComedK branches — Round 3, GM category** (1 branch; most competitive category: Other Branches):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Marine Engineering | Other Branches | 41,870 | 60,488 | +44.5% |
-
-### #51 — G S S S Institute of Engineering & Technology for Women
-
-**KCET code:** E133 · **Composite rank:** #35 of 239 KCET colleges (score 25,272)
+**KCET code:** E133 · **Composite rank:** #34 of 242 KCET colleges (score 25,044.5)
 **ComedK code:** E055 · **Composite rank:** #36 of 106 ComedK colleges (score 62,908)
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 18,689 | 20,981 | +12.3% |
-| Computer Science and Engineering | Computer Science & IT | 19,700 | 24,095 | +22.3% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 22,350 | 28,091 | +25.7% |
-| Electronics and Communication Engg | Electronics & Communication | 28,177 | 34,535 | +22.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 41,226 | 51,250 | +24.3% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 20,981 | 22,452 | +7.0% |
+| Computer Science and Engineering | Computer Science & IT | 24,095 | 23,749 | -1.4% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 28,091 | 28,965 | +3.1% |
+| Electronics and Communication Engg | Electronics & Communication | 34,535 | 35,961 | +4.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 51,250 | 54,055 | +5.5% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -1692,7 +1668,51 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Data Science | Computer Science & IT | 50,557 | 62,463 | +23.5% |
 | Electronics & Communicatio n Engineering | Electronics & Communication | 56,952 | 83,757 | +47.1% |
 
-### #52 — Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru
+### #51 — Srinivas Institute of Technology
+
+**KCET code:** E144 · **Composite rank:** #223 of 242 KCET colleges (score 2,60,433.5)
+**ComedK code:** E138 · **Composite rank:** #34 of 106 ComedK colleges (score 60,488)
+
+**KCET branches — Round 2, GM category** (12 branches; most competitive category: Other Branches):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Marine Engineering | Other Branches | 1,05,786 | 1,04,348 | -1.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,87,650 | 1,63,143 | -13.1% |
+| Computer Science and Design | Computer Science & IT | 2,11,337 | 2,33,055 | +10.3% |
+| Automobile Engineering | Mechanical & Allied | 2,27,327 | 2,46,777 | +8.6% |
+| Information Science and Engineering | Computer Science & IT | 1,87,520 | 2,59,138 | +38.2% |
+| Electronics and Communication Engg | Electronics & Communication | 2,63,531 | 2,63,531 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,67,639 | 2,67,639 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,69,850 | 2,69,850 | 0.0% |
+| Computer Science and Business Systems | Computer Science & IT | 2,73,231 | 2,73,231 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,76,707 | 2,76,707 | 0.0% |
+| Aeronautical Engineering | Aerospace | 2,33,451 | 2,77,832 | +19.0% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 2,06,427 | 2,80,822 | +36.0% |
+
+**ComedK branches — Round 3, GM category** (1 branch; most competitive category: Other Branches):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Marine Engineering | Other Branches | 41,870 | 60,488 | +44.5% |
+
+### #52 — Vidya Vardhaka College of Engineering
+
+**KCET code:** E071 · **Composite rank:** #36 of 242 KCET colleges (score 26,027.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 22,381 | 22,344 | -0.2% |
+| Computer Science and Engineering | Computer Science & IT | 26,330 | 26,859 | +2.0% |
+| Electronics and Communication Engg | Electronics & Communication | 29,563 | 30,537 | +3.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 38,666 | 39,019 | +0.9% |
+| Mechanical Engineering | Mechanical & Allied | 56,984 | 55,672 | -2.3% |
+| Civil Engineering | Civil & Construction | 1,02,844 | 99,645 | -3.1% |
+
+### #53 — Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E165 · **Composite rank:** #37 of 106 ComedK colleges (score 65,160.4)
@@ -1719,25 +1739,25 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Information Technology (Data Analytics) | Computer Science & IT | 59,276 | 1,07,417 | +81.2% |
 | Information Technology | Computer Science & IT | 53,017 | 1,08,070 | +103.8% |
 
-### #53 — Global Academy of Technology
+### #54 — Global Academy of Technology
 
-**KCET code:** E103 · **Composite rank:** #45 of 239 KCET colleges (score 34,830.3)
+**KCET code:** E103 · **Composite rank:** #45 of 242 KCET colleges (score 35,238.1)
 **ComedK code:** E050 · **Composite rank:** #38 of 106 ComedK colleges (score 65,873.1)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 26,468 | 32,747 | +23.7% |
-| Computer Science and Engineering | Computer Science & IT | 24,631 | 32,845 | +33.3% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 24,971 | 32,877 | +31.7% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 26,522 | 33,008 | +24.5% |
-| Electronics and Communication Engg | Electronics & Communication | 27,846 | 36,662 | +31.7% |
-| Information Science and Engineering | Computer Science & IT | 29,169 | 39,372 | +35.0% |
-| Aeronautical Engineering | Aerospace | 36,174 | 45,301 | +25.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 39,917 | 51,548 | +29.1% |
-| Mechanical Engineering | Mechanical & Allied | 59,206 | 72,872 | +23.1% |
-| Civil Engineering | Civil & Construction | 98,617 | 1,20,060 | +21.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 32,747 | 32,370 | -1.2% |
+| Computer Science and Engineering | Computer Science & IT | 32,845 | 32,877 | +0.1% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 33,008 | 33,745 | +2.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 32,877 | 34,075 | +3.6% |
+| Electronics and Communication Engg | Electronics & Communication | 36,662 | 35,433 | -3.4% |
+| Information Science and Engineering | Computer Science & IT | 39,372 | 39,050 | -0.8% |
+| Aeronautical Engineering | Aerospace | 45,301 | 46,175 | +1.9% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 51,548 | 50,507 | -2.0% |
+| Mechanical Engineering | Mechanical & Allied | 72,872 | 76,057 | +4.4% |
+| Civil Engineering | Civil & Construction | 1,20,060 | 1,08,362 | -9.7% |
 
 **ComedK branches — Round 3, GM category** (9 branches; most competitive category: Computer Science & IT):
 
@@ -1753,37 +1773,21 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Civil Engineering | Civil & Construction | 62,217 | 1,07,816 | +73.3% |
 | Mechanical Engineering | Mechanical & Allied | 61,212 | 1,09,517 | +78.9% |
 
-### #54 — Vidya Vardhaka College of Engineering
-
-**KCET code:** E071 · **Composite rank:** #38 of 239 KCET colleges (score 25,934.5)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 19,012 | 22,381 | +17.7% |
-| Computer Science and Engineering | Computer Science & IT | 18,509 | 26,330 | +42.3% |
-| Electronics and Communication Engg | Electronics & Communication | 23,785 | 29,563 | +24.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 29,473 | 38,666 | +31.2% |
-| Mechanical Engineering | Mechanical & Allied | 53,525 | 56,984 | +6.5% |
-| Civil Engineering | Civil & Construction | 77,613 | 1,02,844 | +32.5% |
-
 ### #55 — Amruta Institute of Engineering & Management Science (AIEMS)
 
-**KCET code:** E168 · **Composite rank:** #163 of 239 KCET colleges (score 1,40,092.9)
+**KCET code:** E168 · **Composite rank:** #167 of 242 KCET colleges (score 1,50,346.9)
 **ComedK code:** E203 · **Composite rank:** #39 of 106 ComedK colleges (score 66,385)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 79,170 | 1,19,572 | +51.0% |
-| Computer Science and Engineering | Computer Science & IT | 93,762 | 1,35,815 | +44.9% |
-| Electronics and Communication Engg | Electronics & Communication | 96,937 | 1,66,677 | +71.9% |
-| Mechanical Engineering | Mechanical & Allied | 1,12,013 | 2,08,824 | +86.4% |
-| Information Science and Engineering | Computer Science & IT | 1,20,222 | 2,46,258 | +104.8% |
-| Civil Engineering | Civil & Construction | 1,53,862 | 2,73,184 | +77.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,19,572 | 1,29,645 | +8.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,35,815 | 1,46,117 | +7.6% |
+| Electronics and Communication Engg | Electronics & Communication | 1,66,677 | 1,81,665 | +9.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,08,824 | 2,58,028 | +23.6% |
+| Information Science and Engineering | Computer Science & IT | 2,46,258 | 2,71,767 | +10.4% |
+| Civil Engineering | Civil & Construction | 2,73,184 | 2,73,184 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -1791,50 +1795,35 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 1,09,768 | 66,385 | -39.5% |
 
-### #56 — Govt.S K S J T Institute of Engineering
+### #56 — B V V Sangha`s Basaveshwara Engineering College (KCET E031)
 
-**KCET code:** E002 · **Composite rank:** #39 of 239 KCET colleges (score 26,581.8)
+**KCET code:** E031 · **Composite rank:** #39 of 242 KCET colleges (score 28,278.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 15,440 | 23,065 | +49.4% |
-| Electronics and Communication Engg | Electronics & Communication | 24,743 | 33,271 | +34.5% |
-| Civil Engineering | Civil & Construction | 81,087 | 97,529 | +20.3% |
-| Silk Technology | Other Branches | 1,24,001 | 1,58,385 | +27.7% |
-| Textiles Technology | Other Branches | 1,30,014 | 1,93,273 | +48.7% |
+| Computer Science and Engineering | Computer Science & IT | 24,053 | 26,146 | +8.7% |
+| Electronics and Communication Engg | Electronics & Communication | 32,928 | 32,001 | -2.8% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 52,382 | 50,137 | -4.3% |
+| Civil Engineering | Civil & Construction | 89,447 | 89,447 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 1,45,056 | 1,45,852 | +0.5% |
+| Industrial & Production Engineering | Mechanical & Allied | 2,77,111 | 2,77,111 | 0.0% |
 
-### #57 — B V V Sangha`s Basaveshwara Engineering College (KCET E031)
+### #57 — C M N Institute Of Technology #18
 
-**KCET code:** E031 · **Composite rank:** #40 of 239 KCET colleges (score 27,359.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 18,859 | 24,053 | +27.5% |
-| Electronics and Communication Engg | Electronics & Communication | 29,716 | 32,928 | +10.8% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 44,713 | 52,382 | +17.2% |
-| Civil Engineering | Civil & Construction | 85,173 | 89,447 | +5.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,28,760 | 1,45,056 | +12.7% |
-| Industrial & Production Engineering | Mechanical & Allied | 1,47,709 | 2,77,111 | +87.6% |
-
-### #58 — C M N Institute Of Technology #18
-
-**KCET code:** E322 · **Composite rank:** #174 of 239 KCET colleges (score 1,60,875.6)
+**KCET code:** E322 · **Composite rank:** #172 of 242 KCET colleges (score 1,60,574.1)
 **ComedK code:** E218 · **Composite rank:** #40 of 106 ComedK colleges (score 66,979)
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 90,220 | 1,18,121 | +30.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,13,053 | 1,52,638 | +35.0% |
-| Electronics & Computer Engineering | Computer Science & IT | 1,80,836 | 2,25,001 | +24.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,32,852 | 2,57,788 | +94.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,18,121 | 1,30,438 | +10.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,52,638 | 1,52,874 | +0.2% |
+| Electronics & Computer Engineering | Computer Science & IT | 2,25,001 | 2,04,890 | -8.9% |
+| Electronics and Communication Engg | Electronics & Communication | 2,57,788 | 2,57,788 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -1843,6 +1832,24 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 32,688 | 56,723 | +73.5% |
 | Electronics & Communicatio n Engineering | Electronics & Communication | 65,577 | 66,536 | +1.5% |
 | Computer Science & Engineering | Computer Science & IT | 29,762 | 77,428 | +160.2% |
+
+### #58 — K L E Technological Univeristy
+
+**KCET code:** E036 · **Composite rank:** #40 of 242 KCET colleges (score 29,478.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 26,787 | 23,995 | -10.4% |
+| Computer Science and Engineering | Computer Science & IT | 29,145 | 29,190 | +0.2% |
+| Electronics and Communication Engg | Electronics & Communication | 31,707 | 32,303 | +1.9% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 44,874 | 44,963 | +0.2% |
+| Bio-Medical Engineering | Biotechnology & Life Sciences | 59,900 | 61,827.5 | +3.2% |
+| Chemical Engineering | Chemical & Polymer | 91,179 | 81,473 | -10.6% |
+| Mechanical Engineering | Mechanical & Allied | 82,761 | 85,783 | +3.7% |
+| Civil Engineering | Civil & Construction | 1,30,289 | 1,33,730 | +2.6% |
 
 ### #59 — GITAM Deemed to be University-Dodaballapur taluk, Bengaluru
 
@@ -1861,20 +1868,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #60 — Sahyadri College Of Engineering & Management
 
-**KCET code:** E160 · **Composite rank:** #42 of 239 KCET colleges (score 30,129.7)
+**KCET code:** E160 · **Composite rank:** #41 of 242 KCET colleges (score 29,542.1)
 **ComedK code:** E112 · **Composite rank:** #91 of 106 ComedK colleges (score 1,03,242.9)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 18,440 | 21,800 | +18.2% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 21,176 | 24,771 | +17.0% |
-| Electronics and Communication Engg | Electronics & Communication | 25,150 | 33,997 | +35.2% |
-| Information Science and Engineering | Computer Science & IT | 27,281 | 34,325 | +25.8% |
-| Robotics and Automation | Mechanical & Allied | 34,058 | 38,335 | +12.6% |
-| Electronics & Computer Engineering | Computer Science & IT | 33,236 | 40,871 | +23.0% |
-| Mechanical Engineering | Mechanical & Allied | 61,161 | 72,530 | +18.6% |
+| Computer Science and Engineering | Computer Science & IT | 21,800 | 21,727 | -0.3% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 24,771 | 24,626 | -0.6% |
+| Information Science and Engineering | Computer Science & IT | 34,325 | 33,456 | -2.5% |
+| Electronics and Communication Engg | Electronics & Communication | 33,997 | 33,997 | 0.0% |
+| Robotics and Automation | Mechanical & Allied | 38,335 | 38,646 | +0.8% |
+| Electronics & Computer Engineering | Computer Science & IT | 40,871 | 44,001 | +7.7% |
+| Mechanical Engineering | Mechanical & Allied | 72,530 | 80,316 | +10.7% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -1901,52 +1908,49 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electrical & Electronics Engineering | Electrical & Electronics | 55,347 | 75,503 | +36.4% |
 | Civil Engineering | Civil & Construction | 55,724 | 83,522 | +49.9% |
 
-### #62 — K L E Technological Univeristy
+### #62 — Govt.S K S J T Institute of Engineering
 
-**KCET code:** E036 · **Composite rank:** #43 of 239 KCET colleges (score 30,662.4)
+**KCET code:** E002 · **Composite rank:** #43 of 242 KCET colleges (score 31,716.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 17,761 | 26,787 | +50.8% |
-| Computer Science and Engineering | Computer Science & IT | 21,716 | 29,145 | +34.2% |
-| Electronics and Communication Engg | Electronics & Communication | 23,623 | 31,707 | +34.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 37,463 | 44,874 | +19.8% |
-| Bio-Medical Engineering | Biotechnology & Life Sciences | 39,387 | 59,900 | +52.1% |
-| Mechanical Engineering | Mechanical & Allied | 80,721 | 82,761 | +2.5% |
-| Chemical Engineering | Chemical & Polymer | 57,753 | 91,179 | +57.9% |
-| Civil Engineering | Civil & Construction | 1,12,432 | 1,30,289 | +15.9% |
+| Computer Science and Engineering | Computer Science & IT | 23,065 | 26,221 | +13.7% |
+| Electronics and Communication Engg | Electronics & Communication | 33,271 | 35,517 | +6.8% |
+| Civil Engineering | Civil & Construction | 97,529 | 1,01,871 | +4.5% |
+| Silk Technology | Other Branches | 1,58,385 | 1,75,586 | +10.9% |
+| Textiles Technology | Other Branches | 1,93,273 | 2,51,450 | +30.1% |
 
 ### #63 — PRESIDENCY University ITGALPURA
 
-**KCET code:** E237 · **Composite rank:** #65 of 239 KCET colleges (score 59,684.8)
+**KCET code:** E237 · **Composite rank:** #69 of 242 KCET colleges (score 61,538)
 **ComedK code:** E173 · **Composite rank:** #43 of 106 ComedK colleges (score 70,106.5)
 
-**KCET branches — Round 2 Mock, GM category** (19 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (19 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 30,234 | 39,742 | +31.4% |
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 33,062 | 43,485 | +31.5% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 37,291 | 48,756 | +30.7% |
-| B Tech in Computer Science and Engineering(Cy Ber Security) | Computer Science & IT | 42,229 | 51,189 | +21.2% |
-| B Tech in Aero Space Engineering | Aerospace | 42,774 | 51,469 | +20.3% |
-| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 46,265 | 56,506 | +22.1% |
-| B Tech in Computer Science and Technology(Big Data) | Computer Science & IT | 40,977 | 57,183 | +39.5% |
-| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 44,591 | 58,555 | +31.3% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 42,386 | 58,762 | +38.6% |
-| B Tech in Computer Science and Technology(De V Ops) | Computer Science & IT | 49,656 | 61,625 | +24.1% |
-| B Tech in Information Science Engineering | Computer Science & IT | 46,815 | 63,694 | +36.1% |
-| B.Tech in VLSI | Electronics & Communication | 52,704 | 65,845 | +24.9% |
-| B Tech in Computer Science and Engineering(Iot ) | Computer Science & IT | 54,405 | 68,812 | +26.5% |
-| B Tech in Computer Science and Engineering(Bl Ock Chain) | Computer Science & IT | 50,166 | 70,815 | +41.2% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 53,932 | 73,634 | +36.5% |
-| B Tech in Information Science & Technology | Computer Science & IT | 54,373 | 74,039 | +36.2% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 68,670 | 86,538 | +26.0% |
-| B Tech in Civil Engineering | Civil & Construction | 90,956 | 96,198 | +5.8% |
-| B Tech in Petroleum Engineering | Other Branches | 64,802 | 1,01,851 | +57.2% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 39,742 | 38,590 | -2.9% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 43,485 | 43,910 | +1.0% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 48,756 | 48,756 | 0.0% |
+| B Tech in Aero Space Engineering | Aerospace | 51,469 | 49,622.5 | -3.6% |
+| B Tech in Computer Science and Engineering(Cy Ber Security) | Computer Science & IT | 51,189 | 51,189 | 0.0% |
+| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 56,506 | 55,570 | -1.7% |
+| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 58,555 | 56,124 | -4.2% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 58,762 | 58,737 | -0.0% |
+| B Tech in Computer Science and Technology(Big Data) | Computer Science & IT | 57,183 | 62,414 | +9.1% |
+| B Tech in Computer Science and Technology(De V Ops) | Computer Science & IT | 61,625 | 62,770 | +1.9% |
+| B Tech in Information Science Engineering | Computer Science & IT | 63,694 | 67,520 | +6.0% |
+| B Tech in Computer Science and Engineering(Iot ) | Computer Science & IT | 68,812 | 69,489 | +1.0% |
+| B.Tech in VLSI | Electronics & Communication | 65,845 | 69,814 | +6.0% |
+| B Tech in Computer Science and Engineering(Bl Ock Chain) | Computer Science & IT | 70,815 | 71,145 | +0.5% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 73,634 | 73,466 | -0.2% |
+| B Tech in Information Science & Technology | Computer Science & IT | 74,039 | 77,256 | +4.3% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 86,538 | 82,521 | -4.6% |
+| B Tech in Civil Engineering | Civil & Construction | 96,198 | 96,198 | 0.0% |
+| B Tech in Petroleum Engineering | Other Branches | 1,01,851 | 96,714 | -5.0% |
 
 **ComedK branches — Round 3, GM category** (14 branches; most competitive category: Computer Science & IT):
 
@@ -1969,20 +1973,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #64 — APS College of Engineering
 
-**KCET code:** E085 · **Composite rank:** #142 of 239 KCET colleges (score 1,15,230.7)
+**KCET code:** E085 · **Composite rank:** #155 of 242 KCET colleges (score 1,28,701.9)
 **ComedK code:** E011 · **Composite rank:** #44 of 106 ComedK colleges (score 71,116)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 52,764 | 88,083 | +66.9% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 69,566 | 93,964 | +35.1% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 78,292 | 1,09,160 | +39.4% |
-| Electronics and Communication Engg | Electronics & Communication | 77,361 | 1,12,680 | +45.7% |
-| Computer Science and Engineering | Computer Science & IT | 79,129 | 1,21,735 | +53.8% |
-| Information Science and Engineering | Computer Science & IT | 97,404 | 1,84,239 | +89.1% |
-| Electronics & Computer Engineering | Computer Science & IT | 1,16,853 | 2,80,012 | +139.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 88,083 | 98,302 | +11.6% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 93,964 | 1,05,171 | +11.9% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,09,160 | 1,23,239 | +12.9% |
+| Computer Science and Engineering | Computer Science & IT | 1,21,735 | 1,32,902 | +9.2% |
+| Electronics and Communication Engg | Electronics & Communication | 1,12,680 | 1,36,673 | +21.3% |
+| Information Science and Engineering | Computer Science & IT | 1,84,239 | 2,10,475.5 | +14.2% |
+| Electronics & Computer Engineering | Computer Science & IT | 2,80,012 | 2,80,012 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -1994,22 +1998,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #65 — M S Engineering College
 
-**KCET code:** E127 · **Composite rank:** #208 of 239 KCET colleges (score 2,34,230.7)
+**KCET code:** E127 · **Composite rank:** #217 of 242 KCET colleges (score 2,51,497.1)
 **ComedK code:** E076 · **Composite rank:** #45 of 106 ComedK colleges (score 71,795)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 73,420 | 1,10,175 | +50.1% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 71,767 | 1,20,206 | +67.5% |
-| Information Science and Engineering | Computer Science & IT | 1,42,662 | 2,19,507 | +53.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,25,656 | 2,45,790 | +95.6% |
-| Mechanical Engineering | Mechanical & Allied | 1,74,177 | 2,46,680 | +41.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,10,528 | 2,47,598 | +124.0% |
-| Civil Engineering | Civil & Construction | 1,60,611 | 2,66,381 | +65.9% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,06,844 | 2,78,222.5 | +160.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,13,085 | 2,80,161 | +147.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,10,175 | 1,14,512 | +3.9% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,20,206 | 1,32,959 | +10.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,46,680 | 2,46,680 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,19,507 | 2,48,329 | +13.1% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,45,790 | 2,52,695 | +2.8% |
+| Electronics and Communication Engg | Electronics & Communication | 2,47,598 | 2,62,375 | +6.0% |
+| Civil Engineering | Civil & Construction | 2,66,381 | 2,66,381 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,78,222.5 | 2,78,222.5 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,80,161 | 2,79,372 | -0.3% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Computer Science & IT):
 
@@ -2023,25 +2027,25 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #66 — Dayananda Sagar University DEVARAKAGGALAHALLI VILLAGE
 
-**KCET code:** E240 · **Composite rank:** #46 of 239 KCET colleges (score 35,930.3)
+**KCET code:** E240 · **Composite rank:** #46 of 242 KCET colleges (score 35,429.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (12 branches; most competitive category: Aerospace):
+**KCET branches — Round 2, GM category** (12 branches; most competitive category: Aerospace):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Aero Space Engineering | Aerospace | 14,956 | 23,390 | +56.4% |
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 23,766 | 28,791 | +21.1% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 21,965 | 29,140 | +32.7% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 25,537 | 33,096 | +29.6% |
-| B Tech in Computer Science and Engineering(Cy Ber Security) | Computer Science & IT | 26,816 | 34,015 | +26.8% |
-| B Tech in Computer Science and Engineering(Ar Tificial Intelligence and Data Science) | Computer Science & IT | 28,939 | 36,559 | +26.3% |
-| B.Tech in Computer Science & Engineering(Ar Tificial Intelligence) | Computer Science & IT | 28,556 | 36,787 | +28.8% |
-| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 28,759 | 37,165 | +29.2% |
-| B Tech in Computer Science and Technology | Computer Science & IT | 28,161 | 38,222 | +35.7% |
-| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 29,691 | 38,517 | +29.7% |
-| B.TECH IN Computer Science and Medical Engineering | Computer Science & IT | 26,517 | 39,096 | +47.4% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 39,117 | 45,603 | +16.6% |
+| B Tech in Aero Space Engineering | Aerospace | 23,390 | 24,615 | +5.2% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 29,140 | 28,597 | -1.9% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 28,791 | 28,773 | -0.1% |
+| B Tech in Computer Science and Engineering(Cy Ber Security) | Computer Science & IT | 34,015 | 31,890 | -6.2% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 33,096 | 32,249 | -2.6% |
+| B Tech in Computer Science and Engineering(Ar Tificial Intelligence and Data Science) | Computer Science & IT | 36,559 | 35,621.5 | -2.6% |
+| B.Tech in Computer Science & Engineering(Ar Tificial Intelligence) | Computer Science & IT | 36,787 | 36,242 | -1.5% |
+| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 37,165 | 36,367 | -2.1% |
+| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 38,517 | 36,561 | -5.1% |
+| B Tech in Computer Science and Technology | Computer Science & IT | 38,222 | 37,992 | -0.6% |
+| B.TECH IN Computer Science and Medical Engineering | Computer Science & IT | 39,096 | 39,157 | +0.2% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 45,603 | 45,596 | -0.0% |
 
 ### #67 — KLE Technological University, Belagavi Campus. Formerly known as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi
 
@@ -2062,22 +2066,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #68 — ATME College of Engineering
 
-**KCET code:** E205 · **Composite rank:** #110 of 239 KCET colleges (score 91,326.3)
+**KCET code:** E205 · **Composite rank:** #108 of 242 KCET colleges (score 88,975.1)
 **ComedK code:** E152 · **Composite rank:** #47 of 106 ComedK colleges (score 74,925)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 47,255 | 53,800 | +13.9% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 77,106 | 85,876 | +11.4% |
-| Computer Science and Engineering | Computer Science & IT | 72,471 | 88,428 | +22.0% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 77,976 | 95,498 | +22.5% |
-| Electronics and Communication Engg | Electronics & Communication | 82,841 | 1,04,252 | +25.8% |
-| Computer Science and Design | Computer Science & IT | 1,00,852 | 1,25,105 | +24.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,12,724 | 1,42,027 | +26.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,22,683 | 1,42,570 | +16.2% |
-| Civil Engineering | Civil & Construction | 1,17,352 | 1,43,997 | +22.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 53,800 | 53,800 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 85,876 | 83,885 | -2.3% |
+| Computer Science and Engineering | Computer Science & IT | 88,428 | 86,257 | -2.5% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 95,498 | 99,505 | +4.2% |
+| Electronics and Communication Engg | Electronics & Communication | 1,04,252 | 1,03,509 | -0.7% |
+| Computer Science and Design | Computer Science & IT | 1,25,105 | 1,32,122 | +5.6% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,42,027 | 1,33,415 | -6.1% |
+| Mechanical Engineering | Mechanical & Allied | 1,42,570 | 1,47,514 | +3.5% |
+| Civil Engineering | Civil & Construction | 1,43,997 | 1,51,300 | +5.1% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -2090,64 +2094,64 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #69 — Cambridge Institutute of Technology
 
-**KCET code:** E149 · **Composite rank:** #47 of 239 KCET colleges (score 36,847.3)
+**KCET code:** E149 · **Composite rank:** #47 of 242 KCET colleges (score 35,831.4)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 24,296 | 29,959 | +23.3% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 28,752 | 34,823 | +21.1% |
-| Computer Science and Engineering | Computer Science & IT | 27,617 | 34,831 | +26.1% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 29,848 | 37,323 | +25.0% |
-| Electronics and Communication Engg | Electronics & Communication | 31,284 | 40,165 | +28.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 39,585 | 59,737 | +50.9% |
-| Mechanical Engineering | Mechanical & Allied | 66,430 | 90,642 | +36.4% |
-| Civil Engineering | Civil & Construction | 99,655 | 1,22,550 | +23.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 29,959 | 29,674 | -1.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 34,823 | 33,784 | -3.0% |
+| Computer Science and Engineering | Computer Science & IT | 34,831 | 34,047 | -2.3% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 37,323 | 35,120 | -5.9% |
+| Electronics and Communication Engg | Electronics & Communication | 40,165 | 40,111 | -0.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 59,737 | 59,377 | -0.6% |
+| Mechanical Engineering | Mechanical & Allied | 90,642 | 91,742 | +1.2% |
+| Civil Engineering | Civil & Construction | 1,22,550 | 1,31,826 | +7.6% |
 
 ### #70 — M V J College of Engineering
 
-**KCET code:** E011 · **Composite rank:** #48 of 239 KCET colleges (score 36,858.5)
+**KCET code:** E011 · **Composite rank:** #48 of 242 KCET colleges (score 37,379.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (15 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (15 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 18,822 | 27,962 | +48.6% |
-| Computer Science and Engineering | Computer Science & IT | 22,471 | 32,031 | +42.5% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 23,066 | 34,363 | +49.0% |
-| Information Science and Engineering | Computer Science & IT | 28,176 | 39,863 | +41.5% |
-| Electronics and Communication Engg | Electronics & Communication | 30,217 | 40,937 | +35.5% |
-| Computer Science and Design | Computer Science & IT | 31,501 | 41,350 | +31.3% |
-| Electronics and Communication (Advanced Communication Technology) | Electronics & Communication | 31,652 | 45,090 | +42.5% |
-| Aero Space Engineering | Aerospace | 28,126 | 45,631 | +62.2% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 35,255 | 46,740 | +32.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 36,828 | 53,583 | +45.5% |
-| Chemical Engineering | Chemical & Polymer | 36,444 | 55,365 | +51.9% |
-| Aeronautical Engineering | Aerospace | 38,105 | 57,252 | +50.2% |
-| Mechanical Engineering | Mechanical & Allied | 49,072 | 76,764 | +56.4% |
-| Industrial Iot | Mechanical & Allied | 71,160 | 84,443 | +18.7% |
-| Civil Engineering | Civil & Construction | 83,087 | 1,03,856 | +25.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 27,962 | 28,752 | +2.8% |
+| Computer Science and Engineering | Computer Science & IT | 32,031 | 34,064 | +6.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 34,363 | 35,205 | +2.5% |
+| Electronics and Communication Engg | Electronics & Communication | 40,937 | 41,930 | +2.4% |
+| Information Science and Engineering | Computer Science & IT | 39,863 | 42,019 | +5.4% |
+| Computer Science and Design | Computer Science & IT | 41,350 | 44,981 | +8.8% |
+| Electronics and Communication (Advanced Communication Technology) | Electronics & Communication | 45,090 | 45,090 | 0.0% |
+| Aero Space Engineering | Aerospace | 45,631 | 45,631 | 0.0% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 46,740 | 51,886 | +11.0% |
+| Chemical Engineering | Chemical & Polymer | 55,365 | 54,081 | -2.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 53,583 | 55,527 | +3.6% |
+| Aeronautical Engineering | Aerospace | 57,252 | 61,340 | +7.1% |
+| Mechanical Engineering | Mechanical & Allied | 76,764 | 76,764 | 0.0% |
+| Civil Engineering | Civil & Construction | 1,03,856 | 95,228 | -8.3% |
+| Industrial Iot | Mechanical & Allied | 84,443 | 96,222 | +13.9% |
 
 ### #71 — S E A College of Engineering & Technology
 
-**KCET code:** E153 · **Composite rank:** #183 of 239 KCET colleges (score 1,68,811.1)
+**KCET code:** E153 · **Composite rank:** #174 of 242 KCET colleges (score 1,62,122.4)
 **ComedK code:** E109 · **Composite rank:** #48 of 106 ComedK colleges (score 76,024.4)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 78,221 | 1,07,447 | +37.4% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 84,533 | 1,14,438 | +35.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,05,643 | 1,59,588 | +51.1% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,14,045 | 2,01,988 | +77.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,11,060 | 2,50,849 | +125.9% |
-| Information Science and Engineering | Computer Science & IT | 1,26,537 | 2,56,031 | +102.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,54,791 | 2,80,356 | +81.1% |
-| Civil Engineering | Civil & Construction | 1,65,578 | 2,82,256 | +70.5% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,07,447 | 1,13,047 | +5.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,14,438 | 1,15,349 | +0.8% |
+| Computer Science and Engineering | Computer Science & IT | 1,59,588 | 1,58,315 | -0.8% |
+| Electronics and Communication Engg | Electronics & Communication | 2,50,849 | 1,89,448 | -24.5% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 2,01,988 | 1,99,814 | -1.1% |
+| Mechanical Engineering | Mechanical & Allied | 2,80,356 | 2,53,746 | -9.5% |
+| Information Science and Engineering | Computer Science & IT | 2,56,031 | 2,61,169 | +2.0% |
+| Civil Engineering | Civil & Construction | 2,82,256 | 2,82,256 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -2159,18 +2163,18 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #72 — BGS College of Engineering & Technology
 
-**KCET code:** E286 · **Composite rank:** #49 of 239 KCET colleges (score 37,251)
+**KCET code:** E286 · **Composite rank:** #49 of 242 KCET colleges (score 39,465)
 **ComedK code:** E207 · **Composite rank:** #56 of 106 ComedK colleges (score 88,717)
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 28,300 | 34,260 | +21.1% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 28,149 | 36,029 | +28.0% |
-| Computer Science and Engineering | Computer Science & IT | 27,696 | 37,251 | +34.5% |
-| Information Science and Engineering | Computer Science & IT | 33,136 | 44,728 | +35.0% |
-| Computer Science and Design | Computer Science & IT | 42,437 | 50,697 | +19.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 34,260 | 34,684 | +1.2% |
+| Computer Science and Engineering | Computer Science & IT | 37,251 | 38,343 | +2.9% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 36,029 | 39,465 | +9.5% |
+| Information Science and Engineering | Computer Science & IT | 44,728 | 46,922 | +4.9% |
+| Computer Science and Design | Computer Science & IT | 50,697 | 53,485 | +5.5% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Computer Science & IT):
 
@@ -2211,22 +2215,40 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electronics & Communicatio n Engineering | Electronics & Communication | 95,525 | 46,079 | -51.8% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 1,09,194 | 87,434 | -19.9% |
 
-### #75 — CMR University Main Campus
+### #75 — University B.D.T College of Engineering (KCET E061)
 
-**KCET code:** E257 · **Composite rank:** #50 of 239 KCET colleges (score 39,729.3)
+**KCET code:** E061 · **Composite rank:** #50 of 242 KCET colleges (score 41,629.8)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 35,238 | 34,004 | -3.5% |
+| Electronics and Communication Engg | Electronics & Communication | 40,092 | 39,771 | -0.8% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 46,572 | 44,549 | -4.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 52,239 | 52,223 | -0.0% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 80,505 | 80,106 | -0.5% |
+| Civil Engineering | Civil & Construction | 81,126 | 84,447 | +4.1% |
+| Mechanical Engineering | Mechanical & Allied | 1,06,645 | 1,06,645 | 0.0% |
+
+### #76 — CMR University Main Campus
+
+**KCET code:** E257 · **Composite rank:** #51 of 242 KCET colleges (score 44,338.1)
 **ComedK code:** E187 · **Composite rank:** #54 of 106 ComedK colleges (score 85,517.8)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 19,895 | 28,597 | +43.7% |
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 20,996 | 32,795 | +56.2% |
-| B Tech in Computer Science and Technology | Computer Science & IT | 23,842 | 38,048 | +59.6% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 26,870 | 40,320 | +50.1% |
-| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 27,600 | 41,031 | +48.7% |
-| B Tech in Computer Engineering | Computer Science & IT | 30,370 | 43,643 | +43.7% |
-| B Tech in Information Technology | Computer Science & IT | 32,257 | 47,441 | +47.1% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 28,597 | 29,296 | +2.4% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 32,795 | 36,356 | +10.9% |
+| B Tech in Computer Science and Technology | Computer Science & IT | 38,048 | 40,330 | +6.0% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 40,320 | 42,615 | +5.7% |
+| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 41,031 | 45,529.5 | +11.0% |
+| B Tech in Information Technology | Computer Science & IT | 47,441 | 48,838 | +2.9% |
+| B Tech in Computer Engineering | Computer Science & IT | 43,643 | 48,949 | +12.2% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | — | 61,958 | — |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -2240,24 +2262,24 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Engineering | Computer Science & IT | 45,710 | 1,07,769 | +135.8% |
 | Computer Science & Technology | Computer Science & IT | 47,587 | 1,09,444 | +130.0% |
 
-### #76 — THE CHANAKYA UNIVERSITY NO 29 HARALURU
+### #77 — THE CHANAKYA UNIVERSITY NO 29 HARALURU
 
-**KCET code:** E306 · **Composite rank:** #56 of 239 KCET colleges (score 49,894.6)
+**KCET code:** E306 · **Composite rank:** #57 of 242 KCET colleges (score 50,421.1)
 **ComedK code:** E036 · **Composite rank:** #51 of 106 ComedK colleges (score 80,191.7)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Biotechnology & Life Sciences):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Biotechnology & Life Sciences):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B.Tech In BIOTECHNOLOGY & BIO- ENGINEERING | Biotechnology & Life Sciences | 22,949 | 32,233 | +40.5% |
-| B.Tech in Computer Science and Artificial Intelligence | Computer Science & IT | 31,092 | 36,287 | +16.7% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 38,205 | 48,485 | +26.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 40,491 | 48,501 | +19.8% |
-| B.Tech in Mechanical and Aerospace Engineering | Mechanical & Allied | 49,617 | 57,131 | +15.1% |
-| B.Tech in Electronics Engineering (Vlsi and Embedded System) | Electronics & Communication | 52,301 | 67,587.5 | +29.2% |
-| B Tech in Robotics and Automation | Mechanical & Allied | 62,460 | 83,701 | +34.0% |
-| B.Tech in Electrical Engineering and Computer Science | Computer Science & IT | 65,835 | 95,485 | +45.0% |
-| B Tech in Civil Engineering | Civil & Construction | 98,633 | 1,54,045 | +56.2% |
+| B.Tech In BIOTECHNOLOGY & BIO- ENGINEERING | Biotechnology & Life Sciences | 32,233 | 32,233 | 0.0% |
+| B.Tech in Computer Science and Artificial Intelligence | Computer Science & IT | 36,287 | 33,839 | -6.7% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 48,501 | 46,988 | -3.1% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 48,485 | 48,765 | +0.6% |
+| B.Tech in Mechanical and Aerospace Engineering | Mechanical & Allied | 57,131 | 58,341 | +2.1% |
+| B.Tech in Electronics Engineering (Vlsi and Embedded System) | Electronics & Communication | 67,587.5 | 67,587.5 | 0.0% |
+| B.Tech in Electrical Engineering and Computer Science | Computer Science & IT | 95,485 | 78,172 | -18.1% |
+| B Tech in Robotics and Automation | Mechanical & Allied | 83,701 | 83,701 | 0.0% |
+| B Tech in Civil Engineering | Civil & Construction | 1,54,045 | 2,16,111 | +40.3% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Electronics & Communication):
 
@@ -2268,23 +2290,6 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 26,010 | 62,776 | +141.4% |
 | Automation & Robotics Engineering | Mechanical & Allied | 43,607 | 90,872 | +108.4% |
 | Electrical Engineering and Computer Science | Computer Science & IT | 71,272 | 1,08,262 | +51.9% |
-
-### #77 — University B.D.T College of Engineering (KCET E061)
-
-**KCET code:** E061 · **Composite rank:** #51 of 239 KCET colleges (score 43,474.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 28,270 | 35,238 | +24.6% |
-| Electronics and Communication Engg | Electronics & Communication | 35,192 | 40,092 | +13.9% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 37,695 | 46,572 | +23.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 49,286 | 52,239 | +6.0% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 73,105 | 80,505 | +10.1% |
-| Civil Engineering | Civil & Construction | 71,573 | 81,126 | +13.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,06,645 | 1,06,645 | 0.0% |
 
 ### #78 — Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru
 
@@ -2300,39 +2305,39 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #79 — St.Joseph Engineering College
 
-**KCET code:** E129 · **Composite rank:** #52 of 239 KCET colleges (score 44,384.9)
+**KCET code:** E129 · **Composite rank:** #52 of 242 KCET colleges (score 44,726.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 24,607 | 27,286 | +10.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 31,071 | 41,248 | +32.8% |
-| Computer Science and Engineering | Computer Science & IT | 31,581 | 41,428.5 | +31.2% |
-| Electronics and Communication Engg | Electronics & Communication | 35,281 | 44,400 | +25.8% |
-| Robotics and Automation | Mechanical & Allied | 47,565 | 58,313 | +22.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 59,216 | 68,586 | +15.8% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 50,515 | 69,749 | +38.1% |
-| Mechanical Engineering | Mechanical & Allied | 70,674 | 79,376 | +12.3% |
-| Civil Engineering | Civil & Construction | 1,23,042 | 1,89,447 | +54.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 27,286 | 29,594 | +8.5% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 41,248 | 41,093 | -0.4% |
+| Computer Science and Engineering | Computer Science & IT | 41,428.5 | 41,851.5 | +1.0% |
+| Electronics and Communication Engg | Electronics & Communication | 44,400 | 44,873 | +1.1% |
+| Robotics and Automation | Mechanical & Allied | 58,313 | 60,276 | +3.4% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 69,749 | 67,399 | -3.4% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 68,586 | 68,701 | +0.2% |
+| Mechanical Engineering | Mechanical & Allied | 79,376 | 84,522 | +6.5% |
+| Civil Engineering | Civil & Construction | 1,89,447 | 2,70,645 | +42.9% |
 
 ### #80 — East Point College of Engineering & Technology
 
-**KCET code:** E096 · **Composite rank:** #78 of 239 KCET colleges (score 67,538.7)
+**KCET code:** E096 · **Composite rank:** #81 of 242 KCET colleges (score 68,634.9)
 **ComedK code:** E046 · **Composite rank:** #53 of 106 ComedK colleges (score 83,447.2)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 41,010 | 51,015 | +24.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 49,488 | 63,052 | +27.4% |
-| Computer Science and Engineering | Computer Science & IT | 52,424 | 65,666 | +25.3% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 55,395 | 69,279 | +25.1% |
-| Electronics and Communication Engg | Electronics & Communication | 61,472 | 79,531 | +29.4% |
-| Information Science and Engineering | Computer Science & IT | 66,790 | 88,641 | +32.7% |
-| Civil Engineering | Civil & Construction | 1,17,523 | 1,52,874 | +30.1% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 51,015 | 52,389 | +2.7% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 63,052 | 65,139 | +3.3% |
+| Computer Science and Engineering | Computer Science & IT | 65,666 | 66,784 | +1.7% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 69,279 | 69,279 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 79,531 | 80,448 | +1.2% |
+| Information Science and Engineering | Computer Science & IT | 88,641 | 89,035 | +0.4% |
+| Civil Engineering | Civil & Construction | 1,52,874 | 1,61,076 | +5.4% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -2348,20 +2353,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #81 — K S Institute of Technology
 
-**KCET code:** E091 · **Composite rank:** #53 of 239 KCET colleges (score 46,952.4)
+**KCET code:** E091 · **Composite rank:** #53 of 242 KCET colleges (score 47,488.9)
 **ComedK code:** E068 · **Composite rank:** #78 of 106 ComedK colleges (score 99,551.8)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 31,127 | 41,182 | +32.3% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 34,246 | 45,789 | +33.7% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 38,442 | 46,071 | +19.8% |
-| Electronics and Communication Engg | Electronics & Communication | 34,349 | 46,214 | +34.5% |
-| Computer and Communication Engineering | Computer Science & IT | 49,063 | 60,774 | +23.9% |
-| Computer Science and Design | Computer Science & IT | 49,978 | 65,436 | +30.9% |
-| Mechanical Engineering | Mechanical & Allied | 90,837 | 1,41,374 | +55.6% |
+| Computer Science and Engineering | Computer Science & IT | 41,182 | 40,299 | -2.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 45,789 | 45,499 | -0.6% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 46,071 | 46,990 | +2.0% |
+| Electronics and Communication Engg | Electronics & Communication | 46,214 | 47,793 | +3.4% |
+| Computer Science and Design | Computer Science & IT | 65,436 | 65,436 | 0.0% |
+| Computer and Communication Engineering | Computer Science & IT | 60,774 | 68,678 | +13.0% |
+| Mechanical Engineering | Mechanical & Allied | 1,41,374 | 1,43,397 | +1.4% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -2372,70 +2377,50 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology) | Computer Science & IT | 56,162 | 99,412 | +77.0% |
 | Electronics & Communicatio n Engineering | Electronics & Communication | 56,399 | 1,05,245 | +86.6% |
 
-### #82 — The Oxford College of Engineering
+### #82 — ALLIANCE University Central Campus
 
-**KCET code:** E078 · **Composite rank:** #54 of 239 KCET colleges (score 47,959.2)
+**KCET code:** E220 · **Composite rank:** #54 of 242 KCET colleges (score 47,623.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Biotechnology & Life Sciences):
+**KCET branches — Round 2, GM category** (16 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Bio-Technology | Biotechnology & Life Sciences | 24,939 | 41,194 | +65.2% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 34,653 | 43,978 | +26.9% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 32,742 | 44,644 | +36.4% |
-| Computer Science and Engineering | Computer Science & IT | 32,793 | 44,989 | +37.2% |
-| Electronics and Communication Engg | Electronics & Communication | 40,634 | 56,251 | +38.4% |
-| Information Science and Engineering | Computer Science & IT | 41,856 | 57,326 | +37.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 57,120 | 83,129 | +45.5% |
-| Mechatronics | Mechanical & Allied | 89,394 | 1,11,285 | +24.5% |
-| Mechanical Engineering | Mechanical & Allied | 99,793 | 1,46,752 | +47.1% |
-| Civil Engineering | Civil & Construction | 1,24,069 | 1,78,235 | +43.7% |
+| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 26,825 | 26,800 | -0.1% |
+| B Tech in Computer Science and Engineering(Cy Ber Security) | Computer Science & IT | 33,365 | 33,723 | +1.1% |
+| B Tech in Computer Science & Engg (Artificial Intelligence and Future Technologies) | Computer Science & IT | 41,627 | 40,555 | -2.6% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 41,924 | 40,651 | -3.0% |
+| B Tech in Bio- Technology | Biotechnology & Life Sciences | 41,253 | 42,842 | +3.9% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 45,702 | 45,612 | -0.2% |
+| B Tech in Computer Science and Engineering(Iot ) | Computer Science & IT | 46,423 | 46,369.5 | -0.1% |
+| B Tech in Information Technology | Computer Science & IT | 50,500 | 50,500 | 0.0% |
+| Btech in Information Technology Data Analytics | Computer Science & IT | 55,395 | 54,716 | -1.2% |
+| B.Tech in Computer Engineering(So Ftware Product Development) | Computer Science & IT | 57,545 | 57,545 | 0.0% |
+| B Tech in Aero Space Engineering | Aerospace | 59,540 | 58,326 | -2.0% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 69,137 | 62,444 | -9.7% |
+| Btech in Information Technology Augmented Reality and Virutal Reality(Ar/Vr) | Computer Science & IT | 69,613 | 69,613 | 0.0% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 88,412 | 88,412 | 0.0% |
+| B Tech in Civil Engineering | Civil & Construction | 1,44,295.5 | 1,27,253 | -11.8% |
+| Production Engineering | Mechanical & Allied | 1,69,571 | 2,67,646 | +57.8% |
 
-### #83 — ALLIANCE University Central Campus
+### #83 — Shridevi Institute of Engineering & Technology
 
-**KCET code:** E220 · **Composite rank:** #55 of 239 KCET colleges (score 48,118.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (16 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 22,762 | 26,825 | +17.8% |
-| B Tech in Computer Science and Engineering(Cy Ber Security) | Computer Science & IT | 30,258 | 33,365 | +10.3% |
-| B Tech in Bio- Technology | Biotechnology & Life Sciences | 23,697 | 41,253 | +74.1% |
-| B Tech in Computer Science & Engg (Artificial Intelligence and Future Technologies) | Computer Science & IT | 32,133 | 41,627 | +29.5% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 34,017 | 41,924 | +23.2% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 36,926 | 45,702 | +23.8% |
-| B Tech in Computer Science and Engineering(Iot ) | Computer Science & IT | 40,943 | 46,423 | +13.4% |
-| B Tech in Information Technology | Computer Science & IT | 44,186 | 50,500 | +14.3% |
-| Btech in Information Technology Data Analytics | Computer Science & IT | 47,432 | 55,395 | +16.8% |
-| B.Tech in Computer Engineering(So Ftware Product Development) | Computer Science & IT | 47,602 | 57,545 | +20.9% |
-| B Tech in Aero Space Engineering | Aerospace | 46,724 | 59,540 | +27.4% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 50,487 | 69,137 | +36.9% |
-| Btech in Information Technology Augmented Reality and Virutal Reality(Ar/Vr) | Computer Science & IT | 51,988 | 69,613 | +33.9% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 72,801 | 88,412 | +21.4% |
-| B Tech in Civil Engineering | Civil & Construction | 94,402 | 1,44,295.5 | +52.9% |
-| Production Engineering | Mechanical & Allied | 1,07,131 | 1,69,571 | +58.3% |
-
-### #84 — Shridevi Institute of Engineering & Technology
-
-**KCET code:** E130 · **Composite rank:** #152 of 239 KCET colleges (score 1,24,159.8)
+**KCET code:** E130 · **Composite rank:** #151 of 242 KCET colleges (score 1,24,013.1)
 **ComedK code:** E124 · **Composite rank:** #55 of 106 ComedK colleges (score 86,241)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 86,742 | 95,851 | +10.5% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 76,980 | 1,06,184 | +37.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,00,392 | 1,17,822 | +17.4% |
-| Cyber Security | Computer Science & IT | 1,21,310 | 1,43,863 | +18.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,40,521 | 1,44,862.5 | +3.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,26,876 | 1,58,814 | +25.2% |
-| Information Science and Engineering | Computer Science & IT | 1,19,985 | 1,81,607 | +51.4% |
-| Mechanical Engineering | Mechanical & Allied | 1,88,811 | 2,74,868 | +45.6% |
-| Civil Engineering | Civil & Construction | 1,71,888 | 2,81,614 | +63.8% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 95,851 | 1,02,623 | +7.1% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,06,184 | 1,09,550 | +3.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,17,822 | 1,17,073 | -0.6% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,44,862.5 | 1,55,215 | +7.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,58,814 | 1,76,653 | +11.2% |
+| Information Science and Engineering | Computer Science & IT | 1,81,607 | 1,85,911 | +2.4% |
+| Cyber Security | Computer Science & IT | 1,43,863 | 1,87,516 | +30.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,74,868 | 2,74,868 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,81,614 | 2,81,614 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -2443,21 +2428,41 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Computer Science & Engineering | Computer Science & IT | 1,09,912 | 86,241 | -21.5% |
 
+### #84 — The Oxford College of Engineering
+
+**KCET code:** E078 · **Composite rank:** #55 of 242 KCET colleges (score 49,574.7)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Biotechnology & Life Sciences):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Bio-Technology | Biotechnology & Life Sciences | 41,194 | 43,103 | +4.6% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 44,644 | 45,563 | +2.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 43,978 | 46,189 | +5.0% |
+| Computer Science and Engineering | Computer Science & IT | 44,989 | 47,369 | +5.3% |
+| Electronics and Communication Engg | Electronics & Communication | 56,251 | 57,793 | +2.7% |
+| Information Science and Engineering | Computer Science & IT | 57,326 | 62,719 | +9.4% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 83,129 | 91,536 | +10.1% |
+| Mechatronics | Mechanical & Allied | 1,11,285 | 1,07,516 | -3.4% |
+| Mechanical Engineering | Mechanical & Allied | 1,46,752 | 1,30,770 | -10.9% |
+| Civil Engineering | Civil & Construction | 1,78,235 | 1,91,119 | +7.2% |
+
 ### #85 — K S School of Engineering & Management
 
-**KCET code:** E203 · **Composite rank:** #115 of 239 KCET colleges (score 96,339.6)
+**KCET code:** E203 · **Composite rank:** #118 of 242 KCET colleges (score 98,789.9)
 **ComedK code:** E067 · **Composite rank:** #57 of 106 ComedK colleges (score 89,261)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 67,448 | 79,157 | +17.4% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 69,546 | 88,474.5 | +27.2% |
-| Electronics and Communication Engg | Electronics & Communication | 93,624 | 1,46,349 | +56.3% |
-| Computer Science and Business Systems | Computer Science & IT | 94,278 | 1,65,152 | +75.2% |
-| Civil Engineering | Civil & Construction | 2,30,951 | 2,75,556 | +19.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,15,174 | 2,78,558 | +29.5% |
+| Computer Science and Engineering | Computer Science & IT | 79,157 | 81,390 | +2.8% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 88,474.5 | 93,609 | +5.8% |
+| Electronics and Communication Engg | Electronics & Communication | 1,46,349 | 1,30,868 | -10.6% |
+| Computer Science and Business Systems | Computer Science & IT | 1,65,152 | 1,64,340 | -0.5% |
+| Civil Engineering | Civil & Construction | 2,75,556 | 2,75,556 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,78,558 | 2,78,558 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -2465,49 +2470,25 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Artificial Intelligence & Data Science | Computer Science & IT | 1,10,058 | 89,261 | -18.9% |
 
-### #86 — Jain College of Engineering
+### #86 — K N S Institute of Technology
 
-**KCET code:** E196 · **Composite rank:** #58 of 239 KCET colleges (score 52,091.9)
-**ComedK code:** E062 · **Composite rank:** #70 of 106 ComedK colleges (score 95,444.8)
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 35,680 | 40,370 | +13.1% |
-| Computer Science and Engineering | Computer Science & IT | 44,968 | 53,834 | +19.7% |
-| Electronics and Communication Engg | Electronics & Communication | 52,470 | 59,517 | +13.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,01,251 | 1,18,271 | +16.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,26,689 | 1,60,301 | +26.5% |
-| Civil Engineering | Civil & Construction | 1,63,872 | 2,80,496 | +71.2% |
-
-**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Electronics & Communication):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Electronics & Communicatio n Engineering | Electronics & Communication | 1,00,130 | 78,222 | -21.9% |
-| Computer Science & Engineering | Computer Science & IT | 73,125 | 91,144 | +24.6% |
-| Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 56,236 | 1,07,253 | +90.7% |
-
-### #87 — K N S Institute of Technology
-
-**KCET code:** E100 · **Composite rank:** #168 of 239 KCET colleges (score 1,50,301.3)
+**KCET code:** E100 · **Composite rank:** #171 of 242 KCET colleges (score 1,60,315.4)
 **ComedK code:** E075 · **Composite rank:** #58 of 106 ComedK colleges (score 89,503)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 55,433 | 82,788 | +49.3% |
-| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 85,279 | 1,09,828 | +28.8% |
-| Computer Science and Engineering | Computer Science & IT | 84,849 | 1,17,534 | +38.5% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 98,330 | 1,47,293 | +49.8% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 97,106 | 1,48,951 | +53.4% |
-| Electronics and Communication Engg | Electronics & Communication | 91,901 | 1,55,476 | +69.2% |
-| Information Science and Engineering | Computer Science & IT | 1,02,854 | 1,69,691 | +65.0% |
-| Electronics & Computer Engineering | Computer Science & IT | 1,36,690 | 2,76,130 | +102.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,58,743 | 2,77,769 | +75.0% |
-| Civil Engineering | Civil & Construction | 1,71,147 | 2,79,684 | +63.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 82,788 | 90,608 | +9.4% |
+| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 1,09,828 | 1,11,130 | +1.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,17,534 | 1,28,812 | +9.6% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,48,951 | 1,58,659 | +6.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,55,476 | 1,58,812 | +2.1% |
+| Information Science and Engineering | Computer Science & IT | 1,69,691 | 1,75,279 | +3.3% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,47,293 | 1,79,952 | +22.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,77,769 | 2,76,108 | -0.6% |
+| Electronics & Computer Engineering | Computer Science & IT | 2,76,130 | 2,76,130 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,79,684 | 2,81,747 | +0.7% |
 
 **ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
 
@@ -2516,19 +2497,19 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Data Science) | Computer Science & IT | 1,09,603 | 75,295 | -31.3% |
 | Computer Science & Engineering (Artificial Intelligence & Data Science) | Computer Science & IT | 1,07,736 | 1,03,711 | -3.7% |
 
-### #88 — Malnad College of Engineering (KCET E024, ComedK E079)
+### #87 — Malnad College of Engineering (KCET E024, ComedK E079)
 
-**KCET code:** E024 · **Composite rank:** #59 of 239 KCET colleges (score 52,221.4)
+**KCET code:** E024 · **Composite rank:** #58 of 242 KCET colleges (score 50,456.2)
 **ComedK code:** E079 · **Composite rank:** #85 of 106 ComedK colleges (score 1,01,260.4)
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 28,889 | 33,324 | +15.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 55,301 | 60,897 | +10.1% |
-| Civil Engineering | Civil & Construction | 1,08,340 | 1,18,778 | +9.6% |
-| Mechanical Engineering | Mechanical & Allied | 1,06,534 | 1,33,279 | +25.1% |
+| Electronics and Communication Engg | Electronics & Communication | 33,324 | 33,705 | +1.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 60,897 | 64,259 | +5.5% |
+| Civil Engineering | Civil & Construction | 1,18,778 | 1,22,160 | +2.8% |
+| Mechanical Engineering | Mechanical & Allied | 1,33,279 | 1,33,659 | +0.3% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Electrical & Electronics):
 
@@ -2539,24 +2520,48 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 58,485 | 1,03,404 | +76.8% |
 | Computer Science & Engineering | Computer Science & IT | 65,320 | 1,07,714 | +64.9% |
 
+### #88 — Jain College of Engineering
+
+**KCET code:** E196 · **Composite rank:** #59 of 242 KCET colleges (score 51,145.2)
+**ComedK code:** E062 · **Composite rank:** #70 of 106 ComedK colleges (score 95,444.8)
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 40,370 | 40,497 | +0.3% |
+| Computer Science and Engineering | Computer Science & IT | 53,834 | 52,921 | -1.7% |
+| Electronics and Communication Engg | Electronics & Communication | 59,517 | 57,212 | -3.9% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,18,271 | 1,25,280 | +5.9% |
+| Mechanical Engineering | Mechanical & Allied | 1,60,301 | 1,69,081 | +5.5% |
+| Civil Engineering | Civil & Construction | 2,80,496 | 2,80,496 | 0.0% |
+
+**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Electronics & Communicatio n Engineering | Electronics & Communication | 1,00,130 | 78,222 | -21.9% |
+| Computer Science & Engineering | Computer Science & IT | 73,125 | 91,144 | +24.6% |
+| Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 56,236 | 1,07,253 | +90.7% |
+
 ### #89 — Rajiv Gandhi Institute of Technology
 
-**KCET code:** E124 · **Composite rank:** #109 of 239 KCET colleges (score 90,977)
+**KCET code:** E124 · **Composite rank:** #114 of 242 KCET colleges (score 97,353.5)
 **ComedK code:** E101 · **Composite rank:** #59 of 106 ComedK colleges (score 89,540)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Biotechnology & Life Sciences):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Biotechnology & Life Sciences):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Bio-Medical Engineering | Biotechnology & Life Sciences | 28,307 | 54,681 | +93.2% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 37,318 | 61,372 | +64.5% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 67,399 | 83,304 | +23.6% |
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 55,207 | 86,900 | +57.4% |
-| Computer Science and Engineering | Computer Science & IT | 83,701 | 1,10,230 | +31.7% |
-| Electronics and Communication Engg | Electronics & Communication | 90,816 | 1,20,581 | +32.8% |
-| Information Science and Engineering | Computer Science & IT | 93,617 | 1,45,564 | +55.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,12,648 | 1,81,380 | +61.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,16,938 | 2,20,321 | +88.4% |
+| Bio-Medical Engineering | Biotechnology & Life Sciences | 54,681 | 57,631 | +5.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 61,372 | 69,954 | +14.0% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 86,900 | 92,616 | +6.6% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 83,304 | 93,368 | +12.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,10,230 | 1,11,005 | +0.7% |
+| Electronics and Communication Engg | Electronics & Communication | 1,20,581 | 1,25,178 | +3.8% |
+| Information Science and Engineering | Computer Science & IT | 1,45,564 | 1,45,564 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,81,380 | 2,48,946 | +37.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,20,321 | 2,80,507 | +27.3% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -2569,22 +2574,22 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #90 — Atria Institute of Technology
 
-**KCET code:** E098 · **Composite rank:** #60 of 239 KCET colleges (score 52,887.6)
+**KCET code:** E098 · **Composite rank:** #60 of 242 KCET colleges (score 52,391)
 **ComedK code:** E012 · **Composite rank:** #88 of 106 ComedK colleges (score 1,02,418.1)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 33,044 | 41,489 | +25.6% |
-| Computer Science and Engineering | Computer Science & IT | 39,349 | 51,008 | +29.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 42,266 | 51,093 | +20.9% |
-| Electronics and Communication Engg | Electronics & Communication | 45,418 | 57,339 | +26.2% |
-| Information Science and Engineering | Computer Science & IT | 47,561 | 60,478 | +27.2% |
-| Quantum Computing | Computer Science & IT | 54,846 | 74,498 | +35.8% |
-| Robotics and Automation | Mechanical & Allied | 59,027 | 75,189 | +27.4% |
-| Mechanical Engineering | Mechanical & Allied | 95,744 | 1,10,131 | +15.0% |
-| Civil Engineering | Civil & Construction | 1,21,212 | 1,54,736 | +27.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 41,489 | 41,426 | -0.2% |
+| Computer Science and Engineering | Computer Science & IT | 51,008 | 50,264 | -1.5% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 51,093 | 50,827 | -0.5% |
+| Electronics and Communication Engg | Electronics & Communication | 57,339 | 56,148 | -2.1% |
+| Information Science and Engineering | Computer Science & IT | 60,478 | 58,911 | -2.6% |
+| Robotics and Automation | Mechanical & Allied | 75,189 | 65,737 | -12.6% |
+| Quantum Computing | Computer Science & IT | 74,498 | 82,071.5 | +10.2% |
+| Mechanical Engineering | Mechanical & Allied | 1,10,131 | 1,14,082 | +3.6% |
+| Civil Engineering | Civil & Construction | 1,54,736 | 1,61,535 | +4.4% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Computer Science & IT):
 
@@ -2612,23 +2617,42 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Data Science | Computer Science & IT | 51,883 | 93,375 | +80.0% |
 | Computer Science & Engineering | Computer Science & IT | 46,476 | 97,137 | +109.0% |
 
-### #92 — P E S Institute of Technology & Management
+### #92 — B V V Sangha`s Basaveshwara Engineering College (KCET E049)
 
-**KCET code:** E150 · **Composite rank:** #132 of 239 KCET colleges (score 1,09,111.6)
+**KCET code:** E049 · **Composite rank:** #61 of 242 KCET colleges (score 54,455.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 39,021 | 38,489 | -1.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 39,392 | 40,768 | +3.5% |
+| Electronics and Communication Engg | Electronics & Communication | 41,247 | 41,105 | -0.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 64,921 | 64,921 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 65,289 | 65,063 | -0.3% |
+| Bio-Technology | Biotechnology & Life Sciences | 67,222 | 65,204 | -3.0% |
+| Electronics & Computer Engineering | Computer Science & IT | 76,006 | 78,011 | +2.6% |
+| Mechanical Engineering | Mechanical & Allied | 1,93,765 | 1,93,765 | 0.0% |
+| Civil Engineering | Civil & Construction | 1,96,886 | 1,93,804 | -1.6% |
+
+### #93 — P E S Institute of Technology & Management
+
+**KCET code:** E150 · **Composite rank:** #133 of 242 KCET colleges (score 1,12,320)
 **ComedK code:** E090 · **Composite rank:** #61 of 106 ComedK colleges (score 91,318.6)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 57,404 | 79,198 | +38.0% |
-| Computer Science and Engineering | Computer Science & IT | 67,948 | 98,800 | +45.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 83,909 | 1,10,539 | +31.7% |
-| Electronics and Communication Engg | Electronics & Communication | 78,072 | 1,14,317 | +46.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,05,209 | 1,74,769 | +66.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,40,439 | 2,41,062 | +71.6% |
-| Information Science and Engineering | Computer Science & IT | 1,07,882 | 2,54,915 | +136.3% |
-| Civil Engineering | Civil & Construction | 1,27,253 | 2,78,638 | +119.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 79,198 | 90,369 | +14.1% |
+| Computer Science and Engineering | Computer Science & IT | 98,800 | 98,800 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,10,539 | 1,16,143 | +5.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,14,317 | 1,20,069 | +5.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,74,769 | 2,33,306 | +33.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,41,062 | 2,76,397 | +14.7% |
+| Civil Engineering | Civil & Construction | 2,78,638 | 2,76,507 | -0.8% |
+| Information Science and Engineering | Computer Science & IT | 2,54,915 | 2,81,323 | +10.4% |
 
 **ComedK branches — Round 3, GM category** (7 branches; most competitive category: Computer Science & IT):
 
@@ -2641,25 +2665,6 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 35,679 | 94,767 | +165.6% |
 | Information Science & Engineering | Computer Science & IT | 46,285 | 1,09,258 | +136.1% |
 | Electrical & Electronics Engineering | Electrical & Electronics | 85,291 | 1,09,406 | +28.3% |
-
-### #93 — B V V Sangha`s Basaveshwara Engineering College (KCET E049)
-
-**KCET code:** E049 · **Composite rank:** #62 of 239 KCET colleges (score 54,559.5)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 35,166 | 39,021 | +11.0% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 30,961 | 39,392 | +27.2% |
-| Electronics and Communication Engg | Electronics & Communication | 38,386 | 41,247 | +7.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 58,481 | 64,921 | +11.0% |
-| Information Science and Engineering | Computer Science & IT | 52,939 | 65,289 | +23.3% |
-| Bio-Technology | Biotechnology & Life Sciences | 43,282 | 67,222 | +55.3% |
-| Electronics & Computer Engineering | Computer Science & IT | 64,613 | 76,006 | +17.6% |
-| Mechanical Engineering | Mechanical & Allied | 1,34,517 | 1,93,765 | +44.0% |
-| Civil Engineering | Civil & Construction | 1,24,643 | 1,96,886 | +58.0% |
 
 ### #94 — Dr H N National College Of Engineering-Jayanagar, Bengaluru
 
@@ -2692,38 +2697,38 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #96 — Government Engineering College (KCET E155)
 
-**KCET code:** E155 · **Composite rank:** #63 of 239 KCET colleges (score 56,718.5)
+**KCET code:** E155 · **Composite rank:** #63 of 242 KCET colleges (score 55,314.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 35,546 | 43,433 | +22.2% |
-| Computer Science and Engineering | Computer Science & IT | 55,528 | 64,225 | +15.7% |
-| Electronics and Communication Engg | Electronics & Communication | 58,683 | 67,731 | +15.4% |
-| Mechanical Engineering | Mechanical & Allied | 1,33,352 | 1,49,071 | +11.8% |
-| Civil Engineering | Civil & Construction | 1,46,188 | 1,59,714 | +9.3% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 43,433 | 43,787 | +0.8% |
+| Computer Science and Engineering | Computer Science & IT | 64,225 | 61,807 | -3.8% |
+| Electronics and Communication Engg | Electronics & Communication | 67,731 | 68,502 | +1.1% |
+| Mechanical Engineering | Mechanical & Allied | 1,49,071 | 1,49,815 | +0.5% |
+| Civil Engineering | Civil & Construction | 1,59,714 | 1,56,861 | -1.8% |
 
 ### #97 — Mangalore Institute of Technology & Engineering
 
-**KCET code:** E151 · **Composite rank:** #64 of 239 KCET colleges (score 58,629.7)
+**KCET code:** E151 · **Composite rank:** #64 of 242 KCET colleges (score 58,009.5)
 **ComedK code:** E080 · **Composite rank:** #67 of 106 ComedK colleges (score 94,812.2)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 38,118 | 46,865 | +22.9% |
-| Computer Science and Engineering | Computer Science & IT | 44,035 | 50,757 | +15.3% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 43,948 | 54,818 | +24.7% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 50,602 | 60,475 | +19.5% |
-| Aeronautical Engineering | Aerospace | 42,478 | 61,261 | +44.2% |
-| Electronics and Communication Engg | Electronics & Communication | 49,764 | 61,907 | +24.4% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 62,254 | 81,264 | +30.5% |
-| Information Science and Engineering | Computer Science & IT | 58,807 | 83,374 | +41.8% |
-| Mechatronics | Mechanical & Allied | 76,348 | 1,08,657 | +42.3% |
-| Mechanical Engineering | Mechanical & Allied | 93,622 | 1,33,736 | +42.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 46,865 | 47,244 | +0.8% |
+| Computer Science and Engineering | Computer Science & IT | 50,757 | 51,153 | +0.8% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 54,818 | 56,835 | +3.7% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 60,475 | 57,521 | -4.9% |
+| Aeronautical Engineering | Aerospace | 61,261 | 62,762 | +2.5% |
+| Electronics and Communication Engg | Electronics & Communication | 61,907 | 63,231 | +2.1% |
+| Information Science and Engineering | Computer Science & IT | 83,374 | 82,396 | -1.2% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 81,264 | 82,864 | +2.0% |
+| Mechatronics | Mechanical & Allied | 1,08,657 | 94,650 | -12.9% |
+| Mechanical Engineering | Mechanical & Allied | 1,33,736 | 1,33,191 | -0.4% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Aerospace):
 
@@ -2737,21 +2742,21 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #98 — Sai Vidya Institute of Technology
 
-**KCET code:** E173 · **Composite rank:** #107 of 239 KCET colleges (score 89,326.1)
+**KCET code:** E173 · **Composite rank:** #110 of 242 KCET colleges (score 89,962.1)
 **ComedK code:** E113 · **Composite rank:** #64 of 106 ComedK colleges (score 92,205.3)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 55,657 | 67,968 | +22.1% |
-| Computer Science and Engineering | Computer Science & IT | 64,634 | 81,400 | +25.9% |
-| Electronics and Communication Engg | Electronics & Communication | 64,715 | 85,257 | +31.7% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 67,990 | 88,121 | +29.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 78,586 | 99,008 | +26.0% |
-| Computer Science and Business Systems | Computer Science & IT | 98,598 | 1,30,771 | +32.6% |
-| Mechanical Engineering | Mechanical & Allied | 1,18,587 | 1,62,152 | +36.7% |
-| Civil Engineering | Civil & Construction | 1,28,464 | 1,71,597 | +33.6% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 67,968 | 68,953 | +1.4% |
+| Electronics and Communication Engg | Electronics & Communication | 85,257 | 78,935 | -7.4% |
+| Computer Science and Engineering | Computer Science & IT | 81,400 | 85,263 | +4.7% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 88,121 | 89,258 | +1.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 99,008 | 98,344 | -0.7% |
+| Computer Science and Business Systems | Computer Science & IT | 1,30,771 | 1,29,433 | -1.0% |
+| Mechanical Engineering | Mechanical & Allied | 1,62,152 | 1,65,687 | +2.2% |
+| Civil Engineering | Civil & Construction | 1,71,597 | 2,11,435 | +23.2% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Electronics & Communication):
 
@@ -2763,24 +2768,51 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Cyber Security) | Computer Science & IT | 75,675 | 1,08,058 | +42.8% |
 | Computer Science & Engineering (Data Science) | Computer Science & IT | 74,153 | 1,09,116 | +47.1% |
 
-### #99 — Jawaharlal Nehru New College of Engineering
+### #99 — Ballari Institute of Technology & Management
 
-**KCET code:** E065 · **Composite rank:** #82 of 239 KCET colleges (score 69,165.9)
+**KCET code:** E075 · **Composite rank:** #65 of 242 KCET colleges (score 58,453.2)
+**ComedK code:** E017 · **Composite rank:** #80 of 106 ComedK colleges (score 1,00,461.8)
+
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 49,692 | 49,618 | -0.1% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 60,281 | 51,986 | -13.8% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 56,523 | 57,438 | +1.6% |
+| Electronics and Communication Engg | Electronics & Communication | 70,918 | 70,918 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 71,949 | 71,949 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,00,434 | 1,00,376 | -0.1% |
+| Civil Engineering | Civil & Construction | 1,63,912 | 1,78,123 | +8.7% |
+| Mechanical Engineering | Mechanical & Allied | 2,51,114 | 2,49,624 | -0.6% |
+
+**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Electronics & Communicatio n Engineering | Electronics & Communication | 98,314 | 78,277 | -20.4% |
+| Computer Science & Engineering (Artificial Intelligence) | Computer Science & IT | 81,081 | 1,03,766 | +28.0% |
+| Computer Science & Engineering | Computer Science & IT | 97,610 | 1,06,828 | +9.4% |
+
+### #100 — Jawaharlal Nehru New College of Engineering
+
+**KCET code:** E065 · **Composite rank:** #88 of 242 KCET colleges (score 72,526.5)
 **ComedK code:** E059 · **Composite rank:** #65 of 106 ComedK colleges (score 93,600.3)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 32,933 | 34,852 | +5.8% |
-| Computer Science and Engineering | Computer Science & IT | 41,320 | 53,541 | +29.6% |
-| Electronics and Communication Engg | Electronics & Communication | 49,414 | 59,586 | +20.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 48,294 | 64,281 | +33.1% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 60,345 | 80,792 | +33.9% |
-| Information Science and Engineering | Computer Science & IT | 72,468 | 93,396 | +28.9% |
-| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 1,02,506 | 1,46,979 | +43.4% |
-| Civil Engineering | Civil & Construction | 1,27,634 | 1,47,676 | +15.7% |
-| Mechanical Engineering | Mechanical & Allied | 1,21,628 | 1,89,160 | +55.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 34,852 | 34,852 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 53,541 | 53,764 | +0.4% |
+| Electronics and Communication Engg | Electronics & Communication | 59,586 | 59,453 | -0.2% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 64,281 | 62,897 | -2.2% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 80,792 | 80,429 | -0.4% |
+| Information Science and Engineering | Computer Science & IT | 93,396 | 95,212 | +1.9% |
+| Electrical & Electronics Engineering | Electrical & Electronics | — | 99,642 | — |
+| Civil Engineering | Civil & Construction | 1,47,676 | 1,50,456 | +1.9% |
+| Mechanical Engineering | Mechanical & Allied | 1,89,160 | 2,12,229 | +12.2% |
+| Electronics and Telecommunica Tion Engineering | Electronics & Communication | 1,46,979 | 2,81,632 | +91.6% |
 
 **ComedK branches — Round 3, GM category** (6 branches; most competitive category: Electronics & Communication):
 
@@ -2793,7 +2825,19 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 76,220 | 1,04,724 | +37.4% |
 | Electronics & Telecommunic ation Engineering | Electronics & Communication | 1,03,644 | 1,09,497 | +5.6% |
 
-### #100 — BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura
+### #101 — B M S College of Architecture
+
+**KCET code:** E266 · **Composite rank:** #66 of 242 KCET colleges (score 58,583.5)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Other Branches):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Bachelor of Design(Interior Design) | Other Branches | — | 49,937 | — |
+| Planning | Other Branches | — | 67,230 | — |
+
+### #102 — BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E026 · **Composite rank:** #66 of 106 ComedK colleges (score 94,083.1)
@@ -2807,19 +2851,19 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electronics & Communicatio n Engineering | Electronics & Communication | 1,08,229 | 1,08,229 | 0.0% |
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 79,757 | 1,08,559 | +36.1% |
 
-### #101 — G M Institute of Technology
+### #103 — G M Institute of Technology
 
-**KCET code:** E114 · **Composite rank:** #66 of 239 KCET colleges (score 60,662.6)
+**KCET code:** E114 · **Composite rank:** #67 of 242 KCET colleges (score 60,346.9)
 **ComedK code:** E051 · **Composite rank:** #102 of 106 ComedK colleges (score 1,08,109)
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 46,476 | 56,527 | +21.6% |
-| Computer Science and Engineering | Computer Science & IT | 50,200 | 60,449 | +20.4% |
-| Electronics and Communication Engg | Electronics & Communication | 52,476 | 64,219 | +22.4% |
-| Mechanical Engineering | Mechanical & Allied | 1,39,346 | 2,47,889 | +77.9% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 56,527 | 56,979 | +0.8% |
+| Computer Science and Engineering | Computer Science & IT | 60,449 | 60,449 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 64,219 | 70,381 | +9.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,47,889 | 2,29,655 | -7.4% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -2827,24 +2871,82 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 99,853 | 1,08,109 | +8.3% |
 
-### #102 — AMC Engineering College
+### #104 — R.R. Institute of Technology
 
-**KCET code:** E095 · **Composite rank:** #67 of 239 KCET colleges (score 60,687)
+**KCET code:** E172 · **Composite rank:** #170 of 242 KCET colleges (score 1,59,268.7)
+**ComedK code:** E097 · **Composite rank:** #68 of 106 ComedK colleges (score 94,832)
+
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,06,857 | 1,06,738 | -0.1% |
+| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 1,23,476 | 1,15,364 | -6.6% |
+| Electronics and Communication Engg | Electronics & Communication | 1,43,709 | 1,39,282 | -3.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,57,250 | 1,57,250 | 0.0% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 2,18,271 | 1,60,868 | -26.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,79,354 | 2,76,049 | -1.2% |
+| Civil Engineering | Civil & Construction | 2,81,815 | 2,81,359 | -0.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,76,990 | 2,81,470 | +1.6% |
+| Information Science and Engineering | Computer Science & IT | 2,59,097 | 2,81,492 | +8.6% |
+
+**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Information Science & Engineering | Computer Science & IT | 80,206 | 80,206 | 0.0% |
+| Computer Science & Engineering | Computer Science & IT | 29,202 | 94,832 | +224.7% |
+| Computer Science & Engineering (Artificial Intelligence & Data Science) | Computer Science & IT | 43,019 | 1,00,417 | +133.4% |
+
+### #105 — Rajarajeswari College of Engineering
+
+**KCET code:** E145 · **Composite rank:** #68 of 242 KCET colleges (score 60,688.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 56,759 | 56,759 | 0.0% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 61,096.5 | 58,690 | -3.9% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 59,144 | 59,144 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 60,625 | 60,625 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 83,383 | 81,023 | -2.8% |
+| Computer Science and Design | Computer Science & IT | 81,824 | 89,011.5 | +8.8% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,03,503 | 89,347 | -13.7% |
+| Robotics and Automation | Mechanical & Allied | 91,186 | 91,734 | +0.6% |
+| Civil Engineering | Civil & Construction | 1,36,552 | 1,58,652 | +16.2% |
+
+### #106 — KLE College of Engineering and Technology-Chikodi Dist., Belagavi
+
+**KCET:** no seats found under General Merit in the current KCET data.
+**ComedK code:** E066 · **Composite rank:** #69 of 106 ComedK colleges (score 94,908)
+
+**ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Computer Science & Engineering | Computer Science & IT | 45,931 | 92,978 | +102.4% |
+| Artificial Intelligence & Data Science | Computer Science & IT | 63,700 | 96,838 | +52.0% |
+
+### #107 — AMC Engineering College
+
+**KCET code:** E095 · **Composite rank:** #70 of 242 KCET colleges (score 61,590.1)
 **ComedK code:** E007 · **Composite rank:** #103 of 106 ComedK colleges (score 1,08,431.9)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 43,602 | 52,173 | +19.7% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 43,322 | 54,206 | +25.1% |
-| Aeronautical Engineering | Aerospace | 49,368 | 57,282 | +16.0% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 54,352 | 63,629 | +17.1% |
-| Electronics and Communication Engg | Electronics & Communication | 52,156 | 64,547 | +23.8% |
-| Computer Science and Engineering | Computer Science & IT | 54,036 | 69,638 | +28.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 62,632 | 76,423 | +22.0% |
-| Mechanical Engineering | Mechanical & Allied | 88,951 | 1,06,342 | +19.6% |
-| Civil Engineering | Civil & Construction | 1,00,900 | 1,45,780 | +44.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 52,173 | 52,173 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 54,206 | 53,569 | -1.2% |
+| Aeronautical Engineering | Aerospace | 57,282 | 61,145 | +6.7% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 63,629 | 65,912 | +3.6% |
+| Electronics and Communication Engg | Electronics & Communication | 64,547 | 68,331 | +5.9% |
+| Computer Science and Engineering | Computer Science & IT | 69,638 | 69,142 | -0.7% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 76,423 | 75,873 | -0.7% |
+| Mechanical Engineering | Mechanical & Allied | 1,06,342 | 1,04,057 | -2.1% |
+| Civil Engineering | Civil & Construction | 1,45,780 | 1,53,151 | +5.1% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Electrical & Electronics):
 
@@ -2859,141 +2961,40 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 58,610 | 1,09,629 | +87.0% |
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 63,049 | 1,09,963 | +74.4% |
 
-### #103 — DONBOSCO Institute of Technology
+### #108 — DONBOSCO Institute of Technology
 
-**KCET code:** E102 · **Composite rank:** #68 of 239 KCET colleges (score 62,051)
+**KCET code:** E102 · **Composite rank:** #71 of 242 KCET colleges (score 62,601.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 39,619 | 53,117 | +34.1% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 42,253 | 57,628 | +36.4% |
-| Computer Science and Engineering | Computer Science & IT | 44,977 | 60,793 | +35.2% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 49,417 | 61,813 | +25.1% |
-| Electronics and Communication Engg | Electronics & Communication | 55,286 | 71,962 | +30.2% |
-| Information Science and Engineering | Computer Science & IT | 61,386 | 88,526 | +44.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 72,761 | 89,756 | +23.4% |
-
-### #104 — R.R. Institute of Technology
-
-**KCET code:** E172 · **Composite rank:** #173 of 239 KCET colleges (score 1,60,028.4)
-**ComedK code:** E097 · **Composite rank:** #68 of 106 ComedK colleges (score 94,832)
-
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 78,101 | 1,06,857 | +36.8% |
-| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 89,124 | 1,23,476 | +38.5% |
-| Electronics and Communication Engg | Electronics & Communication | 90,924 | 1,43,709 | +58.1% |
-| Computer Science and Engineering | Computer Science & IT | 99,013 | 1,57,250 | +58.8% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,07,020 | 2,18,271 | +104.0% |
-| Information Science and Engineering | Computer Science & IT | 1,14,209 | 2,59,097 | +126.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,30,312 | 2,76,990 | +112.6% |
-| Mechanical Engineering | Mechanical & Allied | 1,65,517 | 2,79,354 | +68.8% |
-| Civil Engineering | Civil & Construction | 1,82,122 | 2,81,815 | +54.7% |
-
-**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Information Science & Engineering | Computer Science & IT | 80,206 | 80,206 | 0.0% |
-| Computer Science & Engineering | Computer Science & IT | 29,202 | 94,832 | +224.7% |
-| Computer Science & Engineering (Artificial Intelligence & Data Science) | Computer Science & IT | 43,019 | 1,00,417 | +133.4% |
-
-### #105 — KLE College of Engineering and Technology-Chikodi Dist., Belagavi
-
-**KCET:** no seats found under General Merit in the current KCET data.
-**ComedK code:** E066 · **Composite rank:** #69 of 106 ComedK colleges (score 94,908)
-
-**ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Computer Science & Engineering | Computer Science & IT | 45,931 | 92,978 | +102.4% |
-| Artificial Intelligence & Data Science | Computer Science & IT | 63,700 | 96,838 | +52.0% |
-
-### #106 — University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E283)
-
-**KCET code:** E283 · **Composite rank:** #69 of 239 KCET colleges (score 62,502.5)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Mechanical & Allied):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Biomedical and Robotic Engineering | Mechanical & Allied | 28,629 | 52,911 | +84.8% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 38,996 | 55,176 | +41.5% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 36,843 | 55,260 | +50.0% |
-| Computer Science and Engineering | Computer Science & IT | 58,392 | 66,484 | +13.9% |
-| Electronics and Communication Engg | Electronics & Communication | 63,332 | 74,642 | +17.9% |
-| Computer Science and Design | Computer Science & IT | 79,794 | 93,054 | +16.6% |
-| Civil Environmental Engineering | Civil & Construction | 95,299 | 1,31,956 | +38.5% |
-
-### #107 — Rajarajeswari College of Engineering
-
-**KCET code:** E145 · **Composite rank:** #70 of 239 KCET colleges (score 62,571)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 46,469 | 56,759 | +22.1% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 42,953 | 59,144 | +37.7% |
-| Electronics and Communication Engg | Electronics & Communication | 46,607 | 60,625 | +30.1% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 50,125 | 61,096.5 | +21.9% |
-| Computer Science and Design | Computer Science & IT | 64,217 | 81,824 | +27.4% |
-| Information Science and Engineering | Computer Science & IT | 60,460 | 83,383 | +37.9% |
-| Robotics and Automation | Mechanical & Allied | 72,393 | 91,186 | +26.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 70,725 | 1,03,503 | +46.3% |
-| Civil Engineering | Civil & Construction | 1,07,828 | 1,36,552 | +26.6% |
-
-### #108 — Ballari Institute of Technology & Management
-
-**KCET code:** E075 · **Composite rank:** #71 of 239 KCET colleges (score 62,577.5)
-**ComedK code:** E017 · **Composite rank:** #80 of 106 ComedK colleges (score 1,00,461.8)
-
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 42,370 | 49,692 | +17.3% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 49,073 | 56,523 | +15.2% |
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 50,783 | 60,281 | +18.7% |
-| Electronics and Communication Engg | Electronics & Communication | 69,033 | 70,918 | +2.7% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 66,804 | 71,949 | +7.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 87,985 | 1,00,434 | +14.1% |
-| Civil Engineering | Civil & Construction | 1,17,478 | 1,63,912 | +39.5% |
-| Mechanical Engineering | Mechanical & Allied | 1,60,386 | 2,51,114 | +56.6% |
-
-**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Electronics & Communication):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Electronics & Communicatio n Engineering | Electronics & Communication | 98,314 | 78,277 | -20.4% |
-| Computer Science & Engineering (Artificial Intelligence) | Computer Science & IT | 81,081 | 1,03,766 | +28.0% |
-| Computer Science & Engineering | Computer Science & IT | 97,610 | 1,06,828 | +9.4% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 53,117 | 54,965 | +3.5% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 57,628 | 60,793 | +5.5% |
+| Computer Science and Engineering | Computer Science & IT | 60,793 | 61,332 | +0.9% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 61,813 | 66,434 | +7.5% |
+| Electronics and Communication Engg | Electronics & Communication | 71,962 | 73,533 | +2.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 89,756 | 89,756 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 88,526 | 91,709 | +3.6% |
 
 ### #109 — Vemana Institute of Technology
 
-**KCET code:** E092 · **Composite rank:** #90 of 239 KCET colleges (score 74,443.1)
+**KCET code:** E092 · **Composite rank:** #96 of 242 KCET colleges (score 78,653.3)
 **ComedK code:** E145 · **Composite rank:** #71 of 106 ComedK colleges (score 95,599.4)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 42,483 | 55,520 | +30.7% |
-| Computer Science and Engineering | Computer Science & IT | 57,882 | 66,822 | +15.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 62,231 | 68,676 | +10.4% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 63,175 | 74,228 | +17.5% |
-| Information Science and Engineering | Computer Science & IT | 79,212 | 1,00,653 | +27.1% |
-| Electronics and Communication Engg | Electronics & Communication | 83,409 | 1,02,280 | +22.6% |
-| Mechanical Engineering | Mechanical & Allied | 1,28,125 | 2,17,697 | +69.9% |
-| Civil Engineering | Civil & Construction | 1,47,312 | 2,71,287.5 | +84.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 55,520 | 57,228 | +3.1% |
+| Computer Science and Engineering | Computer Science & IT | 66,822 | 65,035 | -2.7% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 74,228 | 74,228 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 68,676 | 78,122 | +13.8% |
+| Electronics and Communication Engg | Electronics & Communication | 1,02,280 | 97,837 | -4.3% |
+| Information Science and Engineering | Computer Science & IT | 1,00,653 | 1,00,021 | -0.6% |
+| Civil Engineering | Civil & Construction | 2,71,287.5 | 2,71,287.5 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,17,697 | 2,80,356 | +28.8% |
 
 **ComedK branches — Round 3, GM category** (6 branches; most competitive category: Computer Science & IT):
 
@@ -3006,27 +3007,27 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 62,213 | 1,03,325 | +66.1% |
 | Computer Science & Engineering (Cyber Security) | Computer Science & IT | 73,028 | 1,03,409 | +41.6% |
 
-### #110 — Sri Siddhartha Institute of Technology MARALUR
+### #110 — Jain College of Engineering and Technology
 
-**KCET code:** E017 · **Composite rank:** #72 of 239 KCET colleges (score 63,567.3)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+**KCET code:** E265 · **Composite rank:** #72 of 242 KCET colleges (score 63,881)
+**ComedK code:** E194 · **Composite rank:** #105 of 106 ComedK colleges (score 1,09,093)
 
-**KCET branches — Round 2 Mock, GM category** (12 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 30,322 | 39,260 | +29.5% |
-| Computer Science and Engineering | Computer Science & IT | 38,658 | 55,076 | +42.5% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 42,306 | 58,117 | +37.4% |
-| Bio-Medical Engineering | Biotechnology & Life Sciences | 40,829 | 59,100 | +44.8% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 49,415 | 59,387 | +20.2% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 50,907 | 68,955 | +35.5% |
-| Electronics and Communication Engg | Electronics & Communication | 62,995 | 80,662 | +28.0% |
-| Information Science and Engineering | Computer Science & IT | 66,886 | 87,782 | +31.2% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 61,067 | 88,333 | +44.6% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 83,251 | 1,23,081 | +47.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,13,819 | 1,33,411 | +17.2% |
-| Civil Engineering | Civil & Construction | 1,14,077 | 1,90,577 | +67.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 58,510 | 57,464 | -1.8% |
+| Electronics and Communication Engg | Electronics & Communication | 58,960 | 58,746 | -0.4% |
+| Computer Science and Engineering | Computer Science & IT | 72,764 | 67,694 | -7.0% |
+| Mechanical Engineering | Mechanical & Allied | 1,30,385 | 1,29,185 | -0.9% |
+| Civil Engineering | Civil & Construction | 2,40,856 | 2,03,812 | -15.4% |
+
+**ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Computer Science & Engineering | Computer Science & IT | 1,05,001 | 1,08,701 | +3.5% |
+| Artificial Intelligence & Machine Learning | Computer Science & IT | 76,878 | 1,09,485 | +42.4% |
 
 ### #111 — SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi
 
@@ -3042,23 +3043,23 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #112 — Dr. ACS College of Engineering
 
-**KCET code:** E186 · **Composite rank:** #119 of 239 KCET colleges (score 1,00,348.2)
+**KCET code:** E186 · **Composite rank:** #127 of 242 KCET colleges (score 1,06,208.5)
 **ComedK code:** E003 · **Composite rank:** #73 of 106 ComedK colleges (score 96,653.8)
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Aerospace):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Aerospace):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Aero Space Engineering | Aerospace | 39,920 | 55,795 | +39.8% |
-| Aeronautical Engineering | Aerospace | 56,613 | 66,365 | +17.2% |
-| Bio-Medical Engineering | Biotechnology & Life Sciences | 40,367 | 67,361 | +66.9% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 66,320 | 85,565 | +29.0% |
-| Computer Science and Engineering | Computer Science & IT | 82,465 | 99,530 | +20.7% |
-| Electronics and Communication Engg | Electronics & Communication | 76,100 | 1,00,105 | +31.5% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 84,260 | 1,01,844 | +20.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 90,512 | 1,15,273 | +27.4% |
-| Computer Science and Engg(Internet of Things) | Computer Science & IT | 1,02,365 | 1,44,453 | +41.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,04,917 | 1,69,604 | +61.7% |
+| Aero Space Engineering | Aerospace | 55,795 | 56,641 | +1.5% |
+| Bio-Medical Engineering | Biotechnology & Life Sciences | 67,361 | 68,909 | +2.3% |
+| Aeronautical Engineering | Aerospace | 66,365 | 69,799 | +5.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 85,565 | 87,655 | +2.4% |
+| Computer Science and Engineering | Computer Science & IT | 99,530 | 99,658 | +0.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,00,105 | 1,00,105 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,01,844 | 1,08,920 | +6.9% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,15,273 | 1,14,713 | -0.5% |
+| Computer Science and Engg(Internet of Things) | Computer Science & IT | 1,44,453 | 1,32,919 | -8.0% |
+| Mechanical Engineering | Mechanical & Allied | 1,69,604 | 1,75,174 | +3.3% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Computer Science & IT):
 
@@ -3073,37 +3074,38 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Bio Medical Engineering | Biotechnology & Life Sciences | 58,504 | 1,04,240 | +78.2% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 74,425 | 1,04,521 | +40.4% |
 
-### #113 — Sapthagiri College of Engineering.
+### #113 — University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E283)
 
-**KCET code:** E108 · **Composite rank:** #73 of 239 KCET colleges (score 64,966)
+**KCET code:** E283 · **Composite rank:** #73 of 242 KCET colleges (score 64,185)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 41,710 | 49,666 | +19.1% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 45,097 | 50,453 | +11.9% |
-| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 53,478 | 56,085 | +4.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 60,547 | 65,166 | +7.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 70,471 | 76,442 | +8.5% |
-| Computer Science and Engineering | Computer Science & IT | 70,165 | 80,322 | +14.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 55,260 | 53,302 | -3.5% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 55,176 | 58,649 | +6.3% |
+| Biomedical and Robotic Engineering | Mechanical & Allied | 52,911 | 60,214 | +13.8% |
+| Computer Science and Engineering | Computer Science & IT | 66,484 | 66,484 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 74,642 | 78,780 | +5.5% |
+| Computer Science and Design | Computer Science & IT | 93,054 | 89,261 | -4.1% |
+| Civil Environmental Engineering | Civil & Construction | 1,31,956 | 1,12,874 | -14.5% |
 
 ### #114 — Gopalan College of Engineering & Management
 
-**KCET code:** E201 · **Composite rank:** #121 of 239 KCET colleges (score 1,01,136.9)
+**KCET code:** E201 · **Composite rank:** #119 of 242 KCET colleges (score 98,869.5)
 **ComedK code:** E053 · **Composite rank:** #74 of 106 ComedK colleges (score 96,835.2)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 70,892 | 78,446 | +10.7% |
-| Computer Science and Engineering | Computer Science & IT | 80,956 | 97,877 | +20.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 84,391 | 99,283 | +17.6% |
-| Aeronautical Engineering | Aerospace | 70,986 | 1,04,374 | +47.0% |
-| Information Science and Engineering | Computer Science & IT | 99,439 | 1,24,436 | +25.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,00,092 | 1,30,075 | +30.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 78,446 | 82,572 | +5.3% |
+| Computer Science and Engineering | Computer Science & IT | 97,877 | 94,868 | -3.1% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 99,283 | 98,000 | -1.3% |
+| Aeronautical Engineering | Aerospace | 1,04,374 | 1,08,762 | +4.2% |
+| Information Science and Engineering | Computer Science & IT | 1,24,436 | 1,24,799 | +0.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,30,075 | 1,25,908 | -3.2% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Computer Science & IT):
 
@@ -3115,40 +3117,38 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 69,773 | 1,00,385 | +43.9% |
 | Information Science & Engineering | Computer Science & IT | 57,710 | 1,09,605 | +89.9% |
 
-### #115 — Sharanbasava University (Formerly Appa Institute of Engineering and Tech) SHARNBASVESHWARA INSTITUTIONS CAMPUS
+### #115 — Sapthagiri College of Engineering.
 
-**KCET code:** E128 · **Composite rank:** #74 of 239 KCET colleges (score 66,257.6)
+**KCET code:** E108 · **Composite rank:** #74 of 242 KCET colleges (score 64,297.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 32,402 | 44,764 | +38.2% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 52,726 | 55,341.5 | +5.0% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 93,937 | 1,01,700 | +8.3% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 88,342 | 1,09,093 | +23.5% |
-| Btech in Computer Science and Design | Computer Science & IT | 1,12,569 | 1,17,208 | +4.1% |
-| B Tech in Energy Engineering | Other Branches | 2,82,144 | 2,66,511 | -5.5% |
-| B Tech in Civil Engineering | Civil & Construction | 1,61,694 | 2,75,867 | +70.6% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 1,82,848 | 2,82,364 | +54.4% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 50,453 | 49,160 | -2.6% |
+| Electronics and Communication Engg | Electronics & Communication | 49,666 | 49,666 | 0.0% |
+| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 56,085 | 55,794 | -0.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 65,166 | 65,681 | +0.8% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 76,442 | 75,078 | -1.8% |
+| Computer Science and Engineering | Computer Science & IT | 80,322 | 78,553 | -2.2% |
 
 ### #116 — City Engineering College
 
-**KCET code:** E109 · **Composite rank:** #182 of 239 KCET colleges (score 1,68,088.1)
+**KCET code:** E109 · **Composite rank:** #181 of 242 KCET colleges (score 1,66,972.9)
 **ComedK code:** E037 · **Composite rank:** #75 of 106 ComedK colleges (score 97,296.2)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 89,113 | 1,12,705 | +26.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,01,213 | 1,39,295 | +37.6% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,02,384 | 1,58,124 | +54.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,13,180 | 1,78,766 | +57.9% |
-| Mechanical Engineering | Mechanical & Allied | 1,54,960 | 2,67,086 | +72.4% |
-| Civil Engineering | Civil & Construction | 1,73,338 | 2,78,147 | +60.5% |
-| Information Science and Engineering | Computer Science & IT | 1,30,405 | 2,80,960 | +115.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,12,705 | 1,20,417 | +6.8% |
+| Electronics and Communication Engg | Electronics & Communication | 1,39,295 | 1,49,457 | +7.3% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,58,124 | 1,52,678 | -3.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,78,766 | 1,80,850 | +1.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,67,086 | 2,67,086 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,78,147 | 2,78,147 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,80,960 | 2,81,815 | +0.3% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Electronics & Communication):
 
@@ -3158,19 +3158,20 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 74,796 | 97,416 | +30.2% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 81,774 | 98,459 | +20.4% |
 
-### #117 — Government Engineering College (KCET E292)
+### #117 — P D A College of Engineering (KCET E041)
 
-**KCET code:** E292 · **Composite rank:** #76 of 239 KCET colleges (score 67,042.7)
+**KCET code:** E041 · **Composite rank:** #75 of 242 KCET colleges (score 64,521.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 60,565 | 62,286 | +2.8% |
-| Computer Science and Engineering | Computer Science & IT | 57,616 | 63,625 | +10.4% |
-| Electronics and Communication Engg | Electronics & Communication | 93,139 | 1,06,891 | +14.8% |
-| Civil Engineering | Civil & Construction | 1,30,383 | 1,37,050 | +5.1% |
+| Electronics and Communication Engg | Electronics & Communication | 47,280 | 45,367 | -4.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 87,030 | 83,421 | -4.1% |
+| Civil Engineering | Civil & Construction | 1,11,779 | 1,11,572 | -0.2% |
+| Mechanical Engineering | Mechanical & Allied | 1,72,815 | 1,62,731 | -5.8% |
+| Industrial & Production Engineering | Mechanical & Allied | 2,77,671 | 2,77,671 | 0.0% |
 
 ### #118 — Maharaja Institute of Technology-Thandavapura, Mysuru
 
@@ -3186,39 +3187,31 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 92,165 | 1,00,139 | +8.7% |
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 86,194 | 1,03,424 | +20.0% |
 
-### #119 — Jain College of Engineering and Technology
+### #119 — Visvesvaraya Technological University (KCET E289)
 
-**KCET code:** E265 · **Composite rank:** #77 of 239 KCET colleges (score 67,295)
-**ComedK code:** E194 · **Composite rank:** #105 of 106 ComedK colleges (score 1,09,093)
+**KCET code:** E289 · **Composite rank:** #76 of 242 KCET colleges (score 65,002.6)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 42,020 | 58,510 | +39.2% |
-| Electronics and Communication Engg | Electronics & Communication | 54,964 | 58,960 | +7.3% |
-| Computer Science and Engineering | Computer Science & IT | 57,904 | 72,764 | +25.7% |
-| Mechanical Engineering | Mechanical & Allied | 1,05,033 | 1,30,385 | +24.1% |
-| Civil Engineering | Civil & Construction | 99,378 | 2,40,856 | +142.4% |
-
-**ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Computer Science & Engineering | Computer Science & IT | 1,05,001 | 1,08,701 | +3.5% |
-| Artificial Intelligence & Machine Learning | Computer Science & IT | 76,878 | 1,09,485 | +42.4% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 60,100 | 59,968 | -0.2% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 66,698 | 64,495 | -3.3% |
+| B Tech in Electronics & Computer Engineering | Computer Science & IT | 1,06,155 | 1,05,324 | -0.8% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 1,76,049 | 1,67,529 | -4.8% |
 
 ### #120 — Shri Swami Nagabhushan Gurukul College of Engineering and Technology Post Halasangi Taluka
 
-**KCET code:** E328 · **Composite rank:** #220 of 239 KCET colleges (score 2,54,247.5)
+**KCET code:** E328 · **Composite rank:** #214 of 242 KCET colleges (score 2,49,524)
 **ComedK code:** E223 · **Composite rank:** #77 of 106 ComedK colleges (score 99,054.1)
 
-**KCET branches — Round 2 Mock, GM category** (2 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 1,62,949 | 2,50,946 | +54.0% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,37,556 | 2,57,549 | +87.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,57,549 | 2,48,102 | -3.7% |
+| Computer Science and Engineering | Computer Science & IT | 2,50,946 | 2,50,946 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (2 branches; most competitive category: Mechanical & Allied):
 
@@ -3227,23 +3220,63 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Mechanical Engineering | Mechanical & Allied | — | 13,237 | — |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 99,394 | 1,03,455 | +4.1% |
 
-### #121 — Bheemanna Khandre Institute of Technology
+### #121 — Sri Siddhartha Institute of Technology MARALUR
 
-**KCET code:** E044 · **Composite rank:** #148 of 239 KCET colleges (score 1,20,875.6)
+**KCET code:** E017 · **Composite rank:** #77 of 242 KCET colleges (score 66,199)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (12 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 39,260 | 43,698 | +11.3% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 58,117 | 57,519 | -1.0% |
+| Computer Science and Engineering | Computer Science & IT | 55,076 | 57,661 | +4.7% |
+| Bio-Medical Engineering | Biotechnology & Life Sciences | 59,100 | 62,115 | +5.1% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 59,387 | 62,830 | +5.8% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 68,955 | 68,866 | -0.1% |
+| Electronics and Communication Engg | Electronics & Communication | 80,662 | 78,687 | -2.4% |
+| Information Science and Engineering | Computer Science & IT | 87,782 | 89,198 | +1.6% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 88,333 | 91,159 | +3.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,23,081 | 1,24,103 | +0.8% |
+| Mechanical Engineering | Mechanical & Allied | 1,33,411 | 1,53,479 | +15.0% |
+| Civil Engineering | Civil & Construction | 1,90,577 | 1,90,366 | -0.1% |
+
+### #122 — Sharanbasava University (Formerly Appa Institute of Engineering and Tech) SHARNBASVESHWARA INSTITUTIONS CAMPUS
+
+**KCET code:** E128 · **Composite rank:** #78 of 242 KCET colleges (score 66,838.8)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 44,764 | 49,285 | +10.1% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 55,341.5 | 55,341.5 | 0.0% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,01,700 | 99,171 | -2.5% |
+| Btech in Computer Science and Design | Computer Science & IT | 1,17,208 | 1,10,736 | -5.5% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 1,09,093 | 1,20,899 | +10.8% |
+| B Tech in Energy Engineering | Other Branches | 2,66,511 | 2,66,511 | 0.0% |
+| B Tech in Civil Engineering | Civil & Construction | 2,75,867 | 2,81,371 | +2.0% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 2,82,364 | 2,82,364 | 0.0% |
+
+### #123 — Bheemanna Khandre Institute of Technology
+
+**KCET code:** E044 · **Composite rank:** #146 of 242 KCET colleges (score 1,19,435.9)
 **ComedK code:** E105 · **Composite rank:** #79 of 106 ComedK colleges (score 1,00,095)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 55,905 | 57,481 | +2.8% |
-| Chemical Engineering | Chemical & Polymer | 62,473 | 77,746 | +24.4% |
-| Computer Science and Engineering | Computer Science & IT | 77,690 | 83,596 | +7.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,14,090 | 1,25,748 | +10.2% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,09,999 | 1,35,328 | +23.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,58,404 | 2,72,754 | +72.2% |
-| Civil Engineering | Civil & Construction | 1,82,334 | 2,74,174 | +50.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,38,606 | 2,75,603 | +98.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 57,481 | 57,481 | 0.0% |
+| Chemical Engineering | Chemical & Polymer | 77,746 | 77,746 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 83,596 | 83,596 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,25,748 | 1,26,487 | +0.6% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,35,328 | 1,35,328 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,72,754 | 2,18,954 | -19.7% |
+| Civil Engineering | Civil & Construction | 2,74,174 | 2,74,174 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,75,603 | 2,75,603 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Chemical & Polymer):
 
@@ -3251,57 +3284,35 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Chemical Engineering | Chemical & Polymer | 60,114 | 1,00,095 | +66.5% |
 
-### #122 — Visvesvaraya Technological University (KCET E289)
+### #124 — Government Engineering College (KCET E292)
 
-**KCET code:** E289 · **Composite rank:** #79 of 239 KCET colleges (score 67,780.7)
+**KCET code:** E292 · **Composite rank:** #79 of 242 KCET colleges (score 66,847.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering | Computer Science & IT | 56,065 | 60,100 | +7.2% |
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 60,981 | 66,698 | +9.4% |
-| B Tech in Electronics & Computer Engineering | Computer Science & IT | 1,01,525 | 1,06,155 | +4.6% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 1,17,847 | 1,76,049 | +49.4% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 62,286 | 62,286 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 63,625 | 63,453 | -0.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,06,891 | 1,08,173 | +1.2% |
+| Civil Engineering | Civil & Construction | 1,37,050 | 1,38,028 | +0.7% |
 
-### #123 — K L E S's K L E College of Engineering & Technology
+### #125 — Government Engineering College (KCET E162)
 
-**KCET code:** E167 · **Composite rank:** #80 of 239 KCET colleges (score 69,127.2)
+**KCET code:** E162 · **Composite rank:** #80 of 242 KCET colleges (score 67,885.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 43,236 | 49,980 | +15.6% |
-| Computer Science and Engineering | Computer Science & IT | 67,932 | 74,574 | +9.8% |
-| Electronics and Communication Engg | Electronics & Communication | 79,837 | 1,03,864 | +30.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,43,767 | 2,59,614 | +80.6% |
-| Civil Engineering | Civil & Construction | 1,67,004 | 2,68,399 | +60.7% |
+| Computer Science and Engineering | Computer Science & IT | 62,083 | 62,083 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,18,484 | 1,16,005 | -2.1% |
+| Civil Engineering | Civil & Construction | 1,62,327 | 1,62,327 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,75,885 | 2,81,294 | +2.0% |
 
-### #124 — Jain College Of Engineering and Research
-
-**KCET code:** E269 · **Composite rank:** #81 of 239 KCET colleges (score 69,159.6)
-**ComedK code:** E064 · **Composite rank:** #94 of 106 ComedK colleges (score 1,04,941)
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 45,650 | 56,324 | +23.4% |
-| Computer Science and Engineering | Computer Science & IT | 58,684 | 70,926 | +20.9% |
-| Electronics and Communication Engg | Electronics & Communication | 70,897 | 86,260 | +21.7% |
-| Civil Engineering | Civil & Construction | 1,29,942 | 2,64,479 | +103.5% |
-| Mechanical Engineering | Mechanical & Allied | 1,43,040 | 2,81,943 | +97.1% |
-
-**ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 74,657 | 1,04,941 | +40.6% |
-
-### #125 — Jyothy Institute of Technology-Tathguni, Bengaluru
+### #126 — Jyothy Institute of Technology-Tathguni, Bengaluru
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E156 · **Composite rank:** #81 of 106 ComedK colleges (score 1,00,503.9)
@@ -3314,28 +3325,28 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 73,532 | 1,03,476 | +40.7% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 72,187 | 1,08,461 | +50.3% |
 
-### #126 — Bapuji Institute of Engineering & Technology
+### #127 — Bapuji Institute of Engineering & Technology
 
-**KCET code:** E062 · **Composite rank:** #89 of 239 KCET colleges (score 74,330.5)
+**KCET code:** E062 · **Composite rank:** #87 of 242 KCET colleges (score 72,215.7)
 **ComedK code:** E021 · **Composite rank:** #82 of 106 ComedK colleges (score 1,00,610.1)
 
-**KCET branches — Round 2 Mock, GM category** (13 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (13 branches; most competitive category: Biotechnology & Life Sciences):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 38,319 | 43,592 | +13.8% |
-| Bio-Technology | Biotechnology & Life Sciences | 33,164 | 49,003.75 | +47.8% |
-| Electronics and Communication Engg | Electronics & Communication | 44,444 | 52,153 | +17.3% |
-| Computer Science and Engineering | Computer Science & IT | 45,154 | 55,648 | +23.2% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 46,230 | 63,545 | +37.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 65,785 | 78,240 | +18.9% |
-| Information Science and Engineering | Computer Science & IT | 69,097 | 81,320 | +17.7% |
-| Chemical Engineering | Chemical & Polymer | 61,913 | 83,264 | +34.5% |
-| Computer Science and Business Systems | Computer Science & IT | 82,064 | 95,274 | +16.1% |
-| Computer Science and Design | Computer Science & IT | 87,031 | 95,489 | +9.7% |
-| Civil Engineering | Civil & Construction | 1,08,200 | 1,40,641 | +30.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,19,984 | 1,62,909 | +35.8% |
-| Textiles Technology | Other Branches | 1,53,420 | 2,70,019 | +76.0% |
+| Bio-Technology | Biotechnology & Life Sciences | 49,003.75 | 43,282 | -11.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 43,592 | 44,990 | +3.2% |
+| Electronics and Communication Engg | Electronics & Communication | 52,153 | 50,617 | -2.9% |
+| Computer Science and Engineering | Computer Science & IT | 55,648 | 56,122 | +0.9% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 63,545 | 60,233 | -5.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 78,240 | 76,904 | -1.7% |
+| Information Science and Engineering | Computer Science & IT | 81,320 | 77,132 | -5.2% |
+| Chemical Engineering | Chemical & Polymer | 83,264 | 86,075 | +3.4% |
+| Computer Science and Design | Computer Science & IT | 95,489 | 95,708 | +0.2% |
+| Computer Science and Business Systems | Computer Science & IT | 95,274 | 96,200 | +1.0% |
+| Civil Engineering | Civil & Construction | 1,40,641 | 1,48,802 | +5.8% |
+| Mechanical Engineering | Mechanical & Allied | 1,62,909 | 1,80,843 | +11.0% |
+| Textiles Technology | Other Branches | 2,70,019 | 2,69,406 | -0.2% |
 
 **ComedK branches — Round 3, GM category** (8 branches; most competitive category: Computer Science & IT):
 
@@ -3350,24 +3361,24 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 93,450 | 1,06,078 | +13.5% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 93,872 | 1,09,464 | +16.6% |
 
-### #127 — Bangalore Technological Institute
+### #128 — Bangalore Technological Institute
 
-**KCET code:** E204 · **Composite rank:** #166 of 239 KCET colleges (score 1,44,372.9)
+**KCET code:** E204 · **Composite rank:** #182 of 242 KCET colleges (score 1,70,246.9)
 **ComedK code:** E020 · **Composite rank:** #83 of 106 ComedK colleges (score 1,00,621.4)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 67,426 | 98,108 | +45.5% |
-| Computer Science and Engineering | Computer Science & IT | 85,521 | 1,28,532 | +50.3% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 91,570 | 1,33,411.5 | +45.7% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 96,467 | 1,49,513 | +55.0% |
-| Electronics and Communication Engg | Electronics & Communication | 94,116 | 1,53,640 | +63.2% |
-| Computer Engineering | Computer Science & IT | 89,866 | 1,83,043 | +103.7% |
-| Information Science and Engineering | Computer Science & IT | 1,10,826 | 1,93,942 | +75.0% |
-| Civil Engineering | Civil & Construction | 1,60,401 | 2,50,196 | +56.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,33,979 | 2,50,843 | +87.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 98,108 | 1,00,271 | +2.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,28,532 | 1,39,672 | +8.7% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,33,411.5 | 1,56,489 | +17.3% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 1,49,513 | 1,79,590 | +20.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,53,640 | 1,81,842 | +18.4% |
+| Computer Engineering | Computer Science & IT | 1,83,043 | 1,96,766 | +7.5% |
+| Civil Engineering | Civil & Construction | 2,50,196 | 2,49,878 | -0.1% |
+| Information Science and Engineering | Computer Science & IT | 1,93,942 | 2,65,401 | +36.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,50,843 | 2,71,359 | +8.2% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Computer Science & IT):
 
@@ -3379,40 +3390,56 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 53,099 | 1,07,434 | +102.3% |
 | Electronics & Communicatio n Engineering | Electronics & Communication | 70,025 | 1,08,157 | +54.5% |
 
-### #128 — Government Engineering College (KCET E162)
+### #129 — Maharaja Institute of Technology
 
-**KCET code:** E162 · **Composite rank:** #83 of 239 KCET colleges (score 69,263.6)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+**KCET code:** E258 · **Composite rank:** #83 of 242 KCET colleges (score 69,882.5)
+**ComedK code:** E078 · **Composite rank:** #87 of 106 ComedK colleges (score 1,01,998.1)
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 54,279 | 62,083 | +14.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,00,005 | 1,18,484 | +18.5% |
-| Civil Engineering | Civil & Construction | 1,22,666 | 1,62,327 | +32.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,04,685 | 2,75,885 | +34.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 58,416 | 63,998 | +9.6% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 70,269 | 67,615 | -3.8% |
+| Electronics and Communication Engg | Electronics & Communication | 77,533 | 76,386 | -1.5% |
+| Computer Science and Engineering | Computer Science & IT | 77,522 | 87,446 | +12.8% |
+| Mechanical Engineering | Mechanical & Allied | 1,70,014 | 1,86,777 | +9.9% |
+| Civil Engineering | Civil & Construction | 1,96,658 | 1,88,427 | -4.2% |
 
-### #129 — East West Institute Of Technology
+**ComedK branches — Round 3, GM category** (9 branches; most competitive category: Mechanical & Allied):
 
-**KCET code:** E106 · **Composite rank:** #96 of 239 KCET colleges (score 78,701.9)
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Mechanical Engineering | Mechanical & Allied | 69,793 | 69,793 | 0.0% |
+| Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 70,584 | 92,985 | +31.7% |
+| Electronics & Communicatio n Engineering | Electronics & Communication | 1,08,870 | 93,203 | -14.4% |
+| Computer Science & Engineering (Data Science) | Computer Science & IT | 91,862 | 1,02,836 | +11.9% |
+| Computer Science & Engineering (Artificial Intelligence) | Computer Science & IT | 77,137 | 1,03,178 | +33.8% |
+| Civil Engineering | Civil & Construction | 66,933 | 1,04,952 | +56.8% |
+| Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology) | Computer Science & IT | 99,892 | 1,07,955 | +8.1% |
+| Computer Science & Engineering | Computer Science & IT | 87,884 | 1,08,777 | +23.8% |
+| Information Science & Engineering | Computer Science & IT | 1,03,547 | 1,09,049 | +5.3% |
+
+### #130 — East West Institute Of Technology
+
+**KCET code:** E106 · **Composite rank:** #97 of 242 KCET colleges (score 81,082.6)
 **ComedK code:** E048 · **Composite rank:** #84 of 106 ComedK colleges (score 1,01,219.5)
 
-**KCET branches — Round 2 Mock, GM category** (11 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (11 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 36,747 | 53,385 | +45.3% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 40,799 | 54,160 | +32.7% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 46,306 | 56,361 | +21.7% |
-| Computer Science and Engineering | Computer Science & IT | 57,278 | 75,991 | +32.7% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 67,670 | 82,844 | +22.4% |
-| Electronics and Communication Engg | Electronics & Communication | 70,369 | 88,511 | +25.8% |
-| Information Science and Engineering | Computer Science & IT | 72,066 | 98,921 | +37.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 74,522 | 1,04,984 | +40.9% |
-| Electronics & Computer Engineering | Computer Science & IT | 81,734 | 1,08,816 | +33.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,16,766 | 1,39,947 | +19.9% |
-| Civil Engineering | Civil & Construction | 1,18,028 | 1,65,742 | +40.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 53,385 | 56,434 | +5.7% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 56,361 | 56,485 | +0.2% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 54,160 | 58,889 | +8.7% |
+| Computer Science and Engineering | Computer Science & IT | 75,991 | 78,613 | +3.5% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 82,844 | 83,838 | +1.2% |
+| Electronics and Communication Engg | Electronics & Communication | 88,511 | 90,366 | +2.1% |
+| Information Science and Engineering | Computer Science & IT | 98,921 | 99,933 | +1.0% |
+| Electronics & Computer Engineering | Computer Science & IT | 1,08,816 | 1,11,568 | +2.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,04,984 | 1,14,033 | +8.6% |
+| Mechanical Engineering | Mechanical & Allied | 1,39,947 | 1,42,572 | +1.9% |
+| Civil Engineering | Civil & Construction | 1,65,742 | 1,76,079 | +6.2% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Computer Science & IT):
 
@@ -3424,36 +3451,45 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 57,197 | 1,05,035 | +83.6% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 59,555 | 1,08,946 | +82.9% |
 
-### #130 — Vidyashilp University #125
+### #131 — Jain College Of Engineering and Research
 
-**KCET code:** E287 · **Composite rank:** #84 of 239 KCET colleges (score 71,214)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+**KCET code:** E269 · **Composite rank:** #84 of 242 KCET colleges (score 70,341.7)
+**ComedK code:** E064 · **Composite rank:** #94 of 106 ComedK colleges (score 1,04,941)
 
-**KCET branches — Round 2 Mock, GM category** (2 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech (Hons) Computer Science and Engineering(Ar Tifical Intelligence and Machine Learning) | Computer Science & IT | 34,354 | 54,566 | +58.8% |
-| B Tech (Hons) Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 59,845 | 87,862 | +46.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 56,324 | 56,862 | +1.0% |
+| Computer Science and Engineering | Computer Science & IT | 70,926 | 74,941 | +5.7% |
+| Electronics and Communication Engg | Electronics & Communication | 86,260 | 86,699 | +0.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,81,943 | 2,81,943 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,64,479 | 2,82,140 | +6.7% |
 
-### #131 — Malnad College of Engineering (KCET E047, ComedK E079)
+**ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
-**KCET code:** E047 · **Composite rank:** #99 of 239 KCET colleges (score 81,853.6)
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 74,657 | 1,04,941 | +40.6% |
+
+### #132 — Malnad College of Engineering (KCET E047, ComedK E079)
+
+**KCET code:** E047 · **Composite rank:** #98 of 242 KCET colleges (score 81,739.5)
 **ComedK code:** E079 · **Composite rank:** #85 of 106 ComedK colleges (score 1,01,260.4)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 25,905 | 34,038 | +31.4% |
-| Electronics and Communication Engg | Electronics & Communication | 39,898 | 46,441 | +16.4% |
-| Computer Science and Engineering | Computer Science & IT | 46,189 | 56,231 | +21.7% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 56,347 | 79,511 | +41.1% |
-| Computer Science and Business Systems | Computer Science & IT | 59,597 | 87,548 | +46.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 74,581 | 1,07,133 | +43.6% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 73,476 | 1,16,393 | +58.4% |
-| Electronics & Computer Engineering | Computer Science & IT | 71,887 | 1,23,095 | +71.2% |
-| Civil Engineering | Civil & Construction | 1,33,659 | 2,81,908 | +110.9% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 34,038 | 33,645 | -1.2% |
+| Electronics and Communication Engg | Electronics & Communication | 46,441 | 46,441 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 56,231 | 55,760 | -0.8% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 79,511 | 79,511 | 0.0% |
+| Computer Science and Business Systems | Computer Science & IT | 87,548 | 91,100 | +4.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,07,133 | 1,07,133 | 0.0% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 1,16,393 | 1,17,369 | +0.8% |
+| Electronics & Computer Engineering | Computer Science & IT | 1,23,095 | 1,28,041 | +4.0% |
+| Civil Engineering | Civil & Construction | 2,81,908 | 2,67,409 | -5.1% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Electrical & Electronics):
 
@@ -3464,38 +3500,53 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 58,485 | 1,03,404 | +76.8% |
 | Computer Science & Engineering | Computer Science & IT | 65,320 | 1,07,714 | +64.9% |
 
-### #132 — VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E279)
+### #133 — VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E279)
 
-**KCET code:** E279 · **Composite rank:** #85 of 239 KCET colleges (score 71,300.4)
+**KCET code:** E279 · **Composite rank:** #85 of 242 KCET colleges (score 70,407)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering | Computer Science & IT | 47,916 | 52,684 | +10.0% |
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 53,503 | 56,990 | +6.5% |
-| B Tech in Electronics & Computer Engineering | Computer Science & IT | 68,277 | 78,218 | +14.6% |
-| Btech in Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 92,612 | 98,828 | +6.7% |
-| B Tech in Robotics and Automation | Mechanical & Allied | 95,104 | 1,06,205 | +11.7% |
-| Btech in Computer Science and Business Systems | Computer Science & IT | 1,02,762 | 1,14,158 | +11.1% |
-| B Tech in Civil Engineering | Civil & Construction | 1,29,277 | 1,72,047 | +33.1% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 52,684 | 52,684 | 0.0% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 56,990 | 57,038 | +0.1% |
+| B Tech in Electronics & Computer Engineering | Computer Science & IT | 78,218 | 77,647 | -0.7% |
+| Btech in Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 98,828 | 94,645 | -4.2% |
+| B Tech in Robotics and Automation | Mechanical & Allied | 1,06,205 | 98,348 | -7.4% |
+| Btech in Computer Science and Business Systems | Computer Science & IT | 1,14,158 | 1,06,956 | -6.3% |
+| B Tech in Civil Engineering | Civil & Construction | 1,72,047 | 1,72,047 | 0.0% |
 
-### #133 — Sri Krishna Institute of Technology
+### #134 — K L E S's K L E College of Engineering & Technology
 
-**KCET code:** E112 · **Composite rank:** #153 of 239 KCET colleges (score 1,24,919.1)
+**KCET code:** E167 · **Composite rank:** #86 of 242 KCET colleges (score 71,408.1)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Data Science | Computer Science & IT | 49,980 | 56,324 | +12.7% |
+| Computer Science and Engineering | Computer Science & IT | 74,574 | 75,654 | +1.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,03,864 | 1,03,437 | -0.4% |
+| Mechanical Engineering | Mechanical & Allied | 2,59,614 | 2,59,614 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,68,399 | 2,68,399 | 0.0% |
+
+### #135 — Sri Krishna Institute of Technology
+
+**KCET code:** E112 · **Composite rank:** #147 of 242 KCET colleges (score 1,21,314.9)
 **ComedK code:** E132 · **Composite rank:** #86 of 106 ComedK colleges (score 1,01,985)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 97,012 | 1,16,977 | +20.6% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 86,933 | 1,17,199 | +34.8% |
-| Electronics and Communication Engg | Electronics & Communication | 90,615 | 1,18,936 | +31.3% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 1,23,710 | 2,44,670 | +97.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,60,326 | 2,72,225 | +69.8% |
-| Civil Engineering | Civil & Construction | 1,78,031 | 2,77,215 | +55.7% |
+| Electronics and Communication Engg | Electronics & Communication | 1,18,936 | 96,986 | -18.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,17,199 | 1,16,047 | -1.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,16,977 | 1,17,180 | +0.2% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,44,670 | 2,06,516 | -15.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,72,225 | 2,72,225 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,77,215 | 2,77,215 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -3503,71 +3554,27 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Computer Science & Engineering | Computer Science & IT | 1,06,470 | 1,01,985 | -4.2% |
 
-### #134 — Vidya Vikas Institute of Engineering & Technology
-
-**KCET code:** E077 · **Composite rank:** #86 of 239 KCET colleges (score 71,377.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 36,577 | 66,607 | +82.1% |
-| Computer Science and Engineering | Computer Science & IT | 44,235 | 69,055 | +56.1% |
-| Electronics and Communication Engg | Electronics & Communication | 50,669 | 81,037 | +59.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 76,631 | 1,13,761 | +48.5% |
-| Civil and Infrastructure Engineering | Civil & Construction | 1,27,222 | 2,80,391 | +120.4% |
-
-### #135 — Maharaja Institute of Technology
-
-**KCET code:** E258 · **Composite rank:** #88 of 239 KCET colleges (score 72,874.2)
-**ComedK code:** E078 · **Composite rank:** #87 of 106 ComedK colleges (score 1,01,998.1)
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 52,065 | 58,416 | +12.2% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 59,055 | 70,269 | +19.0% |
-| Computer Science and Engineering | Computer Science & IT | 55,378 | 77,522 | +40.0% |
-| Electronics and Communication Engg | Electronics & Communication | 56,296 | 77,533 | +37.7% |
-| Mechanical Engineering | Mechanical & Allied | 1,18,483 | 1,70,014 | +43.5% |
-| Civil Engineering | Civil & Construction | 1,38,238 | 1,96,658 | +42.3% |
-
-**ComedK branches — Round 3, GM category** (9 branches; most competitive category: Mechanical & Allied):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Mechanical Engineering | Mechanical & Allied | 69,793 | 69,793 | 0.0% |
-| Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 70,584 | 92,985 | +31.7% |
-| Electronics & Communicatio n Engineering | Electronics & Communication | 1,08,870 | 93,203 | -14.4% |
-| Computer Science & Engineering (Data Science) | Computer Science & IT | 91,862 | 1,02,836 | +11.9% |
-| Computer Science & Engineering (Artificial Intelligence) | Computer Science & IT | 77,137 | 1,03,178 | +33.8% |
-| Civil Engineering | Civil & Construction | 66,933 | 1,04,952 | +56.8% |
-| Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology) | Computer Science & IT | 99,892 | 1,07,955 | +8.1% |
-| Computer Science & Engineering | Computer Science & IT | 87,884 | 1,08,777 | +23.8% |
-| Information Science & Engineering | Computer Science & IT | 1,03,547 | 1,09,049 | +5.3% |
-
 ### #136 — Maharaja Institute of Technology Mysore
 
-**KCET code:** E158 · **Composite rank:** #91 of 239 KCET colleges (score 74,937.1)
+**KCET code:** E158 · **Composite rank:** #90 of 242 KCET colleges (score 74,068.3)
 **ComedK code:** E078 · **Composite rank:** #87 of 106 ComedK colleges (score 1,01,998.1)
 
-**KCET branches — Round 2 Mock, GM category** (11 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (12 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 32,281 | 47,749 | +47.9% |
-| Computer Science and Engineering | Computer Science & IT | 47,849 | 57,013 | +19.2% |
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 47,943 | 59,546 | +24.2% |
-| Electronics and Communication Engg | Electronics & Communication | 57,921 | 65,834 | +13.7% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 54,083 | 70,012 | +29.5% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 69,346 | 76,631 | +10.5% |
-| Information Science and Engineering | Computer Science & IT | 67,656 | 87,721 | +29.7% |
-| Computer Science and Business Systems | Computer Science & IT | 74,901 | 1,04,094 | +39.0% |
-| Computer Engineering | Computer Science & IT | 79,891 | 1,06,575 | +33.4% |
-| Mechanical Engineering | Mechanical & Allied | 89,286 | 1,08,363 | +21.4% |
-| Civil Engineering | Civil & Construction | 1,52,806 | 2,80,451 | +83.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 47,749 | 50,235 | +5.2% |
+| Computer Science and Engineering | Computer Science & IT | 57,013 | 56,988 | -0.0% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 59,546 | 61,799 | +3.8% |
+| Electronics and Communication Engg | Electronics & Communication | 65,834 | 64,394 | -2.2% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 70,012 | 69,901 | -0.2% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 76,631 | 74,569 | -2.7% |
+| Information Science and Engineering | Computer Science & IT | 87,721 | 87,445 | -0.3% |
+| Mechanical Engineering | Mechanical & Allied | 1,08,363 | 1,02,411 | -5.5% |
+| Computer Science and Business Systems | Computer Science & IT | 1,04,094 | 1,04,094 | 0.0% |
+| Computer Engineering | Computer Science & IT | 1,06,575 | 1,16,901 | +9.7% |
+| Mechanical Engineering (Kannada Medium) | Mechanical & Allied | — | 2,70,427 | — |
+| Civil Engineering | Civil & Construction | 2,80,451 | 2,80,451 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (9 branches; most competitive category: Mechanical & Allied):
 
@@ -3583,36 +3590,21 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 87,884 | 1,08,777 | +23.8% |
 | Information Science & Engineering | Computer Science & IT | 1,03,547 | 1,09,049 | +5.3% |
 
-### #137 — P D A College of Engineering (KCET E041)
+### #137 — SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSURU Plot No. 4
 
-**KCET code:** E041 · **Composite rank:** #87 of 239 KCET colleges (score 72,453.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Electronics & Communication):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 41,957 | 47,280 | +12.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 53,812 | 87,030 | +61.7% |
-| Civil Engineering | Civil & Construction | 1,04,097 | 1,11,779 | +7.4% |
-| Mechanical Engineering | Mechanical & Allied | 1,46,478 | 1,72,815 | +18.0% |
-| Industrial & Production Engineering | Mechanical & Allied | 2,24,518 | 2,77,671 | +23.7% |
-
-### #138 — SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSURU Plot No. 4
-
-**KCET code:** E307 · **Composite rank:** #127 of 239 KCET colleges (score 1,04,856.2)
+**KCET code:** E307 · **Composite rank:** #123 of 242 KCET colleges (score 1,02,782.2)
 **ComedK code:** E212 · **Composite rank:** #89 of 106 ComedK colleges (score 1,02,423)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 64,643 | 74,737 | +15.6% |
-| Computer Science and Engineering | Computer Science & IT | 74,384 | 1,00,856 | +35.6% |
-| Electronics and Communication Engg | Electronics & Communication | 91,561 | 1,02,849 | +12.3% |
-| Information Science and Engineering | Computer Science & IT | 1,10,825 | 1,35,185 | +22.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,28,545 | 2,64,979 | +106.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,68,439 | 2,81,750 | +67.3% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 74,737 | 80,530 | +7.8% |
+| Computer Science and Engineering | Computer Science & IT | 1,00,856 | 98,806 | -2.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,02,849 | 1,09,199 | +6.2% |
+| Information Science and Engineering | Computer Science & IT | 1,35,185 | 1,48,800 | +10.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,64,979 | 2,76,634 | +4.4% |
+| Mechanical Engineering | Mechanical & Allied | 2,81,750 | 2,81,750 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -3622,21 +3614,33 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 73,718 | 1,02,423 | +38.9% |
 | Computer Science & Engineering | Computer Science & IT | 76,037 | 1,08,328 | +42.5% |
 
+### #138 — Vidyashilp University #125
+
+**KCET code:** E287 · **Composite rank:** #89 of 242 KCET colleges (score 72,802.5)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| B Tech (Hons) Computer Science and Engineering(Ar Tifical Intelligence and Machine Learning) | Computer Science & IT | 54,566 | 57,743 | +5.8% |
+| B Tech (Hons) Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 87,862 | 87,862 | 0.0% |
+
 ### #139 — T.John Institute of technology
 
-**KCET code:** E147 · **Composite rank:** #160 of 239 KCET colleges (score 1,38,831.9)
+**KCET code:** E147 · **Composite rank:** #154 of 242 KCET colleges (score 1,27,435.7)
 **ComedK code:** E141 · **Composite rank:** #90 of 106 ComedK colleges (score 1,02,993.1)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 59,297 | 80,495 | +35.7% |
-| Computer Science and Engineering | Computer Science & IT | 87,365 | 1,18,654 | +35.8% |
-| Electronics and Communication Engg | Electronics & Communication | 88,038 | 1,36,149 | +54.6% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 85,726 | 1,39,060 | +62.2% |
-| Data Sciences | Computer Science & IT | 1,05,983 | 1,47,686 | +39.3% |
-| Information Science and Engineering | Computer Science & IT | 1,04,517 | 1,60,687 | +53.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 80,495 | 83,277 | +3.5% |
+| Computer Science and Engineering | Computer Science & IT | 1,18,654 | 1,19,808 | +1.0% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,39,060 | 1,26,928 | -8.7% |
+| Electronics and Communication Engg | Electronics & Communication | 1,36,149 | 1,33,845 | -1.7% |
+| Data Sciences | Computer Science & IT | 1,47,686 | 1,51,663 | +2.7% |
+| Information Science and Engineering | Computer Science & IT | 1,60,687 | 1,57,148 | -2.2% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -3646,44 +3650,56 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electronics & Communicatio n Engineering | Electronics & Communication | 92,534 | 1,02,234 | +10.5% |
 | Computer Science & Engineering | Computer Science & IT | 78,248 | 1,07,206 | +37.0% |
 
-### #140 — P D A College of Engineering (KCET E059)
+### #140 — BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology
 
-**KCET code:** E059 · **Composite rank:** #92 of 239 KCET colleges (score 75,622.4)
+**KCET code:** E038 · **Composite rank:** #91 of 242 KCET colleges (score 74,669.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (11 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 38,997 | 50,641 | +29.9% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 45,010 | 51,317 | +14.0% |
-| Computer Science and Engineering | Computer Science & IT | 52,055 | 56,805 | +9.1% |
-| Information Science and Engineering | Computer Science & IT | 91,545 | 97,180 | +6.2% |
-| Computer Science and Design | Computer Science & IT | 85,856 | 1,06,647 | +24.2% |
-| Electronics and Communication Engg | Electronics & Communication | 89,904 | 1,14,642 | +27.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,38,889 | 1,69,474 | +22.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,51,409 | 2,71,710 | +79.5% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 1,62,746 | 2,78,630 | +71.2% |
-| Civil Engineering | Civil & Construction | 1,53,236 | 2,81,604 | +83.8% |
-| Ceramics & Cement Engineering | Other Branches | 1,04,567 | 2,82,471 | +170.1% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 42,938 | 42,838 | -0.2% |
+| Computer Science and Engineering | Computer Science & IT | 65,341 | 65,341 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 80,654 | 78,705 | -2.4% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 81,420 | 79,964 | -1.8% |
+| Information Science and Engineering | Computer Science & IT | 89,848 | 89,489 | -0.4% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,23,294 | 1,15,965 | -5.9% |
+| Mechanical Engineering | Mechanical & Allied | 1,25,828 | 1,25,828 | 0.0% |
+| Civil Engineering | Civil & Construction | 1,59,663 | 1,58,545 | -0.7% |
 
-### #141 — Sri Venkateshwara College of Engineering
+### #141 — Government Engineering College (KCET E272)
 
-**KCET code:** E111 · **Composite rank:** #100 of 239 KCET colleges (score 83,106.9)
+**KCET code:** E272 · **Composite rank:** #92 of 242 KCET colleges (score 75,620.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 70,150 | 70,254 | +0.1% |
+| Electronics and Communication Engg | Electronics & Communication | 98,391 | 98,391 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,09,613 | 1,11,975 | +2.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,73,307 | 2,73,307 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,82,063 | 2,82,063 | 0.0% |
+
+### #142 — Sri Venkateshwara College of Engineering
+
+**KCET code:** E111 · **Composite rank:** #101 of 242 KCET colleges (score 82,863.5)
 **ComedK code:** E137 · **Composite rank:** #92 of 106 ComedK colleges (score 1,04,262.8)
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 52,099 | 60,165 | +15.5% |
-| Computer Science and Engineering | Computer Science & IT | 72,086 | 79,993 | +11.0% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 76,009 | 80,465 | +5.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 80,495 | 92,071 | +14.4% |
-| Electronics and Communication Engg | Electronics & Communication | 82,383 | 97,905 | +18.8% |
-| Information Science and Engineering | Computer Science & IT | 89,074 | 1,10,417 | +24.0% |
-| Mechanical Engineering | Mechanical & Allied | 1,08,324 | 1,26,762 | +17.0% |
-| Civil Engineering | Civil & Construction | 1,20,944 | 1,77,863 | +47.1% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 60,165 | 60,877 | +1.2% |
+| Computer Science and Engineering | Computer Science & IT | 79,993 | 79,227 | -1.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 80,465 | 80,185 | -0.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 92,071 | 89,455 | -2.8% |
+| Information Science and Engineering | Computer Science & IT | 1,10,417 | 97,498 | -11.7% |
+| Electronics and Communication Engg | Electronics & Communication | 97,905 | 1,01,923 | +4.1% |
+| Mechanical Engineering | Mechanical & Allied | 1,26,762 | 1,21,450 | -4.2% |
+| Civil Engineering | Civil & Construction | 1,77,863 | 1,81,626 | +2.1% |
 
 **ComedK branches — Round 3, GM category** (5 branches; most competitive category: Computer Science & IT):
 
@@ -3694,24 +3710,6 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence) | Computer Science & IT | 50,915 | 1,03,259 | +102.8% |
 | Computer Science & Engineering | Computer Science & IT | 35,161 | 1,06,447 | +202.7% |
 | Computer Science & Engineering (Data Science) | Computer Science & IT | 57,462 | 1,09,089 | +89.8% |
-
-### #142 — BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology
-
-**KCET code:** E038 · **Composite rank:** #93 of 239 KCET colleges (score 75,839.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 36,765 | 42,938 | +16.8% |
-| Computer Science and Engineering | Computer Science & IT | 52,759 | 65,341 | +23.8% |
-| Electronics and Communication Engg | Electronics & Communication | 74,630 | 80,654 | +8.1% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 67,620 | 81,420 | +20.4% |
-| Information Science and Engineering | Computer Science & IT | 78,643 | 89,848 | +14.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 98,754 | 1,23,294 | +24.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,25,828 | 1,25,828 | 0.0% |
-| Civil Engineering | Civil & Construction | 1,23,354 | 1,59,663 | +29.4% |
 
 ### #143 — Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru
 
@@ -3729,34 +3727,55 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 
 ### #144 — Visvesvaraya Technological University (KCET E290)
 
-**KCET code:** E290 · **Composite rank:** #94 of 239 KCET colleges (score 75,946.3)
+**KCET code:** E290 · **Composite rank:** #93 of 242 KCET colleges (score 75,780.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 50,973 | 65,282 | +28.1% |
-| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 55,244 | 67,946 | +23.0% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 60,559 | 83,885.75 | +38.5% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 1,27,202 | 1,69,640 | +33.4% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 65,282 | 65,754 | +0.7% |
+| B Tech in Artificial Intelligence and Data Science | Computer Science & IT | 67,946 | 68,501 | +0.8% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 83,885.75 | 83,662 | -0.3% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 1,69,640 | 1,75,358 | +3.4% |
 
-### #145 — Brindavan College of Engineering
+### #145 — P D A College of Engineering (KCET E059)
 
-**KCET code:** E171 · **Composite rank:** #154 of 239 KCET colleges (score 1,28,372.6)
+**KCET code:** E059 · **Composite rank:** #94 of 242 KCET colleges (score 76,067.1)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (11 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Data Science | Computer Science & IT | 51,317 | 47,681 | -7.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 50,641 | 50,641 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 56,805 | 57,556 | +1.3% |
+| Information Science and Engineering | Computer Science & IT | 97,180 | 97,947 | +0.8% |
+| Computer Science and Design | Computer Science & IT | 1,06,647 | 1,06,647 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,14,642 | 1,15,770 | +1.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,69,474 | 1,76,350 | +4.1% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 2,78,630 | 2,61,988 | -6.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,71,710 | 2,66,374 | -2.0% |
+| Civil Engineering | Civil & Construction | 2,81,604 | 2,81,604 | 0.0% |
+| Ceramics & Cement Engineering | Other Branches | 2,82,471 | 2,82,471 | 0.0% |
+
+### #146 — Brindavan College of Engineering
+
+**KCET code:** E171 · **Composite rank:** #148 of 242 KCET colleges (score 1,21,792)
 **ComedK code:** E030 · **Composite rank:** #95 of 106 ComedK colleges (score 1,05,330)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 78,430 | 96,809 | +23.4% |
-| Computer Science and Engineering | Computer Science & IT | 94,597 | 1,16,014 | +22.6% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,06,582 | 1,33,987 | +25.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,04,976 | 1,34,836 | +28.4% |
-| Information Science and Engineering | Computer Science & IT | 1,06,803 | 1,50,937.5 | +41.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,26,361 | 2,66,701 | +111.1% |
-| Civil Engineering | Civil & Construction | 1,43,020 | 2,72,320.5 | +90.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 96,809 | 89,719 | -7.3% |
+| Computer Science and Engineering | Computer Science & IT | 1,16,014 | 1,14,156 | -1.6% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,33,987 | 1,22,782 | -8.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,34,836 | 1,36,725 | +1.4% |
+| Information Science and Engineering | Computer Science & IT | 1,50,937.5 | 1,50,937.5 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,72,320.5 | 2,64,078 | -3.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,66,701 | 2,69,545.5 | +1.1% |
 
 **ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
 
@@ -3765,36 +3784,36 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 98,126 | 1,03,707 | +5.7% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 1,01,061 | 1,06,953 | +5.8% |
 
-### #146 — Government Engineering College (KCET E272)
+### #147 — Vidya Vikas Institute of Engineering & Technology
 
-**KCET code:** E272 · **Composite rank:** #95 of 239 KCET colleges (score 76,527.8)
+**KCET code:** E077 · **Composite rank:** #95 of 242 KCET colleges (score 78,444.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 67,401 | 70,150 | +4.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,00,046 | 98,391 | -1.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 96,493 | 1,09,613 | +13.6% |
-| Mechanical Engineering | Mechanical & Allied | 2,46,375 | 2,73,307 | +10.9% |
-| Civil Engineering | Civil & Construction | 1,57,371 | 2,82,063 | +79.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 66,607 | 70,791 | +6.3% |
+| Computer Science and Engineering | Computer Science & IT | 69,055 | 78,604 | +13.8% |
+| Electronics and Communication Engg | Electronics & Communication | 81,037 | 93,727 | +15.7% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,13,761 | 1,15,707 | +1.7% |
+| Civil and Infrastructure Engineering | Civil & Construction | 2,80,391 | 2,78,696 | -0.6% |
 
-### #147 — Jain Institute of Technology
+### #148 — Jain Institute of Technology
 
-**KCET code:** E211 · **Composite rank:** #162 of 239 KCET colleges (score 1,39,753.3)
+**KCET code:** E211 · **Composite rank:** #163 of 242 KCET colleges (score 1,36,549.7)
 **ComedK code:** E183 · **Composite rank:** #96 of 106 ComedK colleges (score 1,05,475)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 88,379 | 1,03,007 | +16.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,06,458 | 1,42,614 | +34.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,62,321 | 2,76,418 | +70.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,29,070 | 2,77,341 | +21.1% |
-| Civil Engineering | Civil & Construction | 1,90,284 | 2,79,755 | +47.0% |
-| Electronics and Communication Engg | Electronics & Communication | 1,31,517 | 2,82,306 | +114.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,03,007 | 98,144 | -4.7% |
+| Computer Science and Engineering | Computer Science & IT | 1,42,614 | 1,43,481 | +0.6% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,76,418 | 2,76,418 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,77,341 | 2,77,341 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,79,755 | 2,79,755 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,82,306 | 2,82,306 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -3802,7 +3821,7 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Computer Science & Engineering | Computer Science & IT | 66,319 | 1,05,475 | +59.0% |
 
-### #148 — Basaveshwar Engineering College-Vidya Nagar, Bagalkote
+### #149 — Basaveshwar Engineering College-Vidya Nagar, Bagalkote
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E024 · **Composite rank:** #97 of 106 ComedK colleges (score 1,06,022.8)
@@ -3815,52 +3834,7 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Electronics & Communicatio n Engineering | Electronics & Communication | 72,687 | 1,08,837 | +49.7% |
 | Computer Science & Engineering | Computer Science & IT | 76,509 | 1,09,594 | +43.2% |
 
-### #149 — East West College Of Engineering
-
-**KCET code:** E239 · **Composite rank:** #97 of 239 KCET colleges (score 79,092.6)
-**ComedK code:** E211 · **Composite rank:** #100 of 106 ComedK colleges (score 1,07,255.1)
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Aerospace):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Aeronautical Engineering | Aerospace | 53,793 | 69,243 | +28.7% |
-| Electronics and Communication Engg | Electronics & Communication | 59,456 | 78,086 | +31.3% |
-| Computer Science and Engineering | Computer Science & IT | 52,810 | 78,528.5 | +48.7% |
-| Agriculture Engineering | Other Branches | 72,226 | 1,02,215 | +41.5% |
-| Mechanical Engineering | Mechanical & Allied | 1,00,117 | 1,38,926 | +38.8% |
-
-**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Aerospace):
-
-| Branch | Category | Round 1 rank | Round 3 rank | Change |
-|---|---|---|---|---|
-| Aeronau- tical Engineering | Aerospace | 65,043 | 92,004 | +41.5% |
-| Mechanical Engineering | Mechanical & Allied | 73,873 | 97,566 | +32.1% |
-| Computer Science & Engineering | Computer Science & IT | 43,813 | 1,08,143 | +146.8% |
-
-### #150 — AMITY UNIVERSITY National Highway 648 (old 207)
-
-**KCET code:** E302 · **Composite rank:** #98 of 239 KCET colleges (score 80,568.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (12 branches; most competitive category: Biotechnology & Life Sciences):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| B Tech in Bio- Technology | Biotechnology & Life Sciences | 29,001 | 47,535 | +63.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 38,502 | 57,243 | +48.7% |
-| B Tech in Computer Science Engineering(AI &ML) | Computer Science & IT | 49,905 | 58,646 | +17.5% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 69,676 | 77,958 | +11.9% |
-| B.Tech in Computer Science and Engg (Robotics) | Computer Science & IT | 69,613 | 78,327 | +12.5% |
-| B.Tech in Computer Sicence and Engg (Data Analytics) | Computer Science & IT | 60,965 | 78,765.5 | +29.2% |
-| B Tech in Computer Science and Engineering (Cloud Computing) | Computer Science & IT | 66,653 | 83,799 | +25.7% |
-| B.Tech in Computer Science Engineering (Internet of Things) | Computer Science & IT | 75,197 | 86,228 | +14.7% |
-| B Tech in Computer Science and Engineering(De V Ops) | Computer Science & IT | 79,292 | 97,771 | +23.3% |
-| B.Tech in Embedded System and Vlsi | Electronics & Communication | 73,897 | 1,00,139 | +35.5% |
-| B.Tech in Computer Science and Engineering(Full Stack Development) | Computer Science & IT | 79,712 | 1,03,667 | +30.1% |
-| B.Tech in Electrical & Electronics Engineering (Electrical Vehicle Technology) | Electrical & Electronics | 64,062 | 1,09,725 | +71.3% |
-
-### #151 — Cambridge Institute of Technology North Campus-Kundana, Bengaluru
+### #150 — Cambridge Institute of Technology North Campus-Kundana, Bengaluru
 
 **KCET:** no seats found under General Merit in the current KCET data.
 **ComedK code:** E161 · **Composite rank:** #98 of 106 ComedK colleges (score 1,06,662.7)
@@ -3876,20 +3850,42 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 56,153 | 1,08,994 | +94.1% |
 | Computer Science & Engineering (Cyber Security) | Computer Science & IT | 54,271 | 1,09,392 | +101.6% |
 
+### #151 — AMITY UNIVERSITY National Highway 648 (old 207)
+
+**KCET code:** E302 · **Composite rank:** #99 of 242 KCET colleges (score 81,956)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (12 branches; most competitive category: Biotechnology & Life Sciences):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| B Tech in Bio- Technology | Biotechnology & Life Sciences | 47,535 | 49,334 | +3.8% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 57,243 | 57,243 | 0.0% |
+| B Tech in Computer Science Engineering(AI &ML) | Computer Science & IT | 58,646 | 60,818 | +3.7% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 77,958 | 77,554 | -0.5% |
+| B.Tech in Computer Science and Engg (Robotics) | Computer Science & IT | 78,327 | 78,327 | 0.0% |
+| B.Tech in Computer Sicence and Engg (Data Analytics) | Computer Science & IT | 78,765.5 | 82,522 | +4.8% |
+| B Tech in Computer Science and Engineering (Cloud Computing) | Computer Science & IT | 83,799 | 83,274 | -0.6% |
+| B.Tech in Computer Science Engineering (Internet of Things) | Computer Science & IT | 86,228 | 87,094 | +1.0% |
+| B Tech in Computer Science and Engineering(De V Ops) | Computer Science & IT | 97,771 | 97,771 | 0.0% |
+| B.Tech in Embedded System and Vlsi | Electronics & Communication | 1,00,139 | 1,00,761 | +0.6% |
+| B.Tech in Computer Science and Engineering(Full Stack Development) | Computer Science & IT | 1,03,667 | 1,03,667 | 0.0% |
+| B.Tech in Electrical & Electronics Engineering (Electrical Vehicle Technology) | Electrical & Electronics | 1,09,725 | 1,10,402 | +0.6% |
+
 ### #152 — ISBR College of Engineering and Technology 29-P1 AND 30
 
-**KCET code:** E324 · **Composite rank:** #159 of 239 KCET colleges (score 1,38,749.9)
+**KCET code:** E324 · **Composite rank:** #156 of 242 KCET colleges (score 1,29,525)
 **ComedK code:** E219 · **Composite rank:** #99 of 106 ComedK colleges (score 1,06,868)
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 76,510 | 92,492 | +20.9% |
-| Computer Science and Engineering | Computer Science & IT | 91,519 | 1,28,402 | +40.3% |
-| Electronics and Communication Engg | Electronics & Communication | 1,31,076 | 2,39,711 | +82.9% |
-| Information Technology & Engineering | Computer Science & IT | 1,27,346 | 2,66,268 | +109.1% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 1,81,505 | 2,81,268 | +55.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 92,492 | 90,510 | -2.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,28,402 | 1,18,446 | -7.8% |
+| Electronics and Communication Engg | Electronics & Communication | 2,39,711 | 2,57,527 | +7.4% |
+| Information Technology & Engineering | Computer Science & IT | 2,66,268 | 2,66,268 | 0.0% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,81,268 | 2,81,268 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (2 branches; most competitive category: Computer Science & IT):
 
@@ -3898,24 +3894,63 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering | Computer Science & IT | 75,372 | 1,04,735 | +39.0% |
 | Artificial Intelligence & Machine Learning | Computer Science & IT | 89,285 | 1,09,001 | +22.1% |
 
-### #153 — S J C Institute of Technology
+### #153 — East West College Of Engineering
 
-**KCET code:** E014 · **Composite rank:** #105 of 239 KCET colleges (score 88,533.9)
+**KCET code:** E239 · **Composite rank:** #103 of 242 KCET colleges (score 85,928.4)
+**ComedK code:** E211 · **Composite rank:** #100 of 106 ComedK colleges (score 1,07,255.1)
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Aerospace):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Aeronautical Engineering | Aerospace | 69,243 | 76,887 | +11.0% |
+| Electronics and Communication Engg | Electronics & Communication | 78,086 | 84,105 | +7.7% |
+| Computer Science and Engineering | Computer Science & IT | 78,528.5 | 85,695 | +9.1% |
+| Agriculture Engineering | Other Branches | 1,02,215 | 1,00,380 | -1.8% |
+| Mechanical Engineering | Mechanical & Allied | 1,38,926 | 1,44,240 | +3.8% |
+
+**ComedK branches — Round 3, GM category** (3 branches; most competitive category: Aerospace):
+
+| Branch | Category | Round 1 rank | Round 3 rank | Change |
+|---|---|---|---|---|
+| Aeronau- tical Engineering | Aerospace | 65,043 | 92,004 | +41.5% |
+| Mechanical Engineering | Mechanical & Allied | 73,873 | 97,566 | +32.1% |
+| Computer Science & Engineering | Computer Science & IT | 43,813 | 1,08,143 | +146.8% |
+
+### #154 — Jyothi Institute of Technology
+
+**KCET code:** E209 · **Composite rank:** #100 of 242 KCET colleges (score 82,816.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 59,001.5 | 61,099 | +3.6% |
+| Computer Science and Engineering | Computer Science & IT | 77,793 | 76,970 | -1.1% |
+| Information Science and Engineering | Computer Science & IT | 1,14,396 | 1,11,796 | -2.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,08,743 | 1,21,673 | +11.9% |
+| Mechanical Engineering | Mechanical & Allied | 2,68,265 | 2,68,265 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,76,021 | 2,69,699 | -2.3% |
+
+### #155 — S J C Institute of Technology
+
+**KCET code:** E014 · **Composite rank:** #106 of 242 KCET colleges (score 88,242.8)
 **ComedK code:** E108 · **Composite rank:** #101 of 106 ComedK colleges (score 1,07,857.4)
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Aerospace):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Aerospace):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Aero Space Engineering | Aerospace | 29,533 | 54,101 | +83.2% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 56,850 | 63,311 | +11.4% |
-| Aeronautical Engineering | Aerospace | 34,154 | 69,052.5 | +102.2% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 58,212 | 84,405 | +45.0% |
-| Computer Science and Engineering | Computer Science & IT | 64,663 | 89,486 | +38.4% |
-| Electronics and Communication Engg | Electronics & Communication | 71,107 | 93,292 | +31.2% |
-| Mechanical Engineering | Mechanical & Allied | 85,391 | 95,755 | +12.1% |
-| Computer Science and Design | Computer Science & IT | 88,329 | 1,25,287 | +41.8% |
-| Civil Engineering | Civil & Construction | 1,47,285 | 2,80,581 | +90.5% |
+| Aero Space Engineering | Aerospace | 54,101 | 55,954 | +3.4% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 63,311 | 63,776 | +0.7% |
+| Aeronautical Engineering | Aerospace | 69,052.5 | 71,890 | +4.1% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 84,405 | 82,905 | -1.8% |
+| Computer Science and Engineering | Computer Science & IT | 89,486 | 89,486 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 93,292 | 98,016 | +5.1% |
+| Mechanical Engineering | Mechanical & Allied | 95,755 | 1,28,298 | +34.0% |
+| Computer Science and Design | Computer Science & IT | 1,25,287 | 1,39,077 | +11.0% |
+| Civil Engineering | Civil & Construction | 2,80,581 | 2,69,769 | -3.9% |
 
 **ComedK branches — Round 3, GM category** (4 branches; most competitive category: Computer Science & IT):
 
@@ -3926,72 +3961,58 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Artificial Intelligence & Data Science | Computer Science & IT | 62,087 | 1,07,887 | +73.8% |
 | Computer Science & Engineering | Computer Science & IT | 57,518 | 1,08,130 | +88.0% |
 
-### #154 — University B.D.T College of Engineering (KCET E066)
+### #156 — University B.D.T College of Engineering (KCET E066)
 
-**KCET code:** E066 · **Composite rank:** #101 of 239 KCET colleges (score 83,192.1)
+**KCET code:** E066 · **Composite rank:** #102 of 242 KCET colleges (score 83,052.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 45,318 | 66,141 | +45.9% |
-| Electronics and Communication Engg | Electronics & Communication | 59,969 | 79,267 | +32.2% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 65,960 | 87,223 | +32.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 78,577 | 1,13,892 | +44.9% |
-| Civil Engineering | Civil & Construction | 1,22,906 | 1,69,784 | +38.1% |
-| Electronics and Instrumentatio N Engineering | Electronics & Communication | 1,18,515 | 1,82,749 | +54.2% |
-| Mechanical Engineering | Mechanical & Allied | 1,50,500 | 1,95,124 | +29.7% |
+| Computer Science and Engineering | Computer Science & IT | 66,141 | 65,990 | -0.2% |
+| Electronics and Communication Engg | Electronics & Communication | 79,267 | 71,559 | -9.7% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 87,223 | 91,180 | +4.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,13,892 | 1,02,481 | -10.0% |
+| Electronics and Instrumentatio N Engineering | Electronics & Communication | 1,82,749 | 1,62,401 | -11.1% |
+| Civil Engineering | Civil & Construction | 1,69,784 | 1,70,457 | +0.4% |
+| Mechanical Engineering | Mechanical & Allied | 1,95,124 | 2,09,484 | +7.4% |
 
-### #155 — Jyothi Institute of Technology
+### #157 — GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS BENGALURU NH 207
 
-**KCET code:** E209 · **Composite rank:** #102 of 239 KCET colleges (score 83,691.4)
+**KCET code:** E255 · **Composite rank:** #104 of 242 KCET colleges (score 87,755.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 47,482 | 59,001.5 | +24.3% |
-| Computer Science and Engineering | Computer Science & IT | 61,789 | 77,793 | +25.9% |
-| Electronics and Communication Engg | Electronics & Communication | 75,331 | 1,08,743 | +44.4% |
-| Information Science and Engineering | Computer Science & IT | 78,213 | 1,14,396 | +46.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,27,324 | 2,68,265 | +110.7% |
-| Civil Engineering | Civil & Construction | 1,66,561 | 2,76,021 | +65.7% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 66,725 | 67,114 | +0.6% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 72,725 | 70,498 | -3.1% |
+| Computer Science and Engineering | Computer Science & IT | 85,251 | 79,292 | -7.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 97,680 | 93,616 | -4.2% |
+| Electronics and Communication Engg | Electronics & Communication | 90,484 | 94,226 | +4.1% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 1,17,255 | 96,937 | -17.3% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 1,11,925 | 1,03,211 | -7.8% |
+| Electrical & Computer Engineering | Computer Science & IT | 1,10,323 | 1,12,310 | +1.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,14,907 | 2,25,492 | +4.9% |
 
-### #156 — Channabasaveshwara Institute of Technology
+### #158 — Nagarjuna College of Engineering & Technology
 
-**KCET code:** E101 · **Composite rank:** #103 of 239 KCET colleges (score 87,494)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 64,599 | 67,238 | +4.1% |
-| Computer Science and Engineering | Computer Science & IT | 73,834 | 78,229 | +6.0% |
-| Information Science and Engineering | Computer Science & IT | 88,182 | 1,02,815 | +16.6% |
-| Electronics and Communication Engg | Electronics & Communication | 89,594 | 1,18,539 | +32.3% |
-| Civil Engineering | Civil & Construction | 1,57,964 | 2,66,561 | +68.7% |
-| Mechanical Engineering | Mechanical & Allied | 1,76,095 | 2,79,827 | +58.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,17,415 | 2,81,639 | +139.9% |
-
-### #157 — Nagarjuna College of Engineering & Technology
-
-**KCET code:** E104 · **Composite rank:** #122 of 239 KCET colleges (score 1,02,562.5)
+**KCET code:** E104 · **Composite rank:** #126 of 242 KCET colleges (score 1,06,176.4)
 **ComedK code:** E084 · **Composite rank:** #104 of 106 ComedK colleges (score 1,08,629)
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 69,087 | 75,091 | +8.7% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 78,812 | 87,164 | +10.6% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 80,983 | 1,00,844 | +24.5% |
-| Computer Science and Engineering | Computer Science & IT | 81,270 | 1,03,223 | +27.0% |
-| Electronics and Communication Engg | Electronics & Communication | 80,655 | 1,09,631 | +35.9% |
-| Information Science and Engineering | Computer Science & IT | 86,874 | 1,12,040 | +29.0% |
-| Civil Engineering | Civil & Construction | 1,47,515 | 2,14,334 | +45.3% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 75,091 | 76,177 | +1.4% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 87,164 | 78,812 | -9.6% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,00,844 | 1,04,168 | +3.3% |
+| Computer Science and Engineering | Computer Science & IT | 1,03,223 | 1,04,560 | +1.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,09,631 | 1,09,631 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 1,12,040 | 1,14,267 | +2.0% |
+| Civil Engineering | Civil & Construction | 2,14,334 | 2,81,392 | +31.3% |
 
 **ComedK branches — Round 3, GM category** (3 branches; most competitive category: Computer Science & IT):
 
@@ -4001,36 +4022,35 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 | Computer Science & Engineering (Artificial Intelligence & Machine Learning) | Computer Science & IT | 88,650 | 1,08,629 | +22.5% |
 | Computer Science & Engineering | Computer Science & IT | 74,831 | 1,09,613 | +46.5% |
 
-### #158 — Sharanbasava University (Exclusively for Women) (Formerly Goduati Engineering College For Women) SHARNBASVESHWARA INSTITUTIONS CAMPUS
+### #159 — Government Engineering College (KCET E163)
 
-**KCET code:** E198 · **Composite rank:** #104 of 239 KCET colleges (score 88,373.3)
+**KCET code:** E163 · **Composite rank:** #105 of 242 KCET colleges (score 88,087.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 57,789 | 68,444 | +18.4% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 80,375 | 89,160 | +10.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,17,193 | 1,47,873 | +26.2% |
-| B Tech in Civil Engineering | Civil & Construction | 1,50,015 | 2,58,491 | +72.3% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 1,51,840 | 2,75,882 | +81.7% |
+| Computer Science and Engineering | Computer Science & IT | 83,607 | 83,678 | +0.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,05,556 | 1,09,227 | +3.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,72,296 | 2,63,714 | -3.2% |
+| Civil Engineering | Civil & Construction | 2,76,526 | 2,76,526 | 0.0% |
 
-### #159 — Garden City University 16th KM
+### #160 — Garden City University 16th KM
 
-**KCET code:** E288 · **Composite rank:** #191 of 239 KCET colleges (score 1,89,119.5)
+**KCET code:** E288 · **Composite rank:** #186 of 242 KCET colleges (score 1,77,717.6)
 **ComedK code:** E049 · **Composite rank:** #106 of 106 ComedK colleges (score 1,10,006)
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science | Computer Science & IT | 81,674 | 1,00,905 | +23.5% |
-| Computer Science | Computer Science & IT | 1,10,323 | 1,33,681 | +21.2% |
-| B Tech in Robotic Engineering | Mechanical & Allied | 1,19,884 | 2,12,793 | +77.5% |
-| B Tech in Information Technology | Computer Science & IT | 1,23,094 | 2,28,431 | +85.6% |
-| Information Science | Computer Science & IT | 1,30,549 | 2,79,899 | +114.4% |
-| B.Tech in Electronics Engineering | Electronics & Communication | 1,34,435 | 2,81,199 | +109.2% |
+| B Tech in Computer Science | Computer Science & IT | 1,00,905 | 1,00,905 | 0.0% |
+| Computer Science | Computer Science & IT | 1,33,681 | 1,32,958 | -0.5% |
+| B Tech in Robotic Engineering | Mechanical & Allied | 2,12,793 | 1,81,666 | -14.6% |
+| B Tech in Information Technology | Computer Science & IT | 2,28,431 | 2,06,045 | -9.8% |
+| Information Science | Computer Science & IT | 2,79,899 | 2,30,660 | -17.6% |
+| B.Tech in Electronics Engineering | Electronics & Communication | 2,81,199 | 2,81,199 | 0.0% |
 
 **ComedK branches — Round 3, GM category** (1 branch; most competitive category: Computer Science & IT):
 
@@ -4038,1637 +4058,1654 @@ Round-over-round, cutoffs typically loosen (earlier rounds absorb the strongest 
 |---|---|---|---|---|
 | Computer Science & Engineering | Computer Science & IT | 58,750 | 1,10,006 | +87.2% |
 
-### #160 — Government Engineering College (KCET E163)
+### #161 — Sharanbasava University (Exclusively for Women) (Formerly Goduati Engineering College For Women) SHARNBASVESHWARA INSTITUTIONS CAMPUS
 
-**KCET code:** E163 · **Composite rank:** #106 of 239 KCET colleges (score 88,748.9)
+**KCET code:** E198 · **Composite rank:** #107 of 242 KCET colleges (score 88,775.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 68,494 | 83,607 | +22.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,01,032 | 1,05,556 | +4.5% |
-| Mechanical Engineering | Mechanical & Allied | 2,24,630 | 2,72,296 | +21.2% |
-| Civil Engineering | Civil & Construction | 1,72,683 | 2,76,526 | +60.1% |
+| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 68,444 | 68,444 | 0.0% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 89,160 | 89,160 | 0.0% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,47,873 | 1,58,389 | +7.1% |
+| B Tech in Civil Engineering | Civil & Construction | 2,58,491 | 2,58,491 | 0.0% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 2,75,882 | 2,75,882 | 0.0% |
 
-### #161 — Government Engineering College (KCET E157)
+### #162 — Channabasaveshwara Institute of Technology
 
-**KCET code:** E157 · **Composite rank:** #108 of 239 KCET colleges (score 90,722.8)
+**KCET code:** E101 · **Composite rank:** #109 of 242 KCET colleges (score 89,381.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 71,047 | 84,102 | +18.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,03,133 | 1,23,804 | +20.0% |
-| Mechanical and Smart Manufacturing | Mechanical & Allied | 2,00,492 | 2,80,461 | +39.9% |
-| Civil Engineering | Civil & Construction | 1,78,745 | 2,81,870 | +57.7% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 67,238 | 67,238 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 78,229 | 82,166 | +5.0% |
+| Information Science and Engineering | Computer Science & IT | 1,02,815 | 1,03,763 | +0.9% |
+| Electronics and Communication Engg | Electronics & Communication | 1,18,539 | 1,16,174 | -2.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,81,639 | 2,54,463 | -9.6% |
+| Civil Engineering | Civil & Construction | 2,66,561 | 2,60,914 | -2.1% |
+| Mechanical Engineering | Mechanical & Allied | 2,79,827 | 2,79,827 | 0.0% |
 
-### #162 — S.S.E.T.S.S.G.Balekundri Institute of Technology
+### #163 — Government Engineering College (KCET E157)
 
-**KCET code:** E175 · **Composite rank:** #111 of 239 KCET colleges (score 92,855.9)
+**KCET code:** E157 · **Composite rank:** #111 of 242 KCET colleges (score 93,860.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 66,569 | 72,057 | +8.2% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 69,521 | 72,665 | +4.5% |
+| Computer Science and Engineering | Computer Science & IT | 84,102 | 89,103 | +5.9% |
+| Electronics and Communication Engg | Electronics & Communication | 1,23,804 | 1,18,839 | -4.0% |
+| Mechanical and Smart Manufacturing | Mechanical & Allied | 2,80,461 | 2,80,461 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,81,870 | 2,81,248 | -0.2% |
+
+### #164 — S.S.E.T.S.S.G.Balekundri Institute of Technology
+
+**KCET code:** E175 · **Composite rank:** #112 of 242 KCET colleges (score 94,716.1)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Data Science | Computer Science & IT | 72,665 | 72,510 | -0.2% |
+| Computer Science and Engineering | Computer Science & IT | 72,057 | 74,890 | +3.9% |
 | Electronics and Communication Engg | Electronics & Communication | 78,995 | 78,995 | 0.0% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 1,00,361 | 1,07,669 | +7.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,14,315 | 1,42,154 | +24.4% |
-| Computer Science and Business Systems | Computer Science & IT | 1,10,955 | 1,56,498 | +41.0% |
-| Civil Engineering | Civil & Construction | 1,97,480 | 2,22,219 | +12.5% |
-| Mechanical Engineering | Mechanical & Allied | 1,70,483 | 2,76,248 | +62.0% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 1,07,669 | 1,11,105 | +3.2% |
+| Computer Science and Business Systems | Computer Science & IT | 1,56,498 | 1,42,097 | -9.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,42,154 | 1,48,768 | +4.7% |
+| Civil Engineering | Civil & Construction | 2,22,219 | 2,22,219 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,76,248 | 2,76,248 | 0.0% |
 
-### #163 — GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS BENGALURU NH 207
+### #165 — K L S Viswanathrao Deshpande Institute of Technology
 
-**KCET code:** E255 · **Composite rank:** #112 of 239 KCET colleges (score 93,555.7)
+**KCET code:** E135 · **Composite rank:** #113 of 242 KCET colleges (score 97,291.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 57,301 | 66,725 | +16.4% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 63,807 | 72,725 | +14.0% |
-| Computer Science and Engineering | Computer Science & IT | 73,686 | 85,251 | +15.7% |
-| Electronics and Communication Engg | Electronics & Communication | 72,784 | 90,484 | +24.3% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 74,391 | 97,680 | +31.3% |
-| Electrical & Computer Engineering | Computer Science & IT | 87,020 | 1,10,323 | +26.8% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 86,229 | 1,11,925 | +29.8% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 86,766 | 1,17,255 | +35.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,23,079 | 2,14,907 | +74.6% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 77,966 | 74,686 | -4.2% |
+| Computer Science and Engineering | Computer Science & IT | 88,969 | 92,350 | +3.8% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,05,737 | 1,13,093 | +7.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,09,435 | 1,16,774 | +6.7% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,74,950 | 1,49,570 | -14.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,70,674 | 2,70,674 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,75,372 | 2,75,372 | 0.0% |
 
-### #164 — K L S Viswanathrao Deshpande Institute of Technology
+### #166 — Gurunanak Dev Engineering College
 
-**KCET code:** E135 · **Composite rank:** #113 of 239 KCET colleges (score 94,960.4)
+**KCET code:** E043 · **Composite rank:** #115 of 242 KCET colleges (score 97,927.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 64,117 | 77,966 | +21.6% |
-| Computer Science and Engineering | Computer Science & IT | 82,859 | 88,969 | +7.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 95,703 | 1,05,737 | +10.5% |
-| Electronics and Communication Engg | Electronics & Communication | 87,643 | 1,09,435 | +24.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,35,122 | 1,74,950 | +29.5% |
-| Mechanical Engineering | Mechanical & Allied | 2,74,785 | 2,70,674 | -1.5% |
-| Civil Engineering | Civil & Construction | 1,68,103 | 2,75,372 | +63.8% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 53,926 | 57,451 | +6.5% |
+| Computer Science and Engineering | Computer Science & IT | 74,796 | 74,796 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 76,622 | 75,971 | -0.8% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,05,585 | 1,04,347 | -1.2% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,09,596 | 1,09,596 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 1,30,813 | 1,31,839 | +0.8% |
+| Electronics and Communication Engg | Electronics & Communication | 1,52,054 | 1,48,357 | -2.4% |
+| Civil Engineering | Civil & Construction | 2,13,689 | 2,04,421 | -4.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,69,833 | 2,20,137 | -18.4% |
+| Mechanical Engineering | Mechanical & Allied | 2,80,671 | 2,80,671 | 0.0% |
 
-### #165 — Government Engineering College (KCET E281)
+### #167 — Alva's Institute of Engineering & Technology
 
-**KCET code:** E281 · **Composite rank:** #114 of 239 KCET colleges (score 95,329.9)
+**KCET code:** E169 · **Composite rank:** #116 of 242 KCET colleges (score 98,293.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (10 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 60,899 | 73,971 | +21.5% |
-| Computer Science and Engineering | Computer Science & IT | 87,690 | 1,01,772 | +16.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,28,301 | 1,54,123 | +20.1% |
-| Civil Engineering | Civil & Construction | 1,53,549 | 1,54,289 | +0.5% |
-| Automobile Engineering | Mechanical & Allied | 1,66,708 | 2,82,467 | +69.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 71,644 | 76,156 | +6.3% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 90,554 | 79,542 | -12.2% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 89,943 | 89,943 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,09,518 | 96,110 | -12.2% |
+| Computer Science and Engineering | Computer Science & IT | 95,944 | 1,00,206 | +4.4% |
+| Information Science and Engineering | Computer Science & IT | 1,26,265 | 1,30,415 | +3.3% |
+| Computer Science and Design | Computer Science & IT | 1,18,505 | 1,39,696 | +17.9% |
+| Agriculture Engineering | Other Branches | 1,24,131 | 1,40,458 | +13.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,55,793 | 2,55,793 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,56,693 | 2,56,693 | 0.0% |
 
-### #166 — Alva's Institute of Engineering & Technology
+### #168 — Government Engineering College (KCET E281)
 
-**KCET code:** E169 · **Composite rank:** #116 of 239 KCET colleges (score 97,807.9)
+**KCET code:** E281 · **Composite rank:** #117 of 242 KCET colleges (score 98,557.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 50,815 | 71,644 | +41.0% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 70,372 | 89,943 | +27.8% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 78,452 | 90,554 | +15.4% |
-| Computer Science and Engineering | Computer Science & IT | 74,916 | 95,944 | +28.1% |
-| Electronics and Communication Engg | Electronics & Communication | 78,480 | 1,09,518 | +39.5% |
-| Computer Science and Design | Computer Science & IT | 93,751 | 1,18,505 | +26.4% |
-| Agriculture Engineering | Other Branches | 74,195 | 1,24,131 | +67.3% |
-| Information Science and Engineering | Computer Science & IT | 93,292 | 1,26,265 | +35.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,34,917 | 2,55,793 | +89.6% |
-| Civil Engineering | Civil & Construction | 1,62,963 | 2,56,693 | +57.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 73,971 | 75,625 | +2.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,01,772 | 1,10,384 | +8.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,54,123 | 1,44,966 | -5.9% |
+| Civil Engineering | Civil & Construction | 1,54,289 | 1,96,225 | +27.2% |
+| Automobile Engineering | Mechanical & Allied | 2,82,467 | 2,82,467 | 0.0% |
 
-### #167 — H N N COLLEGE OF ENGINEERING BENGALURU
+### #169 — H.K.B.K.College of Engineering
 
-**KCET code:** E305 · **Composite rank:** #117 of 239 KCET colleges (score 98,363.4)
+**KCET code:** E083 · **Composite rank:** #120 of 242 KCET colleges (score 98,968.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 72,136 | 94,086 | +30.4% |
-| Computer Science and Engineering | Computer Science & IT | 79,618 | 94,584 | +18.8% |
-| Electronics and Communication Engg | Electronics & Communication | 88,590 | 1,42,827 | +61.2% |
-| Information Science and Engineering | Computer Science & IT | 1,31,667 | 2,80,751 | +113.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 77,187 | 69,919 | -9.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,01,496 | 97,286 | -4.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,11,277.5 | 1,10,064 | -1.1% |
+| Information Science and Engineering | Computer Science & IT | 1,18,264 | 1,20,936 | +2.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,46,302 | 2,61,344 | +6.1% |
 
-### #168 — Government Engineering College (KCET E164)
+### #170 — H N N COLLEGE OF ENGINEERING BENGALURU
 
-**KCET code:** E164 · **Composite rank:** #118 of 239 KCET colleges (score 99,882.1)
+**KCET code:** E305 · **Composite rank:** #121 of 242 KCET colleges (score 1,00,988.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 82,231 | 92,536 | +12.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,29,282 | 1,43,944 | +11.3% |
-| Civil Engineering | Civil & Construction | 1,62,850 | 2,79,742 | +71.8% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 94,086 | 96,932 | +3.0% |
+| Computer Science and Engineering | Computer Science & IT | 94,584 | 98,963 | +4.6% |
+| Electronics and Communication Engg | Electronics & Communication | 1,42,827 | 1,26,560 | -11.4% |
+| Information Science and Engineering | Computer Science & IT | 2,80,751 | 2,80,751 | 0.0% |
+
+### #171 — Government Engineering College (KCET E164)
+
+**KCET code:** E164 · **Composite rank:** #122 of 242 KCET colleges (score 1,01,474.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 92,536 | 94,782 | +2.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,43,944 | 1,52,516 | +6.0% |
+| Civil Engineering | Civil & Construction | 2,79,742 | 2,79,742 | 0.0% |
 | Mechanical Engineering | Mechanical & Allied | 2,80,110 | 2,80,110 | 0.0% |
-
-### #169 — Gurunanak Dev Engineering College
-
-**KCET code:** E043 · **Composite rank:** #120 of 239 KCET colleges (score 1,00,910)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (10 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 52,163 | 53,926 | +3.4% |
-| Computer Science and Engineering | Computer Science & IT | 70,638 | 74,796 | +5.9% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 70,458 | 76,622 | +8.7% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 97,473 | 1,05,585 | +8.3% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,09,777 | 1,09,596 | -0.2% |
-| Information Science and Engineering | Computer Science & IT | 1,08,432 | 1,30,813 | +20.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,35,580 | 1,52,054 | +12.2% |
-| Civil Engineering | Civil & Construction | 1,51,923 | 2,13,689 | +40.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,66,763 | 2,69,833 | +61.8% |
-| Mechanical Engineering | Mechanical & Allied | 2,05,631 | 2,80,671 | +36.5% |
-
-### #170 — Government Engineering College (KCET E273)
-
-**KCET code:** E273 · **Composite rank:** #123 of 239 KCET colleges (score 1,02,981.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 83,314 | 93,189 | +11.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,34,681 | 1,60,925 | +19.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,42,837 | 1,96,187 | +37.4% |
-| Mechanical Engineering | Mechanical & Allied | 2,80,144 | 2,71,931 | -2.9% |
-| Civil Engineering | Civil & Construction | 1,92,749 | 2,81,000 | +45.8% |
-
-### #171 — H.K.B.K.College of Engineering
-
-**KCET code:** E083 · **Composite rank:** #124 of 239 KCET colleges (score 1,03,577.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 57,295 | 77,187 | +34.7% |
-| Computer Science and Engineering | Computer Science & IT | 73,582 | 1,01,496 | +37.9% |
-| Electronics and Communication Engg | Electronics & Communication | 83,006 | 1,11,277.5 | +34.1% |
-| Information Science and Engineering | Computer Science & IT | 78,613 | 1,18,264 | +50.4% |
-| Mechanical Engineering | Mechanical & Allied | 1,40,811 | 2,46,302 | +74.9% |
 
 ### #172 — Khaja Bandanawaz University KBN University Street
 
-**KCET code:** E042 · **Composite rank:** #125 of 239 KCET colleges (score 1,03,715.9)
+**KCET code:** E042 · **Composite rank:** #124 of 242 KCET colleges (score 1,04,987.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 79,037 | 95,263 | +20.5% |
-| Aeronautical Engineering | Aerospace | 63,121 | 1,00,327 | +58.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,02,019 | 1,67,785 | +64.5% |
-| Mechanical Engineering | Mechanical & Allied | 2,81,569 | 2,45,793 | -12.7% |
-| Civil Engineering | Civil & Construction | 2,68,124 | 2,72,510 | +1.6% |
+| Computer Science and Engineering | Computer Science & IT | 95,263 | 97,676 | +2.5% |
+| Aeronautical Engineering | Aerospace | 1,00,327 | 1,00,327 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,67,785 | 1,69,976 | +1.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,45,793 | 2,35,071 | -4.4% |
+| Civil Engineering | Civil & Construction | 2,72,510 | 2,72,510 | 0.0% |
 
-### #173 — University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E321)
+### #173 — Government Engineering College (KCET E273)
 
-**KCET code:** E321 · **Composite rank:** #126 of 239 KCET colleges (score 1,04,641.5)
+**KCET code:** E273 · **Composite rank:** #125 of 242 KCET colleges (score 1,05,591.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Mechanical & Allied):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Biomedical and Robotic Engineering | Mechanical & Allied | 52,911 | 65,658 | +24.1% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 66,307 | 86,444 | +30.4% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 63,054 | 89,079 | +41.3% |
-| Computer Science and Engineering | Computer Science & IT | 84,341 | 1,16,837 | +38.5% |
-| Electronics and Communication Engg | Electronics & Communication | 94,833 | 1,18,098 | +24.5% |
-| Computer Science and Design | Computer Science & IT | 1,16,837 | 1,46,597 | +25.5% |
-| Civil Environmental Engineering | Civil & Construction | 1,68,792 | 1,97,591 | +17.1% |
+| Computer Science and Engineering | Computer Science & IT | 93,189 | 96,878 | +4.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,60,925 | 1,62,682 | +1.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,96,187 | 2,24,400 | +14.4% |
+| Mechanical Engineering | Mechanical & Allied | 2,71,931 | 2,44,939 | -9.9% |
+| Civil Engineering | Civil & Construction | 2,81,000 | 2,81,000 | 0.0% |
 
-### #174 — Government Engineering College (KCET E154)
+### #174 — Government Engineering College (KCET E291)
 
-**KCET code:** E154 · **Composite rank:** #128 of 239 KCET colleges (score 1,05,050.8)
+**KCET code:** E291 · **Composite rank:** #128 of 242 KCET colleges (score 1,06,522.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 72,266 | 99,178 | +37.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,03,404 | 1,32,570 | +28.2% |
-| Civil Engineering | Civil & Construction | 1,60,482 | 2,81,005 | +75.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,92,116 | 2,82,466 | +47.0% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 96,808 | 97,843 | +1.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,12,109 | 1,05,626 | -5.8% |
+| Electronics and Communication Engg | Electronics & Communication | 1,44,487 | 1,45,955 | +1.0% |
+| Civil Engineering | Civil & Construction | 2,74,684 | 2,74,684 | 0.0% |
 
-### #175 — K R PET KRISHNA
+### #175 — University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES (KCET E321)
 
-**KCET code:** E156 · **Composite rank:** #129 of 239 KCET colleges (score 1,06,581.1)
+**KCET code:** E321 · **Composite rank:** #129 of 242 KCET colleges (score 1,08,021.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Mechanical & Allied):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 84,671 | 1,02,152 | +20.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,06,547 | 1,17,601 | +10.4% |
-| Civil Engineering | Civil & Construction | 1,78,750 | 2,80,760 | +57.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,95,622 | 2,81,644 | +44.0% |
+| Biomedical and Robotic Engineering | Mechanical & Allied | 65,658 | 65,658 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 89,079 | 91,166 | +2.3% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 86,444 | 93,676 | +8.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,16,837 | 1,17,206 | +0.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,18,098 | 1,32,963 | +12.6% |
+| Computer Science and Design | Computer Science & IT | 1,46,597 | 1,46,597 | 0.0% |
+| Civil Environmental Engineering | Civil & Construction | 1,97,591 | 1,90,338 | -3.7% |
 
-### #176 — Government Engineering College (KCET E161)
+### #176 — Angadi Institute of Technology and Management
 
-**KCET code:** E161 · **Composite rank:** #130 of 239 KCET colleges (score 1,08,266.5)
+**KCET code:** E185 · **Composite rank:** #130 of 242 KCET colleges (score 1,08,136.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 95,447 | 1,02,048 | +6.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,26,719 | 1,41,001 | +11.3% |
-| Civil Engineering | Civil & Construction | 2,07,638 | 2,77,950 | +33.9% |
-| Mechanical Engineering | Mechanical & Allied | 2,01,176 | 2,82,185 | +40.3% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 95,540 | 95,540 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,07,042 | 1,08,456 | +1.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,29,437 | 1,27,641 | -1.4% |
+| Robotics and Automation | Mechanical & Allied | 1,98,261 | 1,96,715 | -0.8% |
+| Civil Engineering | Civil & Construction | 2,61,835 | 2,61,835 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,71,356 | 2,71,356 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,80,234 | 2,81,249 | +0.4% |
 
-### #177 — Angadi Institute of Technology and Management
+### #177 — Government Engineering College (KCET E154)
 
-**KCET code:** E185 · **Composite rank:** #131 of 239 KCET colleges (score 1,08,369.9)
+**KCET code:** E154 · **Composite rank:** #131 of 242 KCET colleges (score 1,11,221.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 79,342 | 95,540 | +20.4% |
-| Computer Science and Engineering | Computer Science & IT | 86,699 | 1,07,042 | +23.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,08,941 | 1,29,437 | +18.8% |
-| Robotics and Automation | Mechanical & Allied | 1,13,328 | 1,98,261 | +74.9% |
-| Civil Engineering | Civil & Construction | 1,57,503 | 2,61,835 | +66.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,49,317 | 2,71,356 | +81.7% |
-| Mechanical Engineering | Mechanical & Allied | 1,92,324 | 2,80,234 | +45.7% |
+| Computer Science and Engineering | Computer Science & IT | 99,178 | 1,05,432 | +6.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,32,570 | 1,52,385 | +14.9% |
+| Civil Engineering | Civil & Construction | 2,81,005 | 2,81,005 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,82,466 | 2,82,466 | 0.0% |
 
-### #178 — Government Engineering College (KCET E291)
+### #178 — VTU Constituent Engineering College (KCET E315)
 
-**KCET code:** E291 · **Composite rank:** #133 of 239 KCET colleges (score 1,09,120.3)
+**KCET code:** E315 · **Composite rank:** #132 of 242 KCET colleges (score 1,11,835.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 86,199 | 96,808 | +12.3% |
-| Computer Science and Engineering | Computer Science & IT | 97,331 | 1,12,109 | +15.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,39,833 | 1,44,487 | +3.3% |
-| Civil Engineering | Civil & Construction | 1,87,211 | 2,74,684 | +46.7% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 93,988 | 97,745 | +4.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,20,756 | 1,20,913 | +0.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,48,413 | 2,80,621 | +13.0% |
 
-### #179 — VTU Constituent Engineering College (KCET E315)
+### #179 — Government Engineering College (KCET E274)
 
-**KCET code:** E315 · **Composite rank:** #134 of 239 KCET colleges (score 1,09,456.3)
+**KCET code:** E274 · **Composite rank:** #134 of 242 KCET colleges (score 1,12,397)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 83,033 | 93,988 | +13.2% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,06,017 | 1,20,756 | +13.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,62,653 | 2,48,413 | +52.7% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 87,035 | 91,717 | +5.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,24,063 | 1,20,703 | -2.7% |
+| Electronics and Communication Engg | Electronics & Communication | 1,50,355 | 1,50,289 | -0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,65,196 | 1,60,381 | -2.9% |
+| Mechanical Engineering | Mechanical & Allied | 2,76,042 | 2,72,720 | -1.2% |
+| Civil Engineering | Civil & Construction | 2,82,005 | 2,82,005 | 0.0% |
 
-### #180 — Government Engineering College (KCET E194)
+### #180 — H K E's Society's Sir M Visvesvaraya College of Engineering
 
-**KCET code:** E194 · **Composite rank:** #135 of 239 KCET colleges (score 1,12,460.1)
+**KCET code:** E046 · **Composite rank:** #135 of 242 KCET colleges (score 1,12,705.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 99,277 | 1,05,036 | +5.8% |
-| Electronics and Communication Engg | Electronics & Communication | 1,41,661 | 1,60,670 | +13.4% |
-| Civil Engineering | Civil & Construction | 2,23,304 | 2,77,053 | +24.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 85,071 | 89,082 | +4.7% |
+| Computer Science and Engineering | Computer Science & IT | 1,13,938 | 1,09,119 | -4.2% |
+| Electronics and Communication Engg | Electronics & Communication | 2,54,313 | 2,63,326 | +3.5% |
+| Civil Engineering | Civil & Construction | 2,81,845 | 2,81,845 | 0.0% |
+
+### #181 — Government Engineering College (KCET E161)
+
+**KCET code:** E161 · **Composite rank:** #136 of 242 KCET colleges (score 1,13,232.7)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 1,02,048 | 1,08,566 | +6.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,41,001 | 1,41,001 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,77,950 | 2,77,950 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,82,185 | 2,82,185 | 0.0% |
+
+### #182 — Hira Sugar Institute of Technology
+
+**KCET code:** E040 · **Composite rank:** #137 of 242 KCET colleges (score 1,14,370.6)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,02,668 | 1,06,737 | +4.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,11,825 | 1,11,194 | -0.6% |
+| Electronics and Communication Engg | Electronics & Communication | 1,49,998 | 1,45,329 | -3.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,62,295 | 2,62,295 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,67,103 | 2,67,103 | 0.0% |
+
+### #183 — Secab Institute of Engineering & Technology
+
+**KCET code:** E132 · **Composite rank:** #138 of 242 KCET colleges (score 1,15,482.7)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,00,465 | 1,02,349 | +1.9% |
+| Computer Science and Engineering | Computer Science & IT | 1,13,653 | 1,13,263 | -0.3% |
+| Electronics and Communication Engg | Electronics & Communication | 1,67,273 | 1,67,404 | +0.1% |
+| Civil Engineering | Civil & Construction | 2,39,471 | 2,15,329 | -10.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,70,850 | 2,43,174 | -10.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,47,501 | 2,52,670 | +2.1% |
+
+### #184 — Adhichunchanagiri University (Formerly B G S Institute of Technology) B.G.NAGARA
+
+**KCET code:** E142 · **Composite rank:** #139 of 242 KCET colleges (score 1,15,945.8)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 85,114 | 85,114 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,02,080 | 1,05,697 | +3.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,12,555 | 1,10,564 | -1.8% |
+| Information Science and Engineering | Computer Science & IT | 1,23,527 | 1,23,527 | 0.0% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 1,57,595 | 1,52,190 | -3.4% |
+| Mechanical Engineering | Mechanical & Allied | 1,83,635 | 1,83,635 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,56,345 | 2,59,865 | +1.4% |
+
+### #185 — K R PET KRISHNA
+
+**KCET code:** E156 · **Composite rank:** #140 of 242 KCET colleges (score 1,15,989.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 1,02,152 | 1,13,241 | +10.9% |
+| Electronics and Communication Engg | Electronics & Communication | 1,17,601 | 1,19,736 | +1.8% |
+| Civil Engineering | Civil & Construction | 2,80,760 | 2,80,760 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,81,644 | 2,81,644 | 0.0% |
+
+### #186 — Government Engineering College (KCET E194)
+
+**KCET code:** E194 · **Composite rank:** #141 of 242 KCET colleges (score 1,16,076.6)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 1,05,036 | 1,08,594 | +3.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,60,670 | 1,80,146 | +12.1% |
+| Civil Engineering | Civil & Construction | 2,77,053 | 2,77,053 | 0.0% |
 | Mechanical Engineering | Mechanical & Allied | 2,80,492 | 2,80,492 | 0.0% |
 
-### #181 — Government Engineering College (KCET E274)
+### #187 — Smt. Kamala & Sri Venkappa M.Agadi College of Engineering & Technology
 
-**KCET code:** E274 · **Composite rank:** #136 of 239 KCET colleges (score 1,12,846.1)
+**KCET code:** E134 · **Composite rank:** #142 of 242 KCET colleges (score 1,16,768.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 64,596 | 87,035 | +34.7% |
-| Computer Science and Engineering | Computer Science & IT | 1,00,805 | 1,24,063 | +23.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,25,085 | 1,50,355 | +20.2% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,37,864 | 1,65,196 | +19.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,95,457 | 2,76,042 | +41.2% |
-| Civil Engineering | Civil & Construction | 1,86,978 | 2,82,005 | +50.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 91,573 | 91,573 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,12,726 | 1,10,619 | -1.9% |
+| Electronics and Communication Engg | Electronics & Communication | 1,58,457 | 1,46,112 | -7.8% |
+| Information Science and Engineering | Computer Science & IT | 1,92,445 | 1,88,817 | -1.9% |
+| Civil Engineering | Civil & Construction | 1,97,206 | 1,93,627 | -1.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,57,364 | 2,47,261 | -3.9% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,79,588 | 2,79,588 | 0.0% |
 
-### #182 — H K E's Society's Sir M Visvesvaraya College of Engineering
+### #188 — KISHKINDA UNIVERSITY MOUNT VIEW CAMPUS
 
-**KCET code:** E046 · **Composite rank:** #137 of 239 KCET colleges (score 1,13,186.8)
+**KCET code:** E301 · **Composite rank:** #143 of 242 KCET colleges (score 1,16,813.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 45,675 | 85,071 | +86.3% |
-| Computer Science and Engineering | Computer Science & IT | 90,106 | 1,13,938 | +26.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,34,420 | 2,54,313 | +89.2% |
-| Civil Engineering | Civil & Construction | 1,94,996 | 2,81,845 | +44.5% |
-
-### #183 — KISHKINDA UNIVERSITY MOUNT VIEW CAMPUS
-
-**KCET code:** E301 · **Composite rank:** #138 of 239 KCET colleges (score 1,13,534.1)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
 | B Tech in Computer Science and Engineering(Ar Tificial Intelligence and Data Science) | Computer Science & IT | 91,099 | 91,099 | 0.0% |
-| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 82,190 | 94,752 | +15.3% |
-| Btech in Pharmaceutica L Engineering | Other Branches | 96,224 | 2,63,586 | +173.9% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 2,80,039 | 2,74,641 | -1.9% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,73,091 | 2,79,590 | +61.5% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 1,32,506 | 2,82,226 | +113.0% |
+| B Tech in Computer Science & Engineering (Artifical Intelligence & Machine Learning) | Computer Science & IT | 94,752 | 97,970 | +3.4% |
+| Btech in Pharmaceutica L Engineering | Other Branches | 2,63,586 | 2,63,586 | 0.0% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 2,74,641 | 2,72,867 | -0.6% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 2,79,590 | 2,79,590 | 0.0% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 2,82,226 | 2,82,226 | 0.0% |
 
-### #184 — Hira Sugar Institute of Technology
+### #189 — Canara Engineering College Bantwal
 
-**KCET code:** E040 · **Composite rank:** #139 of 239 KCET colleges (score 1,14,055.7)
+**KCET code:** E123 · **Composite rank:** #144 of 242 KCET colleges (score 1,17,025.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 84,494 | 1,02,668 | +21.5% |
-| Computer Science and Engineering | Computer Science & IT | 94,694 | 1,11,825 | +18.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,03,551 | 1,49,998 | +44.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,60,006 | 2,62,295 | +63.9% |
-| Mechanical Engineering | Mechanical & Allied | 2,80,234 | 2,67,103 | -4.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 78,866 | 83,747 | +6.2% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 92,437 | 87,869 | -4.9% |
+| Computer Science and Engineering | Computer Science & IT | 1,04,970 | 1,04,980 | +0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,77,577 | 2,59,139 | -6.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,16,403 | 2,76,304 | +27.7% |
+| Computer Science and Design | Computer Science & IT | 2,56,159 | 2,82,168 | +10.2% |
+| Information Science and Engineering | Computer Science & IT | 2,44,892 | 2,82,548 | +15.4% |
 
-### #185 — Adhichunchanagiri University (Formerly B G S Institute of Technology) B.G.NAGARA
+### #190 — K C T Engineering College
 
-**KCET code:** E142 · **Composite rank:** #140 of 239 KCET colleges (score 1,14,724.4)
+**KCET code:** E119 · **Composite rank:** #145 of 242 KCET colleges (score 1,19,223)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (1 branch; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 69,391 | 85,114 | +22.7% |
-| Computer Science and Engineering | Computer Science & IT | 81,564 | 1,02,080 | +25.2% |
-| Electronics and Communication Engg | Electronics & Communication | 92,023 | 1,12,555 | +22.3% |
-| Information Science and Engineering | Computer Science & IT | 92,957 | 1,23,527 | +32.9% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 93,632 | 1,57,595 | +68.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,20,240 | 1,83,635 | +52.7% |
-| Civil Engineering | Civil & Construction | 1,28,873 | 2,56,345 | +98.9% |
+| Computer Science and Engineering | Computer Science & IT | 1,13,827 | 1,19,223 | +4.7% |
 
-### #186 — CONSTITUENT COLLEGE OF VTU (KCET E308)
+### #191 — S J M Institute of Technology
 
-**KCET code:** E308 · **Composite rank:** #141 of 239 KCET colleges (score 1,15,002.4)
+**KCET code:** E063 · **Composite rank:** #149 of 242 KCET colleges (score 1,22,103.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering (Aiml) | Computer Science & IT | 88,956 | 97,767 | +9.9% |
-| Computer Science and Engineering | Computer Science & IT | 75,977 | 1,22,481 | +61.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,38,253 | 1,52,790 | +10.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,58,534 | 2,26,098 | +42.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,09,672 | 1,03,732 | -5.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,21,640 | 1,28,810 | +5.9% |
+| Electronics and Communication Engg | Electronics & Communication | 1,53,689 | 1,56,530 | +1.8% |
+| Civil Engineering | Civil & Construction | 1,93,386 | 2,12,652 | +10.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,86,256 | 2,17,527 | +16.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,82,024 | 2,82,024 | 0.0% |
 
-### #187 — K C T Engineering College
+### #192 — Adhichunchanagiri Institute of Technology
 
-**KCET code:** E119 · **Composite rank:** #143 of 239 KCET colleges (score 1,15,425.1)
+**KCET code:** E064 · **Composite rank:** #150 of 242 KCET colleges (score 1,23,499)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (2 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 88,199 | 1,13,827 | +29.1% |
-| Civil Engineering | Civil & Construction | 2,80,998 | 2,75,233 | -2.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 58,580 | 59,884 | +2.2% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,04,997 | 1,12,799 | +7.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,01,571 | 1,15,019 | +13.2% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 1,18,700 | 1,25,904 | +6.1% |
+| Information Science and Engineering | Computer Science & IT | 1,50,984 | 1,48,835 | -1.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,78,915 | 1,83,099 | +2.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,63,872 | 2,31,320 | -12.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,62,885 | 2,62,885 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,81,632 | 2,71,757 | -3.5% |
 
-### #188 — Adhichunchanagiri Institute of Technology
+### #193 — CONSTITUENT COLLEGE OF VTU (KCET E308)
 
-**KCET code:** E064 · **Composite rank:** #144 of 239 KCET colleges (score 1,15,721.5)
+**KCET code:** E308 · **Composite rank:** #152 of 242 KCET colleges (score 1,25,698.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 48,315 | 58,580 | +21.2% |
-| Computer Science and Engineering | Computer Science & IT | 72,831 | 1,01,571 | +39.5% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 88,309 | 1,04,997 | +18.9% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 80,128 | 1,18,700 | +48.1% |
-| Information Science and Engineering | Computer Science & IT | 99,616 | 1,50,984 | +51.6% |
-| Electronics and Communication Engg | Electronics & Communication | 99,253 | 1,78,915 | +80.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,51,487 | 2,62,885 | +73.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,16,386 | 2,63,872 | +126.7% |
-| Civil Engineering | Civil & Construction | 1,59,389 | 2,81,632 | +76.7% |
-
-### #189 — Secab Institute of Engineering & Technology
-
-**KCET code:** E132 · **Composite rank:** #145 of 239 KCET colleges (score 1,16,258.6)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 85,042 | 1,00,465 | +18.1% |
-| Computer Science and Engineering | Computer Science & IT | 97,359 | 1,13,653 | +16.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,18,788 | 1,67,273 | +40.8% |
-| Civil Engineering | Civil & Construction | 1,54,179 | 2,39,471 | +55.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,06,613 | 2,47,501 | +19.8% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,69,098 | 2,70,850 | +60.2% |
-
-### #190 — Canara Engineering College Bantwal
-
-**KCET code:** E123 · **Composite rank:** #146 of 239 KCET colleges (score 1,19,386.4)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 69,439 | 78,866 | +13.6% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 60,098 | 92,437 | +53.8% |
-| Computer Science and Engineering | Computer Science & IT | 70,415 | 1,04,970 | +49.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,60,281 | 2,16,403 | +35.0% |
-| Information Science and Engineering | Computer Science & IT | 1,35,805 | 2,44,892 | +80.3% |
-| Computer Science and Design | Computer Science & IT | 1,23,688 | 2,56,159 | +107.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,11,450 | 2,77,577 | +149.1% |
-
-### #191 — Smt. Kamala & Sri Venkappa M.Agadi College of Engineering & Technology
-
-**KCET code:** E134 · **Composite rank:** #147 of 239 KCET colleges (score 1,20,477.1)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 83,725 | 91,573 | +9.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,05,559 | 1,12,726 | +6.8% |
-| Electronics and Communication Engg | Electronics & Communication | 1,24,480 | 1,58,457 | +27.3% |
-| Information Science and Engineering | Computer Science & IT | 1,49,105 | 1,92,445 | +29.1% |
-| Civil Engineering | Civil & Construction | 2,20,439 | 1,97,206 | -10.5% |
-| Mechanical Engineering | Mechanical & Allied | 2,65,675 | 2,57,364 | -3.1% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,65,549 | 2,79,588 | +68.9% |
-
-### #192 — S J M Institute of Technology
-
-**KCET code:** E063 · **Composite rank:** #149 of 239 KCET colleges (score 1,21,667.4)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 89,952 | 1,09,672 | +21.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,12,155 | 1,21,640 | +8.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,19,375 | 1,53,689 | +28.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,57,438 | 1,86,256 | +18.3% |
-| Civil Engineering | Civil & Construction | 1,78,413 | 1,93,386 | +8.4% |
-| Mechanical Engineering | Mechanical & Allied | 1,95,773 | 2,82,024 | +44.1% |
-
-### #193 — Navodaya Institute of Technology
-
-**KCET code:** E176 · **Composite rank:** #150 of 239 KCET colleges (score 1,22,020.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 92,635 | 92,635 | 0.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,20,537 | 1,25,518 | +4.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,47,347 | 2,30,548 | +56.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,79,217 | 2,68,909 | +50.0% |
-| Civil Engineering | Civil & Construction | 2,40,084 | 2,73,626 | +14.0% |
+| Computer Science and Engineering (Aiml) | Computer Science & IT | 97,767 | 1,18,980 | +21.7% |
+| Computer Science and Engineering | Computer Science & IT | 1,22,481 | 1,22,481 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,52,790 | 1,59,426 | +4.3% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,26,098 | 2,80,352 | +24.0% |
 
 ### #194 — Sri Sairam College Of Engineering
 
-**KCET code:** E086 · **Composite rank:** #151 of 239 KCET colleges (score 1,23,867.3)
+**KCET code:** E086 · **Composite rank:** #153 of 242 KCET colleges (score 1,26,790.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 77,930 | 95,998 | +23.2% |
-| Computer Science and Engineering | Computer Science & IT | 90,901 | 1,15,469 | +27.0% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,00,335 | 1,22,247 | +21.8% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,08,755 | 1,44,109 | +32.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,08,203 | 1,70,370 | +57.5% |
-| Information Science and Engineering | Computer Science & IT | 1,17,157 | 1,83,160 | +56.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,44,109 | 1,99,159 | +38.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 95,998 | 99,520 | +3.7% |
+| Computer Science and Engineering | Computer Science & IT | 1,15,469 | 1,16,460 | +0.9% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,22,247 | 1,23,714 | +1.2% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,44,109 | 1,62,836 | +13.0% |
+| Information Science and Engineering | Computer Science & IT | 1,83,160 | 1,78,852 | -2.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,70,370 | 1,98,953 | +16.8% |
+| Mechanical Engineering | Mechanical & Allied | 1,99,159 | 2,18,120 | +9.5% |
 
-### #195 — VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E278)
+### #195 — Tontadarya College of Engineering
 
-**KCET code:** E278 · **Composite rank:** #155 of 239 KCET colleges (score 1,30,034.8)
+**KCET code:** E028 · **Composite rank:** #157 of 242 KCET colleges (score 1,29,784.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Aerospace):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Aeronautical Engineering | Aerospace | 81,137 | 1,21,324 | +49.5% |
-| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,06,808 | 1,26,067 | +18.0% |
-| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 1,01,747 | 1,26,360 | +24.2% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 68,762 | 1,26,681 | +84.2% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 98,626 | 1,29,163 | +31.0% |
-| B Tech in Electronics & Computer Engineering | Computer Science & IT | 1,36,707 | 1,87,726 | +37.3% |
-| B Tech in Civil Engineering and Town Planning | Civil & Construction | 1,96,135 | 2,67,719 | +36.5% |
-| Btech in Mechanical and Smart Manufacturing | Mechanical & Allied | 1,71,676 | 2,74,325 | +59.8% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,09,545 | 1,09,545 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,25,588 | 1,22,635 | -2.4% |
+| Agriculture Engineering | Other Branches | 1,05,955 | 1,38,242 | +30.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,68,641 | 1,77,842 | +5.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,68,870 | 2,16,236 | -19.6% |
+| Civil Engineering | Civil & Construction | 2,79,287 | 2,44,060 | -12.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,74,785 | 2,74,785 | 0.0% |
+| Computer Science and Design | Computer Science & IT | 2,76,045 | 2,75,619 | -0.2% |
 
-### #196 — GOVERNMENT ENGINEERING COLLEGE
+### #196 — VISVESVARAYA TECHNOLOGICAL UNIVERSITY (KCET E278)
 
-**KCET code:** E310 · **Composite rank:** #156 of 239 KCET colleges (score 1,31,309.6)
+**KCET code:** E278 · **Composite rank:** #158 of 242 KCET colleges (score 1,31,892.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 63,264 | 86,806 | +37.2% |
-| Computer Science and Engineering | Computer Science & IT | 91,595 | 1,28,308 | +40.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,25,667 | 1,66,622 | +32.6% |
-| Information Science and Engineering | Computer Science & IT | 1,31,396 | 1,82,681 | +39.0% |
+| B Tech in Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,26,067 | 1,26,067 | 0.0% |
+| B Tech in ROBOTICS AND ARTIFICIAL INTELLIGENCE | Computer Science & IT | 1,26,360 | 1,27,549 | +0.9% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,26,681 | 1,29,911 | +2.5% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 1,29,163 | 1,32,377 | +2.5% |
+| B Tech in Aeronautical Engineering | Aerospace | 1,21,324 | 1,33,121 | +9.7% |
+| B Tech in Electronics & Computer Engineering | Computer Science & IT | 1,87,726 | 1,90,049 | +1.2% |
+| B Tech in Civil Engineering and Town Planning | Civil & Construction | 2,67,719 | 2,67,719 | 0.0% |
+| Btech in Mechanical and Smart Manufacturing | Mechanical & Allied | 2,74,325 | 2,74,325 | 0.0% |
 
-### #197 — Tontadarya College of Engineering
+### #197 — GOVERNMENT ENGINEERING COLLEGE
 
-**KCET code:** E028 · **Composite rank:** #157 of 239 KCET colleges (score 1,33,115)
+**KCET code:** E310 · **Composite rank:** #159 of 242 KCET colleges (score 1,32,046.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Other Branches):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Agriculture Engineering | Other Branches | 72,540 | 1,05,955 | +46.1% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 86,280 | 1,09,545 | +27.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,00,775 | 1,25,588 | +24.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,25,588 | 1,68,641 | +34.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,88,094 | 2,68,870 | +42.9% |
-| Mechanical Engineering | Mechanical & Allied | 2,04,426 | 2,74,785 | +34.4% |
-| Computer Science and Design | Computer Science & IT | 1,41,777 | 2,76,045 | +94.7% |
-| Civil Engineering | Civil & Construction | 1,63,844 | 2,79,287 | +70.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 86,806 | 92,125 | +6.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,28,308 | 1,29,308 | +0.8% |
+| Electronics and Communication Engg | Electronics & Communication | 1,66,622 | 1,66,622 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 1,82,681 | 2,17,946 | +19.3% |
 
-### #198 — Sambhram Institute of Technology
+### #198 — Navodaya Institute of Technology
 
-**KCET code:** E113 · **Composite rank:** #158 of 239 KCET colleges (score 1,37,065.7)
+**KCET code:** E176 · **Composite rank:** #160 of 242 KCET colleges (score 1,34,948.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 78,919 | 95,162 | +20.6% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 89,283 | 1,06,757 | +19.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,02,131 | 1,31,939 | +29.2% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,09,665 | 1,34,472 | +22.6% |
-| Information Science and Engineering | Computer Science & IT | 1,16,279 | 1,67,802 | +44.3% |
-| Electronics and Communication Engg | Electronics & Communication | 1,14,317 | 1,81,923 | +59.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,78,083 | 2,68,453 | +50.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 92,635 | 95,211 | +2.8% |
+| Computer Science and Engineering | Computer Science & IT | 1,25,518 | 1,44,788 | +15.4% |
+| Mechanical Engineering | Mechanical & Allied | — | 2,24,937 | — |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,68,909 | 2,59,956 | -3.3% |
+| Civil Engineering | Civil & Construction | 2,73,626 | 2,73,626 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,30,548 | 2,77,276 | +20.3% |
 
-### #199 — AGM College of Engineering and Technology
+### #199 — Sambhram Institute of Technology
 
-**KCET code:** E327 · **Composite rank:** #161 of 239 KCET colleges (score 1,38,918.7)
+**KCET code:** E113 · **Composite rank:** #161 of 242 KCET colleges (score 1,36,176.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,14,447 | 1,15,626 | +1.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,16,892 | 1,38,408 | +18.4% |
-| Civil Engineering | Civil & Construction | 1,70,373 | 2,59,776 | +52.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,36,105 | 2,64,720 | +94.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 95,162 | 96,484 | +1.4% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,06,757 | 1,09,050 | +2.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,31,939 | 1,31,651 | -0.2% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,34,472 | 1,33,906 | -0.4% |
+| Information Science and Engineering | Computer Science & IT | 1,67,802 | 1,68,128 | +0.2% |
+| Electronics and Communication Engg | Electronics & Communication | 1,81,923 | 1,85,038 | +1.7% |
+| Mechanical Engineering | Mechanical & Allied | 2,68,453 | 2,68,453 | 0.0% |
 
-### #200 — AGM Rural Engineering College
+### #200 — NAVKIS COLLEGE OF ENGINEERING
 
-**KCET code:** E199 · **Composite rank:** #164 of 239 KCET colleges (score 1,40,205.9)
+**KCET code:** E189 · **Composite rank:** #162 of 242 KCET colleges (score 1,36,316.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 92,668 | 1,10,092 | +18.8% |
-| Computer Science and Engineering | Computer Science & IT | 98,638 | 1,33,654 | +35.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,12,249 | 1,62,453 | +44.7% |
-| Computer Science and Design | Computer Science & IT | 1,20,393 | 1,78,177 | +48.0% |
-| Civil Engineering | Civil & Construction | 1,48,432 | 2,54,946 | +71.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,80,157 | 2,78,749 | +54.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,46,843 | 2,82,075 | +92.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,30,733 | 1,07,469 | -17.8% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,23,989 | 1,19,355 | -3.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,11,504 | 1,26,692 | +13.6% |
+| Electronics and Communication Engg | Electronics & Communication | 2,70,591 | 2,41,366 | -10.8% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,62,142 | 2,46,324 | -6.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,60,642 | 2,60,642 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,67,953 | 2,67,953 | 0.0% |
 
-### #201 — NAVKIS COLLEGE OF ENGINEERING
+### #201 — AGM Rural Engineering College
 
-**KCET code:** E189 · **Composite rank:** #165 of 239 KCET colleges (score 1,42,842.7)
+**KCET code:** E199 · **Composite rank:** #164 of 242 KCET colleges (score 1,38,350.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 92,966 | 1,11,504 | +19.9% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 89,349 | 1,23,989 | +38.8% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 90,823 | 1,30,733 | +43.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,30,311 | 2,60,642 | +100.0% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,40,689 | 2,62,142 | +86.3% |
-| Civil Engineering | Civil & Construction | 1,75,127 | 2,67,953 | +53.0% |
-| Electronics and Communication Engg | Electronics & Communication | 1,38,018 | 2,70,591 | +96.1% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,10,092 | 1,10,199 | +0.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,33,654 | 1,32,925 | -0.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,62,453 | 1,56,554 | -3.6% |
+| Computer Science and Design | Computer Science & IT | 1,78,177 | 1,89,444 | +6.3% |
+| Civil Engineering | Civil & Construction | 2,54,946 | 2,54,946 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,78,749 | 2,78,749 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,82,075 | 2,82,075 | 0.0% |
 
-### #202 — Mysore College Of Engineering and Management
+### #202 — GM University KARUR VILLAGE
 
-**KCET code:** E252 · **Composite rank:** #167 of 239 KCET colleges (score 1,44,995.4)
+**KCET code:** E303 · **Composite rank:** #165 of 242 KCET colleges (score 1,45,915.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (16 branches; most competitive category: Biotechnology & Life Sciences):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 59,204 | 92,265 | +55.8% |
-| Electronics and Communication Engg | Electronics & Communication | 93,355 | 1,19,671 | +28.2% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 98,261 | 1,40,364 | +42.8% |
-| Computer Science and Engineering | Computer Science & IT | 1,06,092 | 1,48,856 | +40.3% |
-| Information Science and Engineering | Computer Science & IT | 1,03,827 | 1,90,776 | +83.7% |
-| Mechanical Engineering | Mechanical & Allied | 1,46,248 | 2,62,303 | +79.4% |
-| Civil Engineering | Civil & Construction | 1,60,905 | 2,81,483 | +74.9% |
+| Bio-Technology | Biotechnology & Life Sciences | 61,982 | 67,761 | +9.3% |
+| B Tech in Computer Science(AI &ML) | Computer Science & IT | 75,100 | 73,686 | -1.9% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 93,816 | 88,759 | -5.4% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,14,617 | 1,14,617 | 0.0% |
+| B Tech in Computer Science (Data Science) | Computer Science & IT | 1,36,280 | 1,28,899 | -5.4% |
+| B Tech in Computer Science (Cyber Security) | Computer Science & IT | 1,35,927 | 1,29,338 | -4.8% |
+| Robotics and Automation | Mechanical & Allied | 1,91,243 | 1,42,734 | -25.4% |
+| B Tech in Information Science Engineering | Computer Science & IT | 1,68,715 | 1,45,097 | -14.0% |
+| Engineering Design | Other Branches | 2,40,277 | 2,40,277 | 0.0% |
+| B.Tech in Computer Science (Internet of Things) | Computer Science & IT | 2,64,183 | 2,64,183 | 0.0% |
+| B Tech in Computer Science (Information Security) | Computer Science & IT | 2,72,959 | 2,72,959 | 0.0% |
+| B.Tech in COMPUTER SCIENCE & ENGG (Business Systems) | Computer Science & IT | 2,73,759 | 2,73,759 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,45,116 | 2,80,197 | +14.3% |
+| Mechanical Engineering | Mechanical & Allied | 2,81,274 | 2,81,274 | 0.0% |
+| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 2,81,466 | 2,81,466 | 0.0% |
+| B Tech in Computer Science (Cloud Computing) | Computer Science & IT | 2,82,548 | 2,81,997 | -0.2% |
 
 ### #203 — A J Institute Of Engineering And Technology.Kottar chowki Boloor Village Mangalore KOTTARA CHOWKI BOLOOR VILLAGE
 
-**KCET code:** E254 · **Composite rank:** #169 of 239 KCET colleges (score 1,50,647)
+**KCET code:** E254 · **Composite rank:** #166 of 242 KCET colleges (score 1,47,361)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 47,308 | 75,025 | +58.6% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 79,397 | 94,551 | +19.1% |
-| Computer Science and Engineering | Computer Science & IT | 1,00,960 | 1,38,300 | +37.0% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,12,549 | 1,46,648 | +30.3% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,16,356 | 2,55,524 | +18.1% |
-| Information Science and Engineering | Computer Science & IT | 1,45,048 | 2,65,657 | +83.2% |
-| Civil Engineering | Civil & Construction | 1,22,647 | 2,67,104 | +117.8% |
-| Electronics and Communication Engg | Electronics & Communication | 1,66,629 | 2,77,871 | +66.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,85,506 | 2,82,464 | +52.3% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 75,025 | 87,385 | +16.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 94,551 | 93,983 | -0.6% |
+| Computer Science and Engineering | Computer Science & IT | 1,38,300 | 1,36,110 | -1.6% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,46,648 | 1,45,576 | -0.7% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,55,524 | 2,55,524 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,65,657 | 2,65,657 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,67,104 | 2,71,605.5 | +1.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,77,871 | 2,75,337 | -0.9% |
+| Mechanical Engineering | Mechanical & Allied | 2,82,464 | 2,82,464 | 0.0% |
 
-### #204 — Shri Madhwa Vadiraja Institute of Technology and Management
+### #204 — Mysore College Of Engineering and Management
 
-**KCET code:** E206 · **Composite rank:** #170 of 239 KCET colleges (score 1,54,554.1)
+**KCET code:** E252 · **Composite rank:** #168 of 242 KCET colleges (score 1,56,671.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 76,959 | 79,421 | +3.2% |
-| Computer Science and Engineering | Computer Science & IT | 91,938 | 1,45,109 | +57.8% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 87,196 | 1,51,854 | +74.2% |
-| Mechanical Engineering | Mechanical & Allied | 2,72,675 | 2,40,944 | -11.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,42,312 | 2,55,509 | +79.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 92,265 | 97,220 | +5.4% |
+| Electronics and Communication Engg | Electronics & Communication | 1,19,671 | 1,24,479 | +4.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,40,364 | 1,49,065 | +6.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,48,856 | 1,65,851 | +11.4% |
+| Information Science and Engineering | Computer Science & IT | 1,90,776 | 1,99,687 | +4.7% |
+| Mechanical Engineering | Mechanical & Allied | 2,62,303 | 2,62,303 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,81,483 | 2,81,972 | +0.2% |
 
-### #205 — Vivekananada Institute of Technology
+### #205 — AGM College of Engineering and Technology
 
-**KCET code:** E087 · **Composite rank:** #171 of 239 KCET colleges (score 1,58,061.2)
+**KCET code:** E327 · **Composite rank:** #169 of 242 KCET colleges (score 1,57,992.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 75,558 | 1,14,940 | +52.1% |
-| Electronics and Communication Engg | Electronics & Communication | 98,664 | 1,46,549 | +48.5% |
-| Computer Science and Engineering | Computer Science & IT | 98,859 | 1,57,014 | +58.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,38,646 | 2,36,949 | +70.9% |
-| Information Science and Engineering | Computer Science & IT | 1,20,251 | 2,75,476 | +129.1% |
-| Civil Engineering | Civil & Construction | 1,50,298 | 2,81,747 | +87.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,15,626 | 1,47,356 | +27.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,38,408 | 1,54,401 | +11.6% |
+| Electronics and Communication Engg | Electronics & Communication | 2,64,720 | 2,35,089 | -11.2% |
+| Civil Engineering | Civil & Construction | 2,59,776 | 2,59,776 | 0.0% |
 
-### #206 — R.T.E. Soceity's Rural Engineering College
+### #206 — ANUVARTIK MIRJI BHARATESH INSTITUTE OF TECHNOLOGY Chandragiri Campus
 
-**KCET code:** E032 · **Composite rank:** #172 of 239 KCET colleges (score 1,58,394.4)
+**KCET code:** E304 · **Composite rank:** #173 of 242 KCET colleges (score 1,62,106.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 67,194 | 1,08,536 | +61.5% |
-| Computer Science and Engineering | Computer Science & IT | 1,17,244 | 1,83,267.5 | +56.3% |
-| Civil Engineering | Civil & Construction | 2,03,787 | 2,55,395 | +25.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,81,282 | 2,58,468 | -8.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,48,008 | 2,82,181 | +90.7% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,07,922 | 99,126 | -8.2% |
+| Computer Science and Engineering | Computer Science & IT | 2,05,466 | 2,06,404 | +0.5% |
+| Electronics and Communication Engg | Electronics & Communication | 2,80,049 | 2,80,049 | 0.0% |
 
-### #207 — Moodalakatte Institute of Technology
+### #207 — Vivekananada Institute of Technology
 
-**KCET code:** E136 · **Composite rank:** #175 of 239 KCET colleges (score 1,64,566.2)
+**KCET code:** E087 · **Composite rank:** #175 of 242 KCET colleges (score 1,63,616)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 82,775 | 80,971 | -2.2% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,02,234 | 1,06,903 | +4.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,17,750 | 1,23,296 | +4.7% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,44,501 | 1,87,429 | +29.7% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,35,354 | 2,22,009 | +64.0% |
-| Electronics and Communication Engg | Electronics & Communication | 1,15,477 | 2,59,542 | +124.8% |
-| Information Science and Engineering | Computer Science & IT | 1,55,213 | 2,76,475 | +78.1% |
-| Civil Engineering | Civil & Construction | 2,26,930 | 2,77,639 | +22.3% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,14,940 | 1,20,160 | +4.5% |
+| Electronics and Communication Engg | Electronics & Communication | 1,46,549 | 1,42,516 | -2.8% |
+| Computer Science and Engineering | Computer Science & IT | 1,57,014 | 1,63,587 | +4.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,36,949 | 2,70,055 | +14.0% |
+| Information Science and Engineering | Computer Science & IT | 2,75,476 | 2,75,476 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,81,747 | 2,82,130 | +0.1% |
 
-### #208 — Shetty Institute of Technology
+### #208 — Lingarajappa Engineering College
 
-**KCET code:** E216 · **Composite rank:** #176 of 239 KCET colleges (score 1,64,745.2)
+**KCET code:** E213 · **Composite rank:** #176 of 242 KCET colleges (score 1,63,771.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,14,473 | 1,40,154 | +22.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,30,490 | 1,63,738 | +25.5% |
-| Civil Engineering | Civil & Construction | 2,43,078 | 2,77,831 | +14.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,81,726 | 2,79,741 | -0.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,61,639 | 2,81,726 | +74.3% |
-
-### #209 — Dr.T.Thimmaiah Institute of Technology
-
-**KCET code:** E015 · **Composite rank:** #177 of 239 KCET colleges (score 1,64,972.1)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 96,381 | 1,16,189 | +20.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,25,808 | 1,86,130 | +47.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,82,916 | 2,45,841 | +34.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,49,838 | 2,79,295 | +86.4% |
-| Mechanical Engineering | Mechanical & Allied | 2,23,848 | 2,79,883 | +25.0% |
-| Mining Engineering | Other Branches | 1,67,566 | 2,80,503 | +67.4% |
-
-### #210 — GM University KARUR VILLAGE
-
-**KCET code:** E303 · **Composite rank:** #178 of 239 KCET colleges (score 1,65,628.2)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (16 branches; most competitive category: Biotechnology & Life Sciences):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Bio-Technology | Biotechnology & Life Sciences | 48,391 | 61,982 | +28.1% |
-| B Tech in Computer Science(AI &ML) | Computer Science & IT | 73,644 | 75,100 | +2.0% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 85,183 | 93,816 | +10.1% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 90,751 | 1,14,617 | +26.3% |
-| B Tech in Computer Science (Cyber Security) | Computer Science & IT | 1,11,857 | 1,35,927 | +21.5% |
-| B Tech in Computer Science (Data Science) | Computer Science & IT | 1,08,520 | 1,36,280 | +25.6% |
-| B Tech in Information Science Engineering | Computer Science & IT | 1,25,019 | 1,68,715 | +35.0% |
-| Robotics and Automation | Mechanical & Allied | 1,20,014 | 1,91,243 | +59.4% |
-| Engineering Design | Other Branches | 2,74,832 | 2,40,277 | -12.6% |
-| Civil Engineering | Civil & Construction | 1,61,188 | 2,45,116 | +52.1% |
-| B.Tech in Computer Science (Internet of Things) | Computer Science & IT | 2,81,492 | 2,64,183 | -6.1% |
-| B Tech in Computer Science (Information Security) | Computer Science & IT | 2,13,760 | 2,72,959 | +27.7% |
-| B.Tech in COMPUTER SCIENCE & ENGG (Business Systems) | Computer Science & IT | 2,78,761 | 2,73,759 | -1.8% |
-| Mechanical Engineering | Mechanical & Allied | 1,72,446 | 2,81,274 | +63.1% |
-| B Tech in Electrical & Electronics Engineering | Electrical & Electronics | 1,86,113 | 2,81,466 | +51.2% |
-| B Tech in Computer Science (Cloud Computing) | Computer Science & IT | 1,50,450 | 2,82,548 | +87.8% |
-
-### #211 — Lingarajappa Engineering College
-
-**KCET code:** E213 · **Composite rank:** #179 of 239 KCET colleges (score 1,65,639.8)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 98,446 | 1,42,773 | +45.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,36,594 | 1,66,551 | +21.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,71,326 | 2,50,118.5 | +46.0% |
-| Mechanical Engineering | Mechanical & Allied | 2,77,221 | 2,71,975 | -1.9% |
-| Civil Engineering | Civil & Construction | 2,01,202 | 2,72,281 | +35.3% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,42,773 | 1,39,885 | -2.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,66,551 | 1,67,402 | +0.5% |
+| Electronics and Communication Engg | Electronics & Communication | 2,50,118.5 | 2,50,118.5 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,71,975 | 2,71,975 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,72,281 | 2,72,281 | 0.0% |
 | Electrical & Electronics Engineering | Electrical & Electronics | 2,76,798 | 2,76,798 | 0.0% |
 
-### #212 — ANUVARTIK MIRJI BHARATESH INSTITUTE OF TECHNOLOGY Chandragiri Campus
+### #209 — Moodalakatte Institute of Technology
 
-**KCET code:** E304 · **Composite rank:** #180 of 239 KCET colleges (score 1,66,357.8)
+**KCET code:** E136 · **Composite rank:** #177 of 242 KCET colleges (score 1,64,808.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 95,572 | 1,07,922 | +12.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,41,256 | 2,05,466 | +45.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,72,278 | 2,80,049 | +62.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 80,971 | 83,945 | +3.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,06,903 | 1,06,977 | +0.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,23,296 | 1,22,426 | -0.7% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,87,429 | 1,92,254 | +2.6% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,22,009 | 2,09,446 | -5.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,59,542 | 2,44,994 | -5.6% |
+| Information Science and Engineering | Computer Science & IT | 2,76,475 | 2,76,475 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,77,639 | 2,77,639 | 0.0% |
 
-### #213 — Krupanidhi Institute of Technology NO 12/1
+### #210 — Krupanidhi Institute of Technology NO 12/1
 
-**KCET code:** E326 · **Composite rank:** #181 of 239 KCET colleges (score 1,66,381.6)
+**KCET code:** E326 · **Composite rank:** #178 of 242 KCET colleges (score 1,65,200.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,03,808 | 1,12,094 | +8.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,23,929 | 1,56,639 | +26.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,57,093 | 1,78,960 | -30.4% |
-| Electronics & Computer Engineering | Computer Science & IT | 2,29,422 | 1,99,233 | -13.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,52,389 | 2,78,781 | +82.9% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,12,094 | 1,15,105 | +2.7% |
+| Computer Science and Engineering | Computer Science & IT | 1,56,639 | 1,56,639 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,78,960 | 1,76,360 | -1.5% |
+| Electronics & Computer Engineering | Computer Science & IT | 1,99,233 | 1,99,233 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,78,781 | 2,71,198 | -2.7% |
 
-### #214 — Ghousia Engineering College
+### #211 — R.T.E. Soceity's Rural Engineering College
 
-**KCET code:** E013 · **Composite rank:** #184 of 239 KCET colleges (score 1,70,102.8)
+**KCET code:** E032 · **Composite rank:** #179 of 242 KCET colleges (score 1,66,869.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 63,032 | 97,092 | +54.0% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 73,595 | 1,39,726 | +89.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,01,126 | 1,65,526 | +63.7% |
-| Electronics and Communication Engg | Electronics & Communication | 90,542 | 1,93,576 | +113.8% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 1,27,527 | 2,22,814 | +74.7% |
-| Information Science and Engineering | Computer Science & IT | 1,34,060 | 2,59,204 | +93.3% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,27,343 | 2,68,013 | +110.5% |
-| Civil Engineering | Civil & Construction | 1,51,844 | 2,81,392 | +85.3% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,08,536 | 1,07,776 | -0.7% |
+| Computer Science and Engineering | Computer Science & IT | 1,83,267.5 | 2,10,670 | +15.0% |
+| Civil Engineering | Civil & Construction | 2,55,395 | 2,25,466 | -11.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,82,181 | 2,49,596 | -11.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,58,468 | 2,70,580 | +4.7% |
+
+### #212 — Vivekananada College of Engineering Technology
+
+**KCET code:** E121 · **Composite rank:** #180 of 242 KCET colleges (score 1,66,953.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Civil & Construction):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Civil Engineering | Civil & Construction | 2,55,794 | 75,660 | -70.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 93,062 | 89,961 | -3.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,67,120 | 1,66,641 | -37.6% |
+| Electronics and Communication Engg | Electronics & Communication | 2,51,979 | 1,75,710 | -30.3% |
+| Computer Science and Engineering | Computer Science & IT | 2,60,685 | 2,65,292 | +1.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,55,808 | 2,72,505 | +6.5% |
+
+### #213 — Shetty Institute of Technology
+
+**KCET code:** E216 · **Composite rank:** #183 of 242 KCET colleges (score 1,74,860.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,40,154 | 1,41,872 | +1.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,63,738 | 1,88,422 | +15.1% |
+| Electronics and Communication Engg | Electronics & Communication | 2,81,726 | 2,64,954 | -6.0% |
+| Civil Engineering | Civil & Construction | 2,77,831 | 2,77,831 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,79,741 | 2,79,741 | 0.0% |
+
+### #214 — Biluru Gurubasava Mahaswamiji Institute of Technology
+
+**KCET code:** E221 · **Composite rank:** #184 of 242 KCET colleges (score 1,75,868.1)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,41,494 | 1,40,926 | -0.4% |
+| Computer Science and Engineering | Computer Science & IT | 2,08,139 | 1,94,013 | -6.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,50,419 | 2,50,419 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,65,460 | 2,65,460 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,71,523 | 2,70,119 | -0.5% |
 
 ### #215 — P A College of Engineering
 
-**KCET code:** E055 · **Composite rank:** #185 of 239 KCET colleges (score 1,74,532.9)
+**KCET code:** E055 · **Composite rank:** #185 of 242 KCET colleges (score 1,77,089.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Biotechnology & Life Sciences):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Biotechnology & Life Sciences):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Bio-Technology | Biotechnology & Life Sciences | 37,821 | 69,298 | +83.2% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 94,794 | 1,29,108 | +36.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,15,045 | 1,69,002 | +46.9% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,45,001 | 2,22,192 | +53.2% |
-| Mechanical Engineering | Mechanical & Allied | 1,95,739 | 2,40,999 | +23.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,63,454 | 2,57,404 | +57.5% |
-| Civil Engineering | Civil & Construction | 2,49,266 | 2,72,461 | +9.3% |
+| Bio-Technology | Biotechnology & Life Sciences | 69,298 | 73,768 | +6.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,29,108 | 1,29,122 | +0.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,69,002 | 1,73,012 | +2.4% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 2,22,192 | 2,21,157 | -0.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,40,999 | 2,48,263 | +3.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,57,404 | 2,57,404 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,72,461 | 2,72,461 | 0.0% |
 
-### #216 — AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY PRASANNAHALLI MAIN RAOD
+### #216 — Mysuru Royal Institute Of Technology
 
-**KCET code:** E300 · **Composite rank:** #186 of 239 KCET colleges (score 1,79,444)
+**KCET code:** E238 · **Composite rank:** #187 of 242 KCET colleges (score 1,78,528)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,12,728 | 1,45,090 | +28.7% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 1,14,063 | 1,45,538 | +27.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,23,547 | 1,56,537 | +26.7% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,28,727 | 1,84,515 | +43.3% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,33,675 | 2,21,049 | +65.4% |
-| Information Science and Engineering | Computer Science & IT | 1,59,965 | 2,54,811 | +59.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,90,814 | 2,58,586 | +35.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,30,646 | 2,75,051 | +110.5% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,07,305 | 1,03,910 | -3.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,40,827 | 1,39,212 | -1.1% |
+| Electronics and Communication Engg | Electronics & Communication | 1,55,473 | 1,68,537 | +8.4% |
+| Computer Science and Engineering | Computer Science & IT | 2,43,700 | 2,17,381 | -10.8% |
+| Civil Engineering | Civil & Construction | 2,30,506 | 2,32,412 | +0.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,77,383.5 | 2,77,383.5 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,63,612 | 2,80,218 | +6.3% |
 
-### #217 — Biluru Gurubasava Mahaswamiji Institute of Technology
+### #217 — AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY PRASANNAHALLI MAIN RAOD
 
-**KCET code:** E221 · **Composite rank:** #188 of 239 KCET colleges (score 1,83,348.4)
+**KCET code:** E300 · **Composite rank:** #188 of 242 KCET colleges (score 1,79,857.4)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,14,011 | 1,41,494 | +24.1% |
-| Computer Science and Engineering | Computer Science & IT | 1,31,231 | 2,08,139 | +58.6% |
-| Mechanical Engineering | Mechanical & Allied | 2,80,847 | 2,50,419 | -10.8% |
-| Electronics and Communication Engg | Electronics & Communication | 2,07,060 | 2,65,460 | +28.2% |
-| Civil Engineering | Civil & Construction | 2,25,466 | 2,71,523 | +20.4% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,45,090 | 1,37,178 | -5.5% |
+| Computer Science and Engineering | Computer Science & IT | 1,56,537 | 1,49,355 | -4.6% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,45,538 | 1,51,754 | +4.3% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,84,515 | 1,92,134 | +4.1% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,21,049 | 2,02,859 | -8.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,58,586 | 2,55,264 | -1.3% |
+| Information Science and Engineering | Computer Science & IT | 2,54,811 | 2,69,166.5 | +5.6% |
+| Electronics and Communication Engg | Electronics & Communication | 2,75,051 | 2,75,051 | 0.0% |
 
-### #218 — HARSHA INSTITUTE OF TECHNOLOGY VARADANAYAKANA HALLY VILLAGE
+### #218 — Dr.T.Thimmaiah Institute of Technology
 
-**KCET code:** E313 · **Composite rank:** #189 of 239 KCET colleges (score 1,87,862)
+**KCET code:** E015 · **Composite rank:** #189 of 242 KCET colleges (score 1,80,259.4)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,10,307 | 1,27,617 | +15.7% |
-| Computer Science and Engineering | Computer Science & IT | 1,22,508 | 1,80,230 | +47.1% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,51,481 | 1,84,711 | +21.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,50,004 | 2,24,933 | +50.0% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,27,775 | 2,72,673 | +113.4% |
-| Information Science and Engineering | Computer Science & IT | 1,66,663 | 2,79,118 | +67.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,16,189 | 1,26,894 | +9.2% |
+| Computer Science and Engineering | Computer Science & IT | 1,86,130 | 2,10,039 | +12.8% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,45,841 | 2,45,841 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,79,295 | 2,79,295 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,79,883 | 2,79,883 | 0.0% |
+| Mining Engineering | Other Branches | 2,80,503 | 2,80,503 | 0.0% |
 
-### #219 — Mysuru Royal Institute Of Technology
+### #219 — Ghousia Engineering College
 
-**KCET code:** E238 · **Composite rank:** #192 of 239 KCET colleges (score 1,90,549.9)
+**KCET code:** E013 · **Composite rank:** #190 of 242 KCET colleges (score 1,90,047.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 83,323 | 1,07,305 | +28.8% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 99,192 | 1,40,827 | +42.0% |
-| Electronics and Communication Engg | Electronics & Communication | 1,13,320 | 1,55,473 | +37.2% |
-| Civil Engineering | Civil & Construction | 1,85,791 | 2,30,506 | +24.1% |
-| Computer Science and Engineering | Computer Science & IT | 1,11,745 | 2,43,700 | +118.1% |
-| Information Science and Engineering | Computer Science & IT | 1,33,051 | 2,63,612 | +98.1% |
-| Mechanical Engineering | Mechanical & Allied | 1,70,588 | 2,77,383.5 | +62.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 97,092 | 99,204 | +2.2% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,39,726 | 1,78,530 | +27.8% |
+| Computer Science and Engineering | Computer Science & IT | 1,65,526 | 1,81,422 | +9.6% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 2,22,814 | 2,18,658 | -1.9% |
+| Civil Engineering | Civil & Construction | 2,81,392 | 2,45,220 | -12.9% |
+| Information Science and Engineering | Computer Science & IT | 2,59,204 | 2,59,204 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,68,013 | 2,68,013 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,93,576 | 2,77,434 | +43.3% |
 
-### #220 — Sri Revana Siddeswara Institute of Technology
+### #220 — Shri Madhwa Vadiraja Institute of Technology and Management
 
-**KCET code:** E090 · **Composite rank:** #193 of 239 KCET colleges (score 2,04,801.3)
+**KCET code:** E206 · **Composite rank:** #191 of 242 KCET colleges (score 2,02,496.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (2 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 1,03,313 | 1,98,297 | +91.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,08,357 | 2,81,323 | +159.6% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 79,421 | 82,310 | +3.6% |
+| Computer Science and Engineering | Computer Science & IT | 1,45,109 | 1,98,222 | +36.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,40,944 | 2,17,783 | -9.6% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,51,854 | 2,41,277 | +58.9% |
+| Electronics and Communication Engg | Electronics & Communication | 2,55,509 | 2,55,509 | 0.0% |
 
 ### #221 — Coorg Institute of Technology
 
-**KCET code:** E094 · **Composite rank:** #194 of 239 KCET colleges (score 2,07,099.8)
+**KCET code:** E094 · **Composite rank:** #192 of 242 KCET colleges (score 2,02,646.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 92,265 | 1,17,248 | +27.1% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 95,162 | 1,30,601 | +37.2% |
-| Civil Engineering | Civil & Construction | 2,01,803 | 2,60,901 | +29.3% |
-| Mechanical Engineering | Mechanical & Allied | 1,78,839 | 2,68,867 | +50.3% |
-| Computer Science and Engineering | Computer Science & IT | 1,48,050 | 2,69,033 | +81.7% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,57,855 | 2,75,075 | +74.3% |
-| Electronics and Communication Engg | Electronics & Communication | 1,25,468 | 2,79,184 | +122.5% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,17,248 | 1,29,099 | +10.1% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,30,601 | 1,30,601 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,60,901 | 1,64,812 | -36.8% |
+| Mechanical Engineering | Mechanical & Allied | 2,68,867 | 2,31,140 | -14.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,69,033 | 2,63,034 | -2.2% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,75,075 | 2,75,075 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,79,184 | 2,79,184 | 0.0% |
 
-### #222 — Shreedevi Institute of Technology
+### #222 — School of Planning and Architecture
 
-**KCET code:** E146 · **Composite rank:** #195 of 239 KCET colleges (score 2,08,536.9)
+**KCET code:** E263 · **Composite rank:** #195 of 242 KCET colleges (score 2,08,174)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (1 branch; most competitive category: Other Branches):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 96,021 | 1,07,153 | +11.6% |
-| Aeronautical Engineering | Aerospace | 72,135 | 1,30,294 | +80.6% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 96,490 | 1,62,711 | +68.6% |
-| Civil Engineering | Civil & Construction | 2,80,071 | 2,35,414 | -15.9% |
-| Information Science and Engineering | Computer Science & IT | 2,04,817 | 2,47,103 | +20.6% |
-| Electronics and Communication Engg | Electronics & Communication | 2,21,930 | 2,67,395 | +20.5% |
-| Computer Science and Engineering | Computer Science & IT | 1,52,826 | 2,76,171 | +80.7% |
+| B.Plan | Other Branches | — | 2,08,174 | — |
+
+### #223 — Shreedevi Institute of Technology
+
+**KCET code:** E146 · **Composite rank:** #196 of 242 KCET colleges (score 2,11,228.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Aerospace):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Aeronautical Engineering | Aerospace | 1,30,294 | 1,39,774 | +7.3% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,62,711 | 1,40,312 | -13.8% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,07,153 | 1,48,981 | +39.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,67,395 | 2,67,395 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,47,103 | 2,68,151 | +8.5% |
+| Computer Science and Engineering | Computer Science & IT | 2,76,171 | 2,76,171 | 0.0% |
 | Mechanical Engineering | Mechanical & Allied | 2,79,079 | 2,79,079 | 0.0% |
 
-### #223 — Maratha Mandal Engineering College
+### #224 — Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering
 
-**KCET code:** E029 · **Composite rank:** #196 of 239 KCET colleges (score 2,11,959.3)
+**KCET code:** E174 · **Composite rank:** #197 of 242 KCET colleges (score 2,14,768.1)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 1,07,042 | 1,36,145 | +27.2% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 1,12,893 | 2,76,103 | +144.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,28,568 | 2,80,610 | +118.3% |
+| Information Science and Engineering | Computer Science & IT | 1,56,220 | 1,56,220 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,61,356.5 | 2,61,356.5 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,82,077 | 2,63,937 | -6.4% |
+| Electronics and Communication Engg | Electronics & Communication | 2,73,850 | 2,65,239 | -3.1% |
 
-### #224 — Sri Taralabalu Jagadguru Institute of Technology
+### #225 — Maratha Mandal Engineering College
 
-**KCET code:** E033 · **Composite rank:** #197 of 239 KCET colleges (score 2,13,207)
+**KCET code:** E029 · **Composite rank:** #198 of 242 KCET colleges (score 2,16,389.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 87,670 | 1,73,843 | +98.3% |
-| Information Science and Engineering | Computer Science & IT | 1,70,954 | 2,39,411 | +40.0% |
-| Civil Engineering | Civil & Construction | 2,39,396 | 2,68,059 | +12.0% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,63,950 | 2,73,081 | +66.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,48,214 | 2,73,599 | +84.6% |
+| Computer Science and Engineering | Computer Science & IT | 1,36,145 | 1,46,503 | +7.6% |
+| Robotics and Artificial Intelligence | Computer Science & IT | 2,76,103 | 2,76,103 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,80,610 | 2,80,610 | 0.0% |
 
-### #225 — Rajeev Institute of Technology
+### #226 — Sir M V School of Architecture
 
-**KCET code:** E177 · **Composite rank:** #199 of 239 KCET colleges (score 2,16,133.7)
+**KCET code:** E259 · **Composite rank:** #199 of 242 KCET colleges (score 2,18,355)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (11 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Other Branches):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,09,136 | 1,50,045 | +37.5% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 97,386 | 1,52,159 | +56.2% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,09,237 | 1,66,499 | +52.4% |
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 1,69,827 | 2,14,167 | +26.1% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,75,808 | 2,45,137 | +39.4% |
-| Information Science and Engineering | Computer Science & IT | 1,76,332 | 2,58,566 | +46.6% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,48,234 | 2,59,711 | +75.2% |
-| Mechanical Engineering | Mechanical & Allied | 1,60,264 | 2,62,329 | +63.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,36,337 | 2,68,635 | +97.0% |
-| Civil Engineering | Civil & Construction | 1,75,945 | 2,71,782 | +54.5% |
-| Computer Science and Engineering | Computer Science & IT | 1,30,539 | 2,78,726 | +113.5% |
+| Design | Other Branches | — | 2,08,276 | — |
+| Planning | Other Branches | — | 2,28,434 | — |
 
-### #226 — Proudadevaraya Institute of Technology
+### #227 — Proudadevaraya Institute of Technology
 
-**KCET code:** E076 · **Composite rank:** #200 of 239 KCET colleges (score 2,20,895.9)
+**KCET code:** E076 · **Composite rank:** #200 of 242 KCET colleges (score 2,18,741.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,13,226 | 1,60,757 | +42.0% |
-| Mechanical Engineering | Mechanical & Allied | 2,82,261 | 2,51,154 | -11.0% |
-| Electronics and Communication Engg | Electronics & Communication | 1,75,048 | 2,65,542 | +51.7% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,35,334 | 2,66,801 | +13.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,06,825 | 2,70,362 | +153.1% |
-| Civil Engineering | Civil & Construction | 1,95,655 | 2,75,924 | +41.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,60,757 | 1,56,828 | -2.4% |
+| Mechanical Engineering | Mechanical & Allied | 2,51,154 | 2,51,154 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,65,542 | 2,65,542 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,66,801 | 2,66,801 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,70,362 | 2,70,362 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,75,924 | 2,75,833 | -0.0% |
 
-### #227 — CONSTITUENT COLLEGE OF VTU (KCET E309)
+### #228 — Bahubali College of Engineering
 
-**KCET code:** E309 · **Composite rank:** #201 of 239 KCET colleges (score 2,24,463.8)
+**KCET code:** E070 · **Composite rank:** #201 of 242 KCET colleges (score 2,20,105.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 1,30,793 | 1,69,574 | +29.7% |
-| Computer Science and Engineering (Aiml) | Computer Science & IT | 1,47,549 | 2,68,745 | +82.1% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,94,255 | 2,69,194 | +38.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,70,073 | 2,78,974 | +64.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,67,763 | 1,51,345 | -9.8% |
+| Civil Engineering | Civil & Construction | 2,55,016 | 2,58,846 | +1.5% |
+| Electronics and Communication Engg | Electronics & Communication | 2,60,010 | 2,60,010 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,79,336 | 2,79,336 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,81,191 | 2,81,191 | 0.0% |
 
-### #228 — Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering
+### #229 — Rajeev Institute of Technology
 
-**KCET code:** E174 · **Composite rank:** #202 of 239 KCET colleges (score 2,24,607.8)
+**KCET code:** E177 · **Composite rank:** #202 of 242 KCET colleges (score 2,21,022.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (11 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Information Science and Engineering | Computer Science & IT | 1,81,180 | 1,56,220 | -13.8% |
-| Civil Engineering | Civil & Construction | 2,24,310 | 2,45,688 | +9.5% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,70,249 | 2,61,356.5 | +53.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,43,856 | 2,73,850 | +90.4% |
-| Mechanical Engineering | Mechanical & Allied | 2,80,356 | 2,75,778 | -1.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,34,308 | 2,82,077 | +110.0% |
-
-### #229 — Bahubali College of Engineering
-
-**KCET code:** E070 · **Composite rank:** #203 of 239 KCET colleges (score 2,27,983.1)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,25,239 | 1,67,763 | +34.0% |
-| Civil Engineering | Civil & Construction | 2,05,999 | 2,55,016 | +23.8% |
-| Electronics and Communication Engg | Electronics & Communication | 1,48,846 | 2,60,010 | +74.7% |
-| Mechanical Engineering | Mechanical & Allied | 2,12,199 | 2,79,336 | +31.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,54,166 | 2,81,191 | +82.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,50,045 | 1,57,195 | +4.8% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,66,499 | 1,62,983 | -2.1% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,52,159 | 1,88,081 | +23.6% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,14,167 | 2,14,167 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,45,137 | 2,43,565 | -0.6% |
+| Information Science and Engineering | Computer Science & IT | 2,58,566 | 2,48,652 | -3.8% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,59,711 | 2,59,711 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,78,726 | 2,60,668 | -6.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,62,329 | 2,62,329 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,68,635 | 2,68,635 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,71,782 | 2,71,782 | 0.0% |
 
 ### #230 — V S M`s Somashekhar R Kothiwale Institute of Technology
 
-**KCET code:** E207 · **Composite rank:** #204 of 239 KCET colleges (score 2,28,843.9)
+**KCET code:** E207 · **Composite rank:** #203 of 242 KCET colleges (score 2,21,623.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,20,157 | 1,72,781 | +43.8% |
-| Electronics and Communication Engg | Electronics & Communication | 1,53,661 | 2,43,890 | +58.7% |
-| Mechanical Engineering | Mechanical & Allied | 2,80,295 | 2,65,487 | -5.3% |
-| Computer Science and Engineering | Computer Science & IT | 1,49,409 | 2,81,616 | +88.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,72,781 | 1,57,670 | -8.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,43,890 | 2,43,890 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,65,487 | 2,65,487 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,81,616 | 2,81,616 | 0.0% |
 
-### #231 — Beary's Institute of Technology
+### #231 — HARSHA INSTITUTE OF TECHNOLOGY VARADANAYAKANA HALLY VILLAGE
 
-**KCET code:** E180 · **Composite rank:** #205 of 239 KCET colleges (score 2,31,444.3)
+**KCET code:** E313 · **Composite rank:** #204 of 242 KCET colleges (score 2,22,425.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 1,10,639 | 1,48,845 | +34.5% |
-| Computer Science and Engineering | Computer Science & IT | 1,35,438 | 2,29,111 | +69.2% |
-| Civil Engineering | Civil & Construction | 2,77,645 | 2,39,766 | -13.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,91,500 | 2,52,626 | +31.9% |
-| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 1,73,133 | 2,64,271 | +52.6% |
-| Mechanical Engineering | Mechanical & Allied | 2,76,411 | 2,76,411 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,27,617 | 1,14,904 | -10.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,80,230 | 1,63,643 | -9.2% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,72,673 | 2,19,890 | -19.4% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,84,711 | 2,48,311 | +34.4% |
+| Electronics and Communication Engg | Electronics & Communication | 2,24,933 | 2,54,439 | +13.1% |
+| Information Science and Engineering | Computer Science & IT | 2,79,118 | 2,79,118 | 0.0% |
 
-### #232 — Kalpatharu Institute of Technology
+### #232 — Rao Bahadur Y.Mahabaleswarappa Engineering College
 
-**KCET code:** E018 · **Composite rank:** #206 of 239 KCET colleges (score 2,32,572.5)
+**KCET code:** E045 · **Composite rank:** #205 of 242 KCET colleges (score 2,24,404.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 84,393 | 1,11,210 | +31.8% |
-| Information Science and Engineering | Computer Science & IT | 1,63,361 | 2,28,897 | +40.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,64,705 | 2,71,119 | +64.6% |
-| Civil Engineering | Civil & Construction | 1,97,471 | 2,72,480 | +38.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,18,002 | 2,79,533 | +136.9% |
-
-### #233 — KOSHYS INSTITUTE OF TECHNOLOGY BENGALURU
-
-**KCET code:** E320 · **Composite rank:** #207 of 239 KCET colleges (score 2,32,887.2)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,19,773 | 1,68,935 | +41.0% |
-| Information Science and Engineering | Computer Science & IT | 1,89,711 | 2,31,144 | +21.8% |
-| Electronics and Communication Engg | Electronics & Communication | 1,84,137 | 2,53,396 | +37.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,45,916 | 2,76,108 | +89.2% |
-
-### #234 — Akshaya Institute of Technology
-
-**KCET code:** E191 · **Composite rank:** #209 of 239 KCET colleges (score 2,40,572.4)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 1,06,382 | 1,38,929 | +30.6% |
-| Agriculture Engineering | Other Branches | 1,00,998 | 1,40,458 | +39.1% |
-| Computer Science and Engineering | Computer Science & IT | 1,48,304 | 2,38,169 | +60.6% |
-| Information Science and Engineering | Computer Science & IT | 1,78,728 | 2,59,557 | +45.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,72,976 | 2,81,640 | +62.8% |
-| Mechanical Engineering | Mechanical & Allied | 2,22,372 | 2,82,007 | +26.8% |
-
-### #235 — C Byre Gowda Institute of Technology
-
-**KCET code:** E184 · **Composite rank:** #210 of 239 KCET colleges (score 2,41,902.5)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Information Science and Engineering | Computer Science & IT | 2,63,696 | 2,05,963 | -21.9% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,39,448 | 2,07,879 | +49.1% |
-| Civil Engineering | Civil & Construction | 2,73,342 | 2,47,041 | -9.6% |
-| Computer Engineering | Computer Science & IT | 2,04,142 | 2,68,242 | +31.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,86,885 | 2,77,766 | +48.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,90,027 | 2,81,744.5 | +48.3% |
-| Mechanical Engineering | Mechanical & Allied | 2,82,303 | 2,82,303 | 0.0% |
-
-### #236 — S D M Institute of Tech.
-
-**KCET code:** E152 · **Composite rank:** #211 of 239 KCET colleges (score 2,42,872.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 74,798 | 1,35,547 | +81.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,36,387 | 2,36,011 | +73.0% |
-| Information Science and Engineering | Computer Science & IT | 1,54,254 | 2,42,748 | +57.4% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 1,62,263 | 2,64,337 | +62.9% |
-| Computer Science and Engineering | Computer Science & IT | 92,688 | 2,76,829 | +198.7% |
-| Civil Engineering | Civil & Construction | 2,81,474 | 2,81,474 | 0.0% |
-
-### #237 — RATHINAM INSTITUTE OF TECHNOLOGY DODDAKAMMANAHALLY VILLAGE
-
-**KCET code:** E311 · **Composite rank:** #212 of 239 KCET colleges (score 2,46,129.4)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,25,776 | 2,08,175 | +65.5% |
-| Information Science and Engineering | Computer Science & IT | 1,85,147 | 2,29,449 | +23.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,83,391 | 2,44,877 | +33.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,90,271 | 2,60,864 | +37.1% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,56,984 | 2,61,234 | +66.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,37,970 | 2,79,441 | +102.5% |
-
-### #238 — BASAV ENGINEERING SCHOOL OF TECHNOLOGY
-
-**KCET code:** E264 · **Composite rank:** #213 of 239 KCET colleges (score 2,47,172.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engineering | Computer Science & IT | 1,37,374 | 2,36,503 | +72.2% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,20,290 | 2,57,282 | +113.9% |
-| Civil Engineering | Civil & Construction | 2,77,309 | 2,75,190 | -0.8% |
-
-### #239 — Karavali Institute of Technology
-
-**KCET code:** E159 · **Composite rank:** #214 of 239 KCET colleges (score 2,47,269.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Aerospace):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Aeronautical Engineering | Aerospace | 91,577 | 1,42,788 | +55.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | — | 2,03,654 | — |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,21,544 | 2,48,157 | +104.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,81,027 | 2,50,815 | +38.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,85,843 | 2,73,710 | +47.3% |
-
-### #240 — Vijaya Vittala Institute of Technology
-
-**KCET code:** E188 · **Composite rank:** #215 of 239 KCET colleges (score 2,48,043.7)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 98,417 | 1,40,106 | +42.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,45,196 | 2,19,136 | +50.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,35,566 | 2,72,127 | +100.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,46,298 | 2,73,166 | +86.7% |
-| Mechanical Engineering | Mechanical & Allied | 2,82,024 | 2,75,724 | -2.2% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,30,176 | 2,82,477 | +117.0% |
-
-### #241 — Anjuman Institute of Technology & Management
-
-**KCET code:** E035 · **Composite rank:** #216 of 239 KCET colleges (score 2,48,615.9)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (5 branches; most competitive category: Electronics & Communication):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 2,06,529 | 1,63,032 | -21.1% |
-| Robotics and Artificial Intelligence | Computer Science & IT | 1,86,521 | 1,98,306 | +6.3% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,41,231 | 2,32,987 | +65.0% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,93,939 | 2,78,794 | +43.8% |
-| Computer Science and Engineering | Computer Science & IT | 1,69,808 | 2,79,430 | +64.6% |
-
-### #242 — SJB School of Achitecture & Planning
-
-**KCET code:** E225 · **Composite rank:** #217 of 239 KCET colleges (score 2,51,450)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (1 branch; most competitive category: Other Branches):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Design | Other Branches | 91,802 | 2,51,450 | +173.9% |
-
-### #243 — ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY SURVEY NO 2/8 2/9 AND 2/2
-
-**KCET code:** E297 · **Composite rank:** #218 of 239 KCET colleges (score 2,52,786.6)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 98,792 | 1,18,917 | +20.4% |
-| Artificial Intelligence and Data Science | Computer Science & IT | 92,698 | 1,22,469 | +32.1% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,08,008 | 1,53,232 | +41.9% |
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 1,21,242 | 2,40,174 | +98.1% |
-| Electronics & Computer Engineering | Computer Science & IT | 1,83,529 | 2,62,613 | +43.1% |
-| Electronics and Communication Engg | Electronics & Communication | 1,26,518 | 2,69,176 | +112.8% |
-| Data Sciences | Computer Science & IT | 1,54,976 | 2,72,257 | +75.7% |
-| Information Science and Engineering | Computer Science & IT | 1,58,286 | 2,77,378 | +75.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,33,324 | 2,80,600 | +110.5% |
-
-### #244 — Rao Bahadur Y.Mahabaleswarappa Engineering College
-
-**KCET code:** E045 · **Composite rank:** #219 of 239 KCET colleges (score 2,53,613.4)
-**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
-
-**KCET branches — Round 2 Mock, GM category** (9 branches; most competitive category: Computer Science & IT):
-
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
-|---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 93,963 | 1,26,798 | +34.9% |
-| Computer Science and Engineering | Computer Science & IT | 1,09,972 | 1,64,919 | +50.0% |
-| Information Science and Engineering | Computer Science & IT | 1,85,577 | 2,50,953 | +35.2% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,37,438 | 2,63,211 | +91.5% |
-| Civil Engineering | Civil & Construction | 2,11,769 | 2,72,993 | +28.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,34,348 | 2,75,200 | +17.4% |
-| Electronics and Communication Engg | Electronics & Communication | 1,48,502 | 2,75,514 | +85.5% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,25,986 | 2,79,248 | +121.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,26,798 | 1,19,992 | -5.4% |
+| Computer Science and Engineering | Computer Science & IT | 1,64,919 | 2,11,429 | +28.2% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,79,248 | 2,18,837 | -21.6% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,63,211 | 2,64,979 | +0.7% |
+| Civil Engineering | Civil & Construction | 2,72,993 | 2,72,993 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,75,200 | 2,75,200 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,75,514 | 2,75,514 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,50,953 | 2,79,674 | +11.4% |
 | Mechanical Engineering | Mechanical & Allied | 2,81,741 | 2,81,741 | 0.0% |
 
-### #245 — CAUVERY COLLEGE OF ENGINEERING KBL LAYOUT
+### #233 — CONSTITUENT COLLEGE OF VTU (KCET E309)
 
-**KCET code:** E314 · **Composite rank:** #221 of 239 KCET colleges (score 2,54,857.1)
+**KCET code:** E309 · **Composite rank:** #206 of 242 KCET colleges (score 2,30,941.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 96,539 | 1,48,097 | +53.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,20,576 | 1,55,188 | +28.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,26,451 | 2,53,153 | +100.2% |
-| Information Science and Engineering | Computer Science & IT | 1,41,930 | 2,55,002 | +79.7% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,34,101 | 2,73,354 | +103.8% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,35,745 | 2,76,928 | +104.0% |
+| Computer Science and Engineering | Computer Science & IT | 1,69,574 | 1,77,196 | +4.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,69,194 | 2,69,194 | 0.0% |
+| Computer Science and Engineering (Aiml) | Computer Science & IT | 2,68,745 | 2,75,942 | +2.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,78,974 | 2,78,974 | 0.0% |
 
-### #246 — Dhanwantari Institute of Technology 39/1
+### #234 — Beary's Institute of Technology
 
-**KCET code:** E325 · **Composite rank:** #222 of 239 KCET colleges (score 2,56,201)
+**KCET code:** E180 · **Composite rank:** #207 of 242 KCET colleges (score 2,32,064.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Electrical & Electronics):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,16,220 | 1,98,186 | -8.3% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,39,480 | 2,54,829 | +82.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,73,088 | 2,58,509 | +49.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,62,542 | 2,58,921 | +59.3% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,48,845 | 1,55,264 | +4.3% |
+| Electronics and Communication Engg | Electronics & Communication | 2,52,626 | 2,28,200 | -9.7% |
+| Computer Science and Engineering | Computer Science & IT | 2,29,111 | 2,32,075 | +1.3% |
+| Civil Engineering | Civil & Construction | 2,39,766 | 2,39,766 | 0.0% |
+| Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech) | Computer Science & IT | 2,64,271 | 2,62,435 | -0.7% |
+| Mechanical Engineering | Mechanical & Allied | 2,76,411 | 2,76,411 | 0.0% |
 
-### #247 — Cauvery institute of Technology
+### #235 — Kalpatharu Institute of Technology
 
-**KCET code:** E227 · **Composite rank:** #223 of 239 KCET colleges (score 2,56,726.9)
+**KCET code:** E018 · **Composite rank:** #208 of 242 KCET colleges (score 2,32,285.6)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,14,152 | 1,28,342 | +12.4% |
-| Civil Engineering | Civil & Construction | 2,02,764 | 2,26,003 | +11.5% |
-| Mechanical Engineering | Mechanical & Allied | 1,74,617 | 2,33,739 | +33.9% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,67,518 | 2,52,718 | +50.9% |
-| Information Science and Engineering | Computer Science & IT | 1,67,751 | 2,57,526 | +53.5% |
-| Computer Science and Engineering | Computer Science & IT | 1,46,608 | 2,74,470 | +87.2% |
-| Electronics and Communication Engg | Electronics & Communication | 1,34,571 | 2,81,927 | +109.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,11,210 | 1,12,480 | +1.1% |
+| Information Science and Engineering | Computer Science & IT | 2,28,897 | 2,28,739 | -0.1% |
+| Mechanical Engineering | Mechanical & Allied | — | 2,46,985 | — |
+| Electronics and Communication Engg | Electronics & Communication | 2,71,119 | 2,71,119 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,72,480 | 2,72,480 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,79,533 | 2,79,533 | 0.0% |
 
-### #248 — Vivekananada College of Engineering Technology
+### #236 — KOSHYS INSTITUTE OF TECHNOLOGY BENGALURU
 
-**KCET code:** E121 · **Composite rank:** #224 of 239 KCET colleges (score 2,59,926.9)
+**KCET code:** E320 · **Composite rank:** #209 of 242 KCET colleges (score 2,32,777.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 74,778 | 93,062 | +24.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,22,500 | 2,51,979 | +105.7% |
-| Civil Engineering | Civil & Construction | 2,52,984 | 2,55,794 | +1.1% |
-| Mechanical Engineering | Mechanical & Allied | 2,72,505 | 2,55,808 | -6.1% |
-| Computer Science and Engineering | Computer Science & IT | 1,02,749 | 2,60,685 | +153.7% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,36,713 | 2,67,120 | +95.4% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,68,935 | 1,52,566 | -9.7% |
+| Information Science and Engineering | Computer Science & IT | 2,31,144 | 2,31,144 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,53,396 | 2,53,396 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,76,108 | 2,79,156 | +1.1% |
 
-### #249 — Ghousia Institute of Technology for Women
+### #237 — C Byre Gowda Institute of Technology
 
-**KCET code:** E299 · **Composite rank:** #225 of 239 KCET colleges (score 2,61,343.4)
+**KCET code:** E184 · **Composite rank:** #210 of 242 KCET colleges (score 2,41,616.8)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 1,70,238 | 2,60,978 | +53.3% |
-| Computer Science and Engineering | Computer Science & IT | 1,38,784 | 2,61,306 | +88.3% |
-| Information Science and Engineering | Computer Science & IT | 1,74,596 | 2,61,443 | +49.7% |
+| Information Science and Engineering | Computer Science & IT | 2,05,963 | 2,05,963 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,07,879 | 2,07,879 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,47,041 | 2,59,441 | +5.0% |
+| Computer Engineering | Computer Science & IT | 2,68,242 | 2,68,242 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,77,766 | 2,79,636 | +0.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,81,744.5 | 2,81,744.5 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,82,303 | 2,82,303 | 0.0% |
 
-### #250 — Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU
+### #238 — RATHINAM INSTITUTE OF TECHNOLOGY DODDAKAMMANAHALLY VILLAGE
 
-**KCET code:** E193 · **Composite rank:** #226 of 239 KCET colleges (score 2,62,442.7)
+**KCET code:** E311 · **Composite rank:** #211 of 242 KCET colleges (score 2,41,901.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,09,027 | 2,49,526 | +128.9% |
-| B Tech in Computer Science and Engineering | Computer Science & IT | 1,58,156 | 2,60,543 | +64.7% |
-| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 1,06,931 | 2,76,587 | +158.7% |
-| B Tech in Mechanical Engineering | Mechanical & Allied | 2,81,815 | 2,77,741 | -1.4% |
-| B Tech in Civil Engineering | Civil & Construction | 2,02,791 | 2,80,071 | +38.1% |
-| B Tech in Electronics & Communication Engineering | Electronics & Communication | 1,42,934 | 2,80,918 | +96.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,08,175 | 2,08,175 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,29,449 | 2,29,449 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,61,234 | 2,40,400 | -8.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,44,877 | 2,44,877 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,60,864 | 2,60,864 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,79,441 | 2,79,441 | 0.0% |
+
+### #239 — S D M Institute of Tech.
+
+**KCET code:** E152 · **Composite rank:** #212 of 242 KCET colleges (score 2,48,329)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,35,547 | 1,45,902 | +7.6% |
+| Information Science and Engineering | Computer Science & IT | 2,42,748 | 2,46,964 | +1.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,36,011 | 2,58,417 | +9.5% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,64,337 | 2,64,337 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,76,829 | 2,76,829 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,81,474 | 2,81,474 | 0.0% |
+
+### #240 — ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY SURVEY NO 2/8 2/9 AND 2/2
+
+**KCET code:** E297 · **Composite rank:** #213 of 242 KCET colleges (score 2,48,848.8)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (9 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,18,917 | 1,21,927 | +2.5% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,53,232 | 1,22,957 | -19.8% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,22,469 | 1,26,714 | +3.5% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 2,40,174 | 2,31,864.5 | -3.5% |
+| Electronics & Computer Engineering | Computer Science & IT | 2,62,613 | 2,62,613 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,69,176 | 2,69,176 | 0.0% |
+| Data Sciences | Computer Science & IT | 2,72,257 | 2,72,257 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,77,378 | 2,73,021 | -1.6% |
+| Computer Science and Engineering | Computer Science & IT | 2,80,600 | 2,80,600 | 0.0% |
+
+### #241 — Vijaya Vittala Institute of Technology
+
+**KCET code:** E188 · **Composite rank:** #215 of 242 KCET colleges (score 2,50,305.1)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,40,106 | 1,30,322 | -7.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,19,136 | 2,24,610 | +2.5% |
+| Computer Science and Engineering | Computer Science & IT | 2,72,127 | 2,72,127 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,73,166 | 2,73,166 | 0.0% |
+| Mechanical Engineering | Mechanical & Allied | 2,75,724 | 2,75,724 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,82,477 | 2,82,477 | 0.0% |
+
+### #242 — Sri Taralabalu Jagadguru Institute of Technology
+
+**KCET code:** E033 · **Composite rank:** #216 of 242 KCET colleges (score 2,50,504.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 1,73,843 | 2,15,724 | +24.1% |
+| Civil Engineering | Civil & Construction | 2,68,059 | 2,68,059 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,73,599 | 2,73,599 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,73,081 | 2,78,823 | +2.1% |
+| Information Science and Engineering | Computer Science & IT | 2,39,411 | 2,80,437 | +17.1% |
+
+### #243 — Sri Basaveswara Institute of Technology
+
+**KCET code:** E181 · **Composite rank:** #218 of 242 KCET colleges (score 2,52,215.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Electronics and Communication Engg | Electronics & Communication | 1,34,945 | 1,34,945 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,73,579 | 2,61,504 | -4.4% |
+
+### #244 — RAI TECHNOLOGICAL UNIVERSITY 11TH MILE GALLU
+
+**KCET code:** E256 · **Composite rank:** #219 of 242 KCET colleges (score 2,54,391)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| B Tech in Information Technology | Computer Science & IT | — | 1,63,234 | — |
+| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | — | 2,54,391 | — |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 2,75,809 | 2,75,809 | 0.0% |
+
+### #245 — Cauvery institute of Technology
+
+**KCET code:** E227 · **Composite rank:** #220 of 242 KCET colleges (score 2,54,864.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,28,342 | 1,28,638 | +0.2% |
+| Mechanical Engineering | Mechanical & Allied | 2,33,739 | 2,33,739 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,52,718 | 2,47,613 | -2.0% |
+| Information Science and Engineering | Computer Science & IT | 2,57,526 | 2,57,526 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,74,470 | 2,74,470 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,26,003 | 2,80,687 | +24.2% |
+| Electronics and Communication Engg | Electronics & Communication | 2,81,927 | 2,81,927 | 0.0% |
+
+### #246 — Sri Revana Siddeswara Institute of Technology
+
+**KCET code:** E090 · **Composite rank:** #221 of 242 KCET colleges (score 2,56,266.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engineering | Computer Science & IT | 1,98,297 | 2,55,371 | +28.8% |
+| Electronics and Communication Engg | Electronics & Communication | 2,81,323 | 2,67,570 | -4.9% |
+
+### #247 — CAUVERY COLLEGE OF ENGINEERING KBL LAYOUT
+
+**KCET code:** E314 · **Composite rank:** #222 of 242 KCET colleges (score 2,58,738.3)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,48,097 | 1,46,404 | -1.1% |
+| Computer Science and Engineering | Computer Science & IT | 1,55,188 | 1,70,945 | +10.2% |
+| Electronics and Communication Engg | Electronics & Communication | 2,53,153 | 2,50,498 | -1.0% |
+| Information Science and Engineering | Computer Science & IT | 2,55,002 | 2,59,391 | +1.7% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,73,354 | 2,73,354 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,76,928 | 2,76,928 | 0.0% |
+
+### #248 — Anjuman Institute of Technology & Management
+
+**KCET code:** E035 · **Composite rank:** #224 of 242 KCET colleges (score 2,60,686.6)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Robotics and Artificial Intelligence | Computer Science & IT | 1,98,306 | 1,98,306 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 1,63,032 | 2,39,591 | +47.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,32,987 | 2,45,921 | +5.6% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,78,794 | 2,78,794 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,79,430 | 2,78,906 | -0.2% |
+
+### #249 — NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD
+
+**KCET code:** E312 · **Composite rank:** #225 of 242 KCET colleges (score 2,63,340.7)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Electronics and Communication Engg | Electronics & Communication | 2,59,779 | 1,86,647 | -28.2% |
+| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,13,045 | 2,13,045 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,75,348.5 | 2,51,026 | -8.8% |
+| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 2,60,000 | 2,60,000 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,76,740 | 2,76,740 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,79,629 | 2,79,629 | 0.0% |
+
+### #250 — Ghousia Institute of Technology for Women
+
+**KCET code:** E299 · **Composite rank:** #226 of 242 KCET colleges (score 2,63,977)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Electronics & Communication):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Electronics and Communication Engg | Electronics & Communication | 2,60,978 | 2,60,978 | 0.0% |
+| Information Science and Engineering | Computer Science & IT | 2,61,443 | 2,61,443 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,61,306 | 2,66,986 | +2.2% |
 
 ### #251 — Impact College of Engineering & Applied Sciences
 
-**KCET code:** E139 · **Composite rank:** #227 of 239 KCET colleges (score 2,62,670)
+**KCET code:** E139 · **Composite rank:** #227 of 242 KCET colleges (score 2,64,200)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (8 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (8 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 99,959 | 1,43,343 | +43.4% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,24,273 | 2,50,020.5 | +101.2% |
-| Mechanical Engineering | Mechanical & Allied | 1,88,798 | 2,59,068 | +37.2% |
-| Civil Engineering | Civil & Construction | 1,83,490 | 2,66,266 | +45.1% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,19,043 | 2,71,882 | +128.4% |
-| Automation and Robotic Engineering | Mechanical & Allied | 1,12,066 | 2,78,215 | +148.3% |
-| Computer Science and Engineering | Computer Science & IT | 1,26,368 | 2,81,156 | +122.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,16,828 | 2,81,765 | +141.2% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,43,343 | 1,48,863 | +3.9% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,50,020.5 | 2,51,301 | +0.5% |
+| Mechanical Engineering | Mechanical & Allied | 2,59,068 | 2,59,068 | 0.0% |
+| Civil Engineering | Civil & Construction | 2,66,266 | 2,66,266 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,81,765 | 2,66,322 | -5.5% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,71,882 | 2,76,678 | +1.8% |
+| Automation and Robotic Engineering | Mechanical & Allied | 2,78,215 | 2,78,215 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,81,156 | 2,81,156 | 0.0% |
 
-### #252 — Sri Basaveswara Institute of Technology
+### #252 — G Madegowda Institute of Technology
 
-**KCET code:** E181 · **Composite rank:** #228 of 239 KCET colleges (score 2,62,718.3)
+**KCET code:** E210 · **Composite rank:** #228 of 242 KCET colleges (score 2,64,706.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (2 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (7 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 2,82,267 | 1,34,945 | -52.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,78,093 | 2,73,579 | +53.6% |
+| Computer Science and Engineering | Computer Science & IT | 2,62,872 | 2,62,872 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,38,125 | 2,63,612 | +10.7% |
+| Mechanical Engineering | Mechanical & Allied | 2,63,920 | 2,63,920 | 0.0% |
+| Computer Science and Design | Computer Science & IT | 2,76,634 | 2,68,827 | -2.8% |
+| Civil Engineering | Civil & Construction | 2,72,896 | 2,72,896 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,74,666 | 2,74,666 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,80,062.5 | 2,80,062.5 | 0.0% |
 
-### #253 — G Madegowda Institute of Technology
+### #253 — Akshaya Institute of Technology
 
-**KCET code:** E210 · **Composite rank:** #229 of 239 KCET colleges (score 2,64,096.2)
+**KCET code:** E191 · **Composite rank:** #229 of 242 KCET colleges (score 2,65,311.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (7 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,22,100 | 2,38,125 | +95.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,69,050 | 2,62,872 | +55.5% |
-| Mechanical Engineering | Mechanical & Allied | 2,56,295 | 2,63,920 | +3.0% |
-| Civil Engineering | Civil & Construction | 2,47,009 | 2,72,896 | +10.5% |
-| Electronics and Communication Engg | Electronics & Communication | 1,51,330 | 2,74,666 | +81.5% |
-| Computer Science and Design | Computer Science & IT | 1,84,491 | 2,76,634 | +49.9% |
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,24,554 | 2,80,062.5 | +24.7% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,38,929 | 1,34,729 | -3.0% |
+| Agriculture Engineering | Other Branches | 1,40,458 | 1,55,766 | +10.9% |
+| Electronics and Communication Engg | Electronics & Communication | 2,81,640 | 2,54,572 | -9.6% |
+| Information Science and Engineering | Computer Science & IT | 2,59,557 | 2,68,803 | +3.6% |
+| Mechanical Engineering | Mechanical & Allied | 2,82,007 | 2,79,678 | -0.8% |
+| Computer Science and Engineering | Computer Science & IT | 2,38,169 | 2,81,640 | +18.3% |
 
-### #254 — R.L.Jalappa Institute of Technology
+### #254 — Dhanwantari Institute of Technology 39/1
 
-**KCET code:** E116 · **Composite rank:** #230 of 239 KCET colleges (score 2,66,685.7)
+**KCET code:** E325 · **Composite rank:** #230 of 242 KCET colleges (score 2,65,538.5)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Electrical & Electronics):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,14,902 | 1,45,689 | +26.8% |
-| Mechanical Engineering | Mechanical & Allied | 2,06,233 | 2,54,932 | +23.6% |
-| Electronics and Communication Engg | Electronics & Communication | 1,39,199 | 2,62,136 | +88.3% |
-| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 1,48,800 | 2,65,425 | +78.4% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,44,034 | 2,68,955 | +86.7% |
-| Computer Science and Engineering | Computer Science & IT | 1,41,246 | 2,70,919 | +91.8% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,98,186 | 1,55,904 | -21.3% |
+| Computer Science and Engineering | Computer Science & IT | 2,58,921 | 2,54,616 | -1.7% |
+| Electronics and Communication Engg | Electronics & Communication | 2,58,509 | 2,58,509 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,54,829 | 2,80,831 | +10.2% |
 
-### #255 — Basavakalyana Engineering College
+### #255 — R.L.Jalappa Institute of Technology
 
-**KCET code:** E093 · **Composite rank:** #231 of 239 KCET colleges (score 2,71,244.1)
+**KCET code:** E116 · **Composite rank:** #231 of 242 KCET colleges (score 2,69,652.2)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 79,218 | 1,34,719 | +70.1% |
-| Civil Engineering | Civil & Construction | 2,17,873 | 2,29,328 | +5.3% |
-| Electronics and Communication Engg | Electronics & Communication | 1,83,812 | 2,41,115 | +31.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,28,876 | 2,74,176 | +112.7% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,45,689 | 1,51,981 | +4.3% |
+| Electronics and Communication Engg | Electronics & Communication | 2,62,136 | 2,62,136 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,68,955 | 2,68,955 | 0.0% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,65,425 | 2,71,540 | +2.3% |
+| Computer Science and Engineering | Computer Science & IT | 2,70,919 | 2,76,202 | +2.0% |
+
+### #256 — BASAV ENGINEERING SCHOOL OF TECHNOLOGY
+
+**KCET code:** E264 · **Composite rank:** #232 of 242 KCET colleges (score 2,71,550.5)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,57,282 | 2,67,911 | +4.1% |
+| Computer Science and Engineering | Computer Science & IT | 2,36,503 | 2,75,190 | +16.4% |
+
+### #257 — K V G College of Engineering
+
+**KCET code:** E054 · **Composite rank:** #233 of 242 KCET colleges (score 2,71,955.2)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Civil & Construction):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Civil Engineering | Civil & Construction | 2,50,274 | 2,50,274 | 0.0% |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,63,571 | 2,63,571 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,76,562 | 2,76,562 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,80,039 | 2,80,039 | 0.0% |
+
+### #258 — Basavakalyana Engineering College
+
+**KCET code:** E093 · **Composite rank:** #234 of 242 KCET colleges (score 2,73,747.7)
+**ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
+
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Computer Science & IT):
+
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
+|---|---|---|---|---|
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,34,719 | 1,37,627 | +2.2% |
+| Civil Engineering | Civil & Construction | 2,29,328 | 2,29,328 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,74,176 | 2,74,176 | 0.0% |
 | Mechanical Engineering | Mechanical & Allied | 2,76,070 | 2,76,070 | 0.0% |
-| Computer Science | Computer Science & IT | 1,31,559 | 2,81,666 | +114.1% |
+| Computer Science | Computer Science & IT | 2,81,666 | 2,81,666 | 0.0% |
 
-### #256 — K V G College of Engineering
+### #259 — SJB School of Achitecture & Planning
 
-**KCET code:** E054 · **Composite rank:** #232 of 239 KCET colleges (score 2,71,977.6)
+**KCET code:** E225 · **Composite rank:** #235 of 242 KCET colleges (score 2,73,839)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (4 branches; most competitive category: Civil & Construction):
+**KCET branches — Round 2, GM category** (1 branch; most competitive category: Other Branches):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Civil Engineering | Civil & Construction | 2,31,993 | 2,50,274 | +7.9% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,49,853 | 2,63,571 | +75.9% |
-| Electronics and Communication Engg | Electronics & Communication | 1,69,073 | 2,76,562 | +63.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,46,701 | 2,80,039 | +90.9% |
+| Design | Other Branches | 2,51,450 | 2,73,839 | +8.9% |
 
-### #257 — NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD
+### #260 — Karavali Institute of Technology
 
-**KCET code:** E312 · **Composite rank:** #233 of 239 KCET colleges (score 2,72,939.4)
+**KCET code:** E159 · **Composite rank:** #236 of 242 KCET colleges (score 2,74,374)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Aerospace):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics Engineering(Vl Si Design & Technology) | Electronics & Communication | 2,18,921 | 2,13,045 | -2.7% |
-| Electronics and Communication Engg | Electronics & Communication | 1,80,341 | 2,59,779 | +44.0% |
-| Computer Science and Engineering(Ar Tifical Intelligence & Data Science) | Computer Science & IT | 1,50,061 | 2,60,000 | +73.3% |
-| Information Science and Engineering | Computer Science & IT | 1,96,766 | 2,75,348.5 | +39.9% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,56,325 | 2,76,740 | +77.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,90,498 | 2,79,629 | +46.8% |
+| Aeronautical Engineering | Aerospace | 1,42,788 | 1,73,241 | +21.3% |
+| Computer Science and Engineering | Computer Science & IT | 2,50,815 | 2,50,815 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,48,157 | 2,77,378 | +11.8% |
+| Computer Science and Engineering(Da Ta Science) | Computer Science & IT | 2,03,654 | 2,82,077 | +38.5% |
 
-### #258 — Veerappa Nisty Engineering College
+### #261 — Veerappa Nisty Engineering College
 
-**KCET code:** E197 · **Composite rank:** #234 of 239 KCET colleges (score 2,75,563.4)
+**KCET code:** E197 · **Composite rank:** #237 of 242 KCET colleges (score 2,75,871.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (6 branches; most competitive category: Electrical & Electronics):
+**KCET branches — Round 2, GM category** (5 branches; most competitive category: Electrical & Electronics):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,66,185 | 1,23,797 | -53.5% |
-| Electronics and Communication Engg | Electronics & Communication | 2,76,929 | 2,45,440 | -11.4% |
-| Mechanical Engineering | Mechanical & Allied | 2,61,344 | 2,61,344 | 0.0% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 1,23,797 | 1,23,797 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,45,440 | 2,45,440 | 0.0% |
 | Civil Engineering | Civil & Construction | 2,63,873 | 2,63,873 | 0.0% |
-| Computer Science and Engineering | Computer Science & IT | 1,19,326 | 2,79,956 | +134.6% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,33,729 | 2,81,363 | +110.4% |
+| Computer Science and Engineering | Computer Science & IT | 2,79,956 | 2,79,956 | 0.0% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,81,363 | 2,81,363 | 0.0% |
 
-### #259 — RAI TECHNOLOGICAL UNIVERSITY 11TH MILE GALLU
+### #262 — Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU
 
-**KCET code:** E256 · **Composite rank:** #235 of 239 KCET colleges (score 2,75,809)
+**KCET code:** E193 · **Composite rank:** #238 of 242 KCET colleges (score 2,76,303)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (1 branch; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (6 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| B Tech in Computer Science and Engineering | Computer Science & IT | 2,79,893 | 2,75,809 | -1.5% |
+| B Tech in Computer Science and Engineering | Computer Science & IT | 2,60,543 | 2,60,751 | +0.1% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,49,526 | 2,75,893 | +10.6% |
+| B Tech in Artificial Intelligence and Machine Learning | Computer Science & IT | 2,76,587 | 2,76,587 | 0.0% |
+| B Tech in Mechanical Engineering | Mechanical & Allied | 2,77,741 | 2,77,741 | 0.0% |
+| B Tech in Civil Engineering | Civil & Construction | 2,80,071 | 2,80,071 | 0.0% |
+| B Tech in Electronics & Communication Engineering | Electronics & Communication | 2,80,918 | 2,80,918 | 0.0% |
 
-### #260 — Sampoorna Group of Institutions
+### #263 — Future Forge Engineering Academy VIDYANAGAR
 
-**KCET code:** E202 · **Composite rank:** #236 of 239 KCET colleges (score 2,77,029)
+**KCET code:** E323 · **Composite rank:** #239 of 242 KCET colleges (score 2,76,845.7)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Computer Science & IT):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Artificial Intelligence and Data Science | Computer Science & IT | 1,24,125 | 1,95,333 | +57.4% |
-| Computer Science and Engineering | Computer Science & IT | 1,82,131 | 2,77,029 | +52.1% |
-| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 1,40,859 | 2,82,389 | +100.5% |
+| Artificial Intelligence and Machine Learning | Computer Science & IT | 2,78,576 | 2,75,807 | -1.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,77,304 | 2,77,304 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | 2,68,585 | 2,80,509 | +4.4% |
 
-### #261 — Future Forge Engineering Academy VIDYANAGAR
+### #264 — Sampoorna Group of Institutions
 
-**KCET code:** E323 · **Composite rank:** #237 of 239 KCET colleges (score 2,77,207.1)
+**KCET code:** E202 · **Composite rank:** #240 of 242 KCET colleges (score 2,77,071.9)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Electronics & Communication):
+**KCET branches — Round 2, GM category** (4 branches; most competitive category: Computer Science & IT):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electronics and Communication Engg | Electronics & Communication | 1,71,957 | 2,68,585 | +56.2% |
-| Computer Science and Engineering | Computer Science & IT | 1,38,154 | 2,77,304 | +100.7% |
-| Artificial Intelligence and Machine Learning | Computer Science & IT | 1,17,697 | 2,78,576 | +136.7% |
+| Artificial Intelligence and Data Science | Computer Science & IT | 1,95,333 | 2,70,919 | +38.7% |
+| Computer Science and Engineering | Computer Science & IT | 2,77,029 | 2,77,029 | 0.0% |
+| Electronics and Communication Engg | Electronics & Communication | — | 2,77,614 | — |
+| Computer Science and Engg(Artificial Intelligence and Machine Learning) | Computer Science & IT | 2,82,389 | 2,82,389 | 0.0% |
 
-### #262 — VTU Constituent Engineering College (KCET E317)
+### #265 — VTU Constituent Engineering College (KCET E317)
 
-**KCET code:** E317 · **Composite rank:** #238 of 239 KCET colleges (score 2,78,220.8)
+**KCET code:** E317 · **Composite rank:** #241 of 242 KCET colleges (score 2,78,225.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Electrical & Electronics):
+**KCET branches — Round 2, GM category** (3 branches; most competitive category: Electrical & Electronics):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Electrical & Electronics Engineering | Electrical & Electronics | 2,28,430 | 2,47,422 | +8.3% |
-| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 1,28,429 | 2,77,049 | +115.7% |
-| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 1,70,834 | 2,80,316.5 | +64.1% |
+| Electrical & Electronics Engineering | Electrical & Electronics | 2,47,422 | 2,47,422 | 0.0% |
+| Computer Science and Engg (Artificial Intelligence) | Computer Science & IT | 2,77,049 | 2,77,049 | 0.0% |
+| Computer Science and Engineering (Cyber Security) | Computer Science & IT | 2,80,316.5 | 2,80,316.5 | 0.0% |
 
-### #263 — Jnanavikasa Institute of Technology
+### #266 — Jnanavikasa Institute of Technology
 
-**KCET code:** E120 · **Composite rank:** #239 of 239 KCET colleges (score 2,79,398.8)
+**KCET code:** E120 · **Composite rank:** #242 of 242 KCET colleges (score 2,79,498.3)
 **ComedK:** no confirmed match in the current ComedK data (may use a different registered name, or not participate in ComedK).
 
-**KCET branches — Round 2 Mock, GM category** (3 branches; most competitive category: Civil & Construction):
+**KCET branches — Round 2, GM category** (2 branches; most competitive category: Electronics & Communication):
 
-| Branch | Category | Round 1 rank | Round 2 Mock rank | Change |
+| Branch | Category | Round 2 Mock rank | Round 2 rank | Change |
 |---|---|---|---|---|
-| Civil Engineering | Civil & Construction | 2,08,918 | 2,71,608 | +30.0% |
-| Electronics and Communication Engg | Electronics & Communication | 1,38,116 | 2,74,301 | +98.6% |
-| Computer Science and Engineering | Computer Science & IT | 1,37,807 | 2,79,910 | +103.1% |
+| Electronics and Communication Engg | Electronics & Communication | 2,74,301 | 2,74,301 | 0.0% |
+| Computer Science and Engineering | Computer Science & IT | 2,79,910 | 2,79,910 | 0.0% |
 
