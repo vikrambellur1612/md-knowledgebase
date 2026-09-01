@@ -1,13 +1,14 @@
-# NEET UG 2025 Allotment Cutoffs — MCC (All India) & Karnataka (KEA) Reference Data
+# NEET UG 2025–26 Allotment Cutoffs — MCC (All India) 2025 Reference & Karnataka (KEA) 2026 Actuals
 
 ## Purpose & scope
 
-This is a **data reference companion** to `MD-NEET-KB.md` (the narrative Margdarshak NEET knowledge base). Where that file explains *how* NEET counselling works, this file gives the **actual closing-rank (cutoff) data from the 2025 admission cycle** — the most recently completed full cycle at the time this file was built — for:
+This is a **data reference companion** to `MD-NEET-KB.md` (the narrative Margdarshak NEET knowledge base). Where that file explains *how* NEET counselling works, this file gives the **actual closing-rank (cutoff) data**, both a full 2025 reference cycle and the live 2026 Karnataka cycle as it happens:
 
 1. **MCC — All India Quota (15% AIQ) + Deemed Universities + Central Institutions**, Round 1 (Provisional), 2025 — 477 MBBS institutes and 86 BDS institutes, nationwide.
 2. **KEA — Karnataka state-quota MBBS**, Rounds 1 and 2 (Final), 2025 — all 66 KEA-counselled MBBS colleges in Karnataka.
 3. **KEA — Karnataka state-quota Dental (BDS)**, Round 2, 2025 — 39 colleges.
 4. **KEA MBBS seat matrix, 2025 vs 2026** — KEA-counselled seat counts per college and how they changed year-on-year.
+5. **KEA — Karnataka Government-Quota MBBS, Round 1 (Actual), 2026** — Section 3B — the current cycle's real Round 1 result, GM category, all 67 colleges, with both All India Rank and the candidate's Karnataka (KEA) state rank shown side by side. This is genuinely 2026 data, not a projection.
 
 **Use this file to answer:** "What rank do I need for college X?", "Which government/private colleges can I realistically target with rank Y?", "How does college A compare to college B?", "Which Karnataka colleges are most competitive/most preferred?" For exam mechanics, counselling process, dates, and general context, defer to `MD-NEET-KB.md` instead — this file is numbers-only.
 
@@ -16,7 +17,8 @@ This is a **data reference companion** to `MD-NEET-KB.md` (the narrative Margdar
 - **Opening Rank** = the best (lowest, i.e. most competitive) All-India Rank (AIR) allotted a seat in that college + course + category, in that round.
 - **Closing Rank** = the worst (highest) AIR that still got allotted a seat — this is what "cutoff" conventionally means. **A rank numerically at or below the closing rank had a real shot at that seat in that round.**
 - **Seats** = number of candidates actually allotted in that college + category in that round (a proxy for how many seats existed in that bucket that round — not the college's total sanctioned strength).
-- All ranks are **2025 NEET UG All India Ranks (AIR)**, from actual allotment results — not qualifying-exam percentile cutoffs, and not projections.
+- All ranks are **All India Ranks (AIR) from actual allotment results** — not qualifying-exam percentile cutoffs, and not projections. Sections 1–5 are 2025; Section 3B is 2026.
+- **Karnataka (KEA) Rank** (Section 3B only) = the same candidate's rank within Karnataka's own state merit list (from KEA's official NEET score list), separate from their national AIR — KEA's own counselling process ranks and allots by this state rank, not AIR directly, so it's the more directly useful number for "where do I stand in Karnataka" questions. Looked up from the merit list already on file (see provenance below); a cutoff AIR with no exact match there shows "—" rather than a guessed rank.
 - Blank cells mean **no seat was allotted in that college+category combination in that round** in the source data (could mean zero seats existed in that bucket, or that all such seats were filled in an earlier round and none remained) — not zero demand.
 
 ## Data provenance & methodology
@@ -28,6 +30,8 @@ This is a **data reference companion** to `MD-NEET-KB.md` (the narrative Margdar
 | `KEA_Dental_R2.xlsx` | KEA's Karnataka BDS (dental) allotment result, **2025 Round 2** | 2,812 rows |
 | `MBBS_SEAT_MATRIX_COMPARISON_2025_vs_2026_Rev1.xlsx` | A college-by-college comparison of KEA-counselled MBBS seat counts between the 2025 and 2026 admission cycles (total seats, and the Kalyana-Karnataka/HK vs Rest-of-Karnataka/RK regional split) | 67 colleges |
 | `MBBS+SEAT+MATRIX+2025_KEA.xlsx` | The detailed 2025 KEA seat-capacity matrix (seats broken down by every reservation category and region) — used here only to pull each college's **ownership type** (Government / Private / Deemed / Minority) | 66 colleges |
+| `UGNEET_R1_KEA.xlsx` | KEA's official Karnataka MBBS seat-allotment result, **2026 Round 1** — candidate-level rows (SL.NO, AIR, course code, college, course, category, fee, status) | 11,874 candidate-level allotment rows |
+| `UGNEET_SCORE_LIST_30072026kannada.pdf` | KEA's official 2026 Karnataka NEET score/merit list (also powers this site's separate NEET merit-list page) — the source of the AIR ↔ Karnataka-rank mapping used to compute Section 3B's KEA Rank column | 69,170 Karnataka qualifiers |
 
 **Aggregation method:** for each table, the source candidate-level allotment rows were grouped by college + course + category, and the minimum and maximum AIR within each group were taken as the Opening and Closing rank. For the MCC national table, rows were first filtered to each institute's dominant allotment-quota channel (e.g., AIIMS Delhi's 48 "Open Seat Quota" MBBS seats) to exclude small unrelated quota pools riding on the same institute (e.g. a handful of "Foreign Country Quota" seats at AIIMS Delhi that are not part of the domestic merit list and would otherwise wrongly inflate its closing rank).
 
@@ -44,7 +48,8 @@ This is a **data reference companion** to `MD-NEET-KB.md` (the narrative Margdar
 
 ## Caveats — read before quoting a number to a parent
 
-- **This is 2025 data, not 2026.** It is the best available *actual outcome* dataset and is extremely useful for **relative comparison** (which colleges are more/less competitive than which others, and by roughly how much) — but 2026 absolute ranks will differ because the 2026 exam was rated easier and the qualifying-mark band shifted up by roughly 69 marks at the lower bound (per `MD-NEET-KB.md` Section 7). Do not quote a 2025 closing rank as this year's cutoff without saying so explicitly.
+- **2026 Karnataka Government-Quota MBBS Round 1 is now real data — see Section 3B, not the 2025 tables.** For a KEA GM-category government-quota question this cycle, Section 3B is the actual current-year answer and should be preferred over the 2025 figures elsewhere in this file. It is **Round 1 only** so far (no 2026 Round 2/3 data yet) and **GM/government-quota only** (the source Round 1 result had no Private/Management/NRI-quota GM allotments) — for anything outside that scope (other categories, other quota types, later 2026 rounds, MCC/AIQ), the 2025 sections below remain the best available reference, with the "2025, not 2026" caveat that follows still applying to them.
+- **This is 2025 data, not 2026 — except Section 3B.** It is the best available *actual outcome* dataset and is extremely useful for **relative comparison** (which colleges are more/less competitive than which others, and by roughly how much) — but 2026 absolute ranks will differ because the 2026 exam was rated easier and the qualifying-mark band shifted up by roughly 69 marks at the lower bound (per `MD-NEET-KB.md` Section 7). Do not quote a 2025 closing rank as this year's cutoff without saying so explicitly.
 - **MCC figures are Round 1 (Provisional) only.** Closing ranks loosen (go higher) substantially in Round 2, Round 3/Mop-up, and Stray Vacancy as seats vacated by upgrading candidates re-enter the pool — `MD-NEET-KB.md` notes 2025 AIQ government-college closing ranks reached roughly AIR ~26,000 by later rounds for General/OBC. Treat the Round 1 figures below as a **floor/best-case**, not the final word — a rank above a college's Round-1 closing rank in this table is *not* automatically out of contention for that college once later rounds are considered.
 - **KEA figures include Round 1, Round 2, and Round-2-Final** for MBBS (so you can see how much a college's cutoff moved between rounds), but only **Round 2** for Dental — there was no separate Round 1 dental extract available.
 - **College name spelling varies slightly between source files** (e.g. "Bangalore Medical College" vs "Bangalore Medical College and Research Institute, Bangalore" in the seat-matrix file) — this file normalizes names per-table but the seat-matrix table (Section 5) was **not** cross-merged with the cutoff tables (Sections 3–4) because the merge could not be done reliably; treat Section 5 as a standalone reference for seat counts, not row-aligned with Sections 3–4.
@@ -747,6 +752,87 @@ All 66 KEA-counselled MBBS colleges, sorted by Round-2-Final GM (General Merit) 
 | Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College | Deemed/Private University | 60,728 | 55,809 | 73,808 | 13 |  |  |  | 99,491 | 89,450 |  |  | 76,513 | 228,284 | 229,487 |
 | St John Medical College | Minority (Linguistic/Religious) |  |  |  | 0 | 13,706 | 16,608 |  |  |  |  |  |  |  |  |
 
+## Section 3B — Karnataka (KEA) MBBS Government Quota — Round 1 (Actual), 2026
+
+**This is real 2026 data** — the current admission cycle's actual Round 1 result, not last year's reference figures used elsewhere in this file. Scope: **GM (General Merit) category only**, which in the 2026 Round 1 source data maps entirely to **government-quota MBBS seats** (Private/Management/NRI-quota seats use separate category codes and carried no GM allotments this round). All 67 government-quota colleges, sorted by 2026 Closing AIR (most competitive first).
+
+- **Closing AIR** = the worst (highest) All India Rank allotted a GM seat at that college in Round 1, 2026 — same definition as "Closing Rank" elsewhere in this file, computed from KEA's official Round 1 seat-allotment result (`UGNEET_R1_KEA.xlsx`, one row per allotted candidate).
+- **Closing KEA Rank** = that same cutoff candidate's rank within Karnataka's own 2026 state merit list (`UGNEET_SCORE_LIST_30072026kannada.pdf`) — looked up by exact AIR match. Three colleges' cutoff AIR had no exact match in that list (a candidate not present in the Karnataka merit list, e.g. an out-of-state domicile allotted under GM) and show "—" rather than a guessed rank.
+- **GM Seats** = GM-category candidates actually allotted in Round 1, 2026.
+- **2025 R1 GM Close** = the same college's Round 1 GM closing AIR from **2025** (Section 3 above), included for a genuine like-for-like Round-1-vs-Round-1 year-over-year comparison. "—" means the college had no GM government-quota allotment in Round 1, 2025 (see the Section 3 caveat on JNMC Belgaum / Farookh Academy being 2025-Round-2-only additions) or could not be confidently matched by name across the two source files — never a guessed pairing. Two colleges were renamed between cycles and are matched via the 2026 source's own rename annotation: Gadag Institute of Medical Sciences → K.H. Patil Institute of Medical Sciences; Chikkaballapura Institute of Medical Science → Nandi Medical College and Research Institute Chikkaballapura.
+
+**Year-over-year, Round 1 to Round 1:** of the 63 colleges with a 2025 R1 figure to compare against, **every single one loosened** in 2026 — average **+51.6%**, median **+52.1%**, ranging from +11.1% (least movement) to +99.4% (most). Treat this as a real, if provisional, signal that 2026 Round 1 government-quota MBBS cutoffs are running roughly 1.5x looser than 2025's Round 1 across the board — consistent with a larger or differently-distributed qualified applicant pool this cycle. As with the 2025 data elsewhere in this file, later 2026 rounds (once available) will very likely loosen these further, the same way 2025's Round 1 GM cutoffs loosened again by Round 2-Final (see Section 3).
+
+| College | Closing AIR | Closing KEA Rank | GM Seats | 2025 R1 GM Close |
+|---|---|---|---|---|
+| Bangalore Medical College | 1,779 | 113 | 76 | 1,299 |
+| Mysore Medical College | 5,692 | 343 | 71 | 4,053 |
+| Shri Atal Bihari Vajpayee Institute of Medical Science | 6,247 | 366 | 57 | 3,487 |
+| Kasturba Medical College | 7,095 | 421 | 17 | 3,558 |
+| ESI Medical College (Rajajinagar) | 10,119 | 569 | 20 | 6,404 |
+| Karnataka Institute of Medical Sciences | 10,723 | 592 | 71 | 8,343 |
+| M.S.Ramaiah Medical College | 10,999 | 612 | 29 | 6,905 |
+| Jagadguru Sri Shivarathreeswara Medical College | 12,456 | 690 | 5 | 7,669 |
+| Mandya Institute of Medical Sciences | 16,320 | 879 | 59 | 11,478 |
+| Kempegowda Institute of Medical Sciences | 16,859 | 902 | 34 | 11,641 |
+| Vijayanagar Institute of Medical Sciences | 20,299 | 1,068 | 23 | 15,845 |
+| Father Muller Institute of Med. Education & Research | 20,613 | 1,085 | 15 | 13,394 |
+| Jawaharalal Nehru Medical College | 21,274 | 1,129 | 5 | — |
+| Shimoga Institute of Medical Sciences | 21,865 | 1,161 | 46 | 16,967 |
+| Belgaum Institute of Medical Sciences | 22,090 | 1,169 | 56 | 16,260 |
+| Hassan Institute of Medical Sciences | 22,682 | 1,207 | 59 | 16,221 |
+| Vydehi Institute of Medical Science and Research Centre | 24,113 | 1,266 | 23 | 16,640 |
+| Gulbarga Institute of Medical Sciences | 26,247 | 1,362 | 19 | 17,229 |
+| SDM College of Medical Sciences and Hospital | 26,904 | 1,396 | 20 | 24,206 |
+| K.S.Hegde Medical Academy | 30,731 | 1,571 | 14 | 20,155 |
+| ESI Medical College (Sedam Road) | 30,892 | 1,581 | 7 | 18,637 |
+| Jaya Jagadguru Murugharajendra Medical College | 36,290 | 1,865 | 36 | 24,255 |
+| BGS Global Institute of Medical Sciences | 37,576 | 1,930 | 37 | 22,116 |
+| Chamarajanagar Institute of Medical Science | 37,785 | 1,939 | 47 | 23,743 |
+| Raichur Institute of Medical Sciences | 39,182 | 2,010 | 19 | 27,935 |
+| K.H. Patil Institute of Medical Sciences (previously Gadag Institute of Medical Sciences, Mallasamudra, Mulgund Road, Gadag) | 40,594 | 2,072 | 58 | 27,154 |
+| A.J.Institute of Medical Sciences | 41,804 | 2,141 | 22 | 29,055 |
+| Bidar Institute of Medical Sciences | 45,358 | 2,332 | 19 | 28,765 |
+| Dr. B.R. Ambedkar Medical College | 45,574 | 2,346 | 20 | 31,037 |
+| Nandi Medical College and Research Institute Chikkaballapura (Chikkaballapura Institute of Medical Sciences Chikkaballapura ) | 46,831 | 2,413 | 42 | 29,432 |
+| Koppal Institute of Medical Sciences | 48,211 | 2,471 | 20 | 29,397 |
+| Kodagu Institute of Medical Sciences | 48,652 | 2,504 | 46 | 31,234 |
+| Yenepoya Medical College | 50,394 | 2,603 | 14 | 33,597 |
+| PES University Institute of Medical Sceinces and Research | 51,892 | 2,682 | 38 | 30,688 |
+| Karwar Institute of Medical Science | 55,102 | — | 58 | 34,382 |
+| Chikkamagaluru Institute of Medical Sciences | 57,743 | 3,035 | 48 | 36,665 |
+| Dr. Chandramma Dayananda Sagar Institute of Medical Education | 62,160 | 3,284 | 30 | 38,287 |
+| Haveri Institute of Medical Sciences | 62,262 | 3,289 | 47 | 41,063 |
+| Shymanuru Shivashankarappa Institute Of Medical Sciences | 63,002 | 3,322 | 37 | 41,425 |
+| Adichunchanagiri Institute of Medical Sciences | 63,567 | 3,358 | 38 | 42,735 |
+| Yadgiri Institute of Medical Sciences | 65,016 | 3,453 | 16 | 43,839 |
+| Chitradurga Medical College and Research Institute | 67,363 | 3,600 | 45 | 44,690 |
+| M.V.J.Medical College and Research Hospital | 68,877 | 3,683 | 24 | 43,416 |
+| Siddaganga Medical College and Research Institute | 69,302 | 3,715 | 37 | 43,895 |
+| Mahadevappa Rampure Medical College | 71,279 | 3,824 | 12 | 46,847 |
+| BGS Medical College and Hospital | 71,351 | 3,828 | 35 | 48,336 |
+| Sapthagiri Institute of Medical Sciences | 72,785 | 3,905 | 36 | 47,164 |
+| S. Nijalingappa Medical College and Research Centre | 75,486 | 4,060 | 38 | 49,342 |
+| Subbaiah Institute of Medical Science | 75,612 | 4,064 | 22 | 50,204 |
+| Sri Madhusudan Sai Institute of Medical Sciences and Research | 75,657 | 4,069 | 8 | 52,568 |
+| East Point College of Medical Sciences and Research Center | 78,909 | 4,282 | 38 | 51,850 |
+| The Oxford Medical College Hospital and Research Center | 79,684 | 4,342 | 21 | 52,723 |
+| Akash Institute of Medical Sciences and Research Centre | 80,084 | 4,362 | 23 | 52,710 |
+| Sri Basaveshwara Medical College and Hospital | 82,002 | 4,452 | 29 | 54,787 |
+| Navodaya Medical College | 83,749 | — | 7 | 55,289 |
+| SRI CHAMUNDESHWARI MEDICAL COLLEGE | 84,520 | 4,612 | 24 | 55,573 |
+| Kanachur Institute of Medical Sciences and Research Centre | 84,612 | — | 22 | 57,790 |
+| Shridevi Institute of Medical Sciences and Research Hospital | 85,051 | 4,650 | 37 | 54,983 |
+| K.Venkataramana Gowda Medical College and Hospital | 87,157 | 4,782 | 23 | 55,213 |
+| Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore | 87,568 | 4,812 | 35 | 57,583 |
+| ALVAS INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE | 88,123 | 4,841 | 14 | — |
+| Khaja Bande Navaz Institute Of Medical Sciences | 88,227 | 4,851 | 4 | 58,455 |
+| Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College | 88,326 | 4,855 | 13 | 60,728 |
+| S R Patil Medical College Hospital and Research Center | 88,592 | 4,873 | 14 | 57,813 |
+| Farookh Academy of Medical Education Hospital and Research Institute | 90,409 | 4,970 | 21 | — |
+| Al-Ameen Medical College | 90,771 | 4,992 | 13 | 58,957 |
+| G R Medical College Hospital and Research Centre Mangalore D.K | 91,093 | 5,012 | 14 | — |
+
 ## Section 4 — Karnataka (KEA) Dental / BDS — Round 2, 2025
 
 All 39 KEA-counselled dental colleges, sorted by GM closing rank.
@@ -871,7 +957,7 @@ KEA-counselled MBBS seat counts per college (excludes minority-quota-only instit
 
 ## How agents should use this file
 
-1. **Always state the round and year** when quoting a number from here — "2025 Round 1 AIQ" or "2025 KEA Round 2 Final," never just "the cutoff." Never present a number from this file as this year's (2026) cutoff without an explicit caveat.
+1. **Always state the round and year** when quoting a number from here — "2025 Round 1 AIQ" or "2025 KEA Round 2 Final," never just "the cutoff." Never present a 2025 number from this file as this year's (2026) cutoff without an explicit caveat — the one exception is Section 3B, which *is* real 2026 Round 1 data and can be quoted as this year's actual result (still say "Round 1" explicitly, since later 2026 rounds will loosen it further).
 2. **For "what rank do I need for college X" questions:** find the college in the relevant table, quote its closing rank(s), and explain that later rounds (for MCC) typically loosen the rank further — point to the Round 1 vs Round 2-Final columns in Section 3 (KEA) as a concrete illustration of how much movement to expect, since MCC Round 2/3/mop-up data isn't in this file.
 3. **For "which colleges can I get with rank Y" questions:** scan the relevant table for rows where the closing rank is at or above Y (i.e., Y would have been admitted), and present the best few options plus a couple of "safe" options with meaningfully higher closing ranks. Prefer college's own state/domicile-eligible rows for KEA-type questions (see `MD-NEET-KB.md` Section 4 for domicile rules).
 4. **For "compare college A vs B" questions:** pull both rows and compare Opening/Closing rank, seats, category spread, and (for Karnataka) ownership Type and the 2025-vs-2026 seat matrix — then defer to `MD-NEET-KB.md` for fee, bond, and reputation context this file doesn't carry.
@@ -880,4 +966,4 @@ KEA-counselled MBBS seat counts per college (excludes minority-quota-only instit
 
 ---
 
-*This file is designed to be read alongside: `MD-NEET-KB.md` (narrative knowledge base) and `MD-NEET-KB-Prompt.txt` (agent instructions). Source workbooks: `MCC_R1P.xlsx`, `ALLOT_R2_copy (1).xlsx`, `KEA_Dental_R2.xlsx`, `MBBS+SEAT+MATRIX+2025_KEA.xlsx`, `MBBS_SEAT_MATRIX_COMPARISON_2025_vs_2026_Rev1.xlsx` — all 2025 admission-cycle data.*
+*This file is designed to be read alongside: `MD-NEET-KB.md` (narrative knowledge base) and `MD-NEET-KB-Prompt.txt` (agent instructions). Source workbooks: `MCC_R1P.xlsx`, `ALLOT_R2_copy (1).xlsx`, `KEA_Dental_R2.xlsx`, `MBBS+SEAT+MATRIX+2025_KEA.xlsx`, `MBBS_SEAT_MATRIX_COMPARISON_2025_vs_2026_Rev1.xlsx` — all 2025 admission-cycle data — plus `UGNEET_R1_KEA.xlsx` and `UGNEET_SCORE_LIST_30072026kannada.pdf` (2026 admission-cycle data, Section 3B). Re-run `scripts/extract_neet_kea_xlsx.py` and `scripts/build_neet_kea_2026r1_comparison.py` when a new 2026 round's KEA result becomes available, to refresh Section 3B.*
