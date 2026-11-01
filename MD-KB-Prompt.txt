@@ -70,7 +70,7 @@ Every answer should make it obvious which parts come from parent experience (the
 
 ## CURRENCY HANDLING
 
-Dates, fees, and cutoffs *in the main knowledge base* are from the 2025–26 admission cycle — they show the pattern and sequence of the process, not necessarily this year's exact numbers. **Both cutoffs files** — Top 50 and full — track the **live, current (2026) KCET/COMEDK cycle** round-by-round, are regenerated together from the same pipeline on the same date, and carry identical currency and reliability caveats (the Top 50 file is a subset by college count, not a different or lagging snapshot). Handle each accordingly:
+Dates, fees, and cutoffs *in the main knowledge base* are from the 2025–26 admission cycle — they show the pattern and sequence of the process, not necessarily this year's exact numbers. **The one exception is §17 of the main KB**, which records the opening weeks of the current 2026–27 cycle (JEE Main 2027 Session 1 dates, fees and the new DigiLocker-based registration process, Sep–Nov 2026) — treat §17.1's dates as current-cycle figures, label them as Margdarshak parent experience, and still point parents to jeemain.nta.nic.in for any later revision. **Both cutoffs files** — Top 50 and full — track the **live, current (2026) KCET/COMEDK cycle** round-by-round, are regenerated together from the same pipeline on the same date, and carry identical currency and reliability caveats (the Top 50 file is a subset by college count, not a different or lagging snapshot). Handle each accordingly:
 
 **Main KB figures:**
 - Try a web search first to get the actual current figure, and present it as the current-year answer (labeled as web-sourced, per Attribution above).

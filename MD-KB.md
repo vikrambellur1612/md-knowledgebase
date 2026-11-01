@@ -1,16 +1,17 @@
 # Margdarshak Engineering Admissions Knowledge Base
-### For IIT / NIT / IIIT / BITS / KCET / COMEDK Aspirants — Compiled from Two "Marg 25-26 Engg" Parent WhatsApp Groups
+### For IIT / NIT / IIIT / BITS / KCET / COMEDK Aspirants — Compiled from Margdarshak Parent WhatsApp Groups (2025–26 cycle, plus early 2026–27 updates in §17)
 
 ---
 
 ## 0. About This Document
 
-**Source:** This knowledge base is compiled from **three** sources, all covering the same 2025–26 admission cycle (children who sat Class XII boards and engineering entrance exams in this cycle, aiming for admission to the 2026–27 academic year):
+**Source:** This knowledge base is compiled from **four** sources. The first three cover the 2025–26 admission cycle (children who sat Class XII boards and engineering entrance exams in this cycle, aiming for admission to the 2026–27 academic year); the fourth covers the opening weeks of the next (2026–27) cycle:
 1. **"Marg 25-26 Engg - IIT/ NIT/ IIIT/ BITS"** WhatsApp group (~4,800 messages, active 8 Sep 2025 – 13 Aug 2026) — primary source for JEE Main, JEE Advanced, BITSAT, and the IIITs (Sections 3–6, 9).
 2. **"Marg 25-26 Engg - KCET/ COMEDK"** WhatsApp group (~10,600 messages, active 8 Sep 2025 – 13 Aug 2026) — a dedicated sister group, primary source for the deep KCET/COMEDK coverage in Section 7, and much of the Bangalore/Karnataka college-comparison detail in Section 7.9/11.
 3. **A standalone, machine-compiled KCET/COMEDK Round 1 cutoff dataset** (generated 2026-08-13, covering the Top 50 Karnataka colleges by demand) — folded in as Section 7.12, giving precise branch-by-branch cutoff ranks to complement the anecdotal examples from source #2.
+4. **"MD27 Engg - IIT/ NIT/ IIIT/ BITS"** WhatsApp group (~2,100 messages, 17 Sep – 1 Nov 2026) — the new batch's group (Class XII and JEE in 2027). Primary source for **§17**, which records JEE Main 2027 Session 1 registration learnings (the new DigiLocker/Aadhaar identity step, form-field confusions, upload specs), current-cycle dates, BITS clarifications and new admin guidance. AI-generated explainers re-posted by members were excluded as a source.
 
-Both WhatsApp groups run under the **Margdarshak** volunteer mentor community.
+All three WhatsApp groups run under the **Margdarshak** volunteer mentor community.
 
 **What this document is:** A synthesis of real questions parents asked, real answers given by experienced admins/mentors (several identified themselves as having gone through this process in prior years — "Margdarshak 2023-24" etc.), real official notices/dates/links shared in the groups, and real cutoff/experience data points — both from parent-shared messages and from the standalone cutoff dataset. Nothing in this document has been invented — every fact, number, and quote is drawn from one of the three sources above. Opinions, anecdotes, and informal crowd-sourced data (as opposed to official rules or the machine-extracted cutoff figures) are explicitly labeled as such throughout.
 
@@ -49,6 +50,10 @@ Both WhatsApp groups run under the **Margdarshak** volunteer mentor community.
 | **OR-CR** | Opening Rank–Closing Rank — the range of ranks that got a seat in a given round, for a given institute/branch/category; the standard way to judge a program's competitiveness |
 | **SAF / PAF** | Seat Acceptance Fee / Partial Admission Fee — JoSAA-stage payments (see §9) |
 | **HS / OS quota** | Home State / Other State quota — applies only to NITs (50/50 split), not to IITs/IIITs |
+| **DigiLocker** | Government digital document wallet; from JEE Main 2027 it is the first identity-verification step of the NTA form (Aadhaar-based; Meri Pehchaan/JanParichay also offered) — see §17.2 |
+| **APAAR ID** | "One Nation One Student" academic ID (Automated Permanent Academic Account Registry), visible in DigiLocker; **optional** in the JEE Main 2027 form |
+| **LOC** | CBSE "List of Candidates" — the school's board-exam registration list; its registration number (e.g., K/2/27/…) is what CBSE families entered as the 12th registration number in the JEE form |
+| **DASA** | Direct Admission of Students Abroad — the route for foreign nationals/OCI/NRI-category seats at NITs and other CSAB institutes (csab.nic.in/csab-special) |
 
 ---
 
@@ -72,6 +77,8 @@ Use this as a **sequencing reference**, not as exact dates for a future year —
 | Aug 2026 | CSAB registration and rounds (early Aug–mid Aug); NIT+ System institute reporting (~13–18 Aug onward); KCET Round 1 result (2026: ~16 Aug, notably late that cycle, partly to align with NEET/medical counselling timing); PESU-KCET (PES's own separate counselling) starts (~16 Aug); KCET Round 2 and COMEDK later rounds continue into late Aug; group winds down as admissions conclude |
 
 **Key structural takeaway:** Nearly all major counselling processes (BITS Iterations, JoSAA, IIIT-B, IIIT-H, JAC Delhi, KCET, COMEDK) run **concurrently** in June–August, not sequentially — families frequently had to make accept/float/freeze decisions on one seat *before* knowing their outcome elsewhere (BITS vs JoSAA; a JEE-based PES seat vs a hoped-for KCET seat; a paid AICTE-college seat vs a delayed KCET result). Plan for this overlap; it was a major source of stress and second-guessing throughout both transcripts. **KCET/COMEDK's own internal schedule was also unusually volatile within this single cycle** — deadlines were extended repeatedly, the KCET result was pushed past its usual late-May target into June due to Agriculture-quota-exam delays, and the government's own seat-matrix approval visibly delayed the start of counselling — treat every KCET/COMEDK date above as especially provisional.
+
+**2026–27 cycle:** the JEE Main 2027 Session 1 dates actually announced (registration 24 Oct – 22 Nov 2026; exam 20–28 Jan 2027, revised) are recorded in §17.1.
 
 ---
 
@@ -129,6 +136,8 @@ There is **NO individual subject-wise (PCM) minimum-marks requirement** for JoSA
 - Migration certificate (if board/state/school changed)
 - 12th passing certificate (needed later, at counselling — not at registration)
 - Class 11 board registration number (new 2026-cycle requirement)
+
+**2027-cycle update (see §17.2–17.3):** the JEE Main 2027 form starts with a **DigiLocker/Aadhaar identity check and a live webcam photo**, and the upload limits changed — **photo 10–200 kB, signature 10–100 kB, Class 10 marksheet PDF 50–300 kB**. The "Class 11 board registration number" above turned out, in the 2027 form, to be the **12th-board registration/enrolment/roll number** field (CBSE LOC number, CISCE Unique ID, Karnataka PU enrolment number), which may be entered as "Not-Available" if not yet issued.
 
 ### 3.6 Exam-day essentials (admit card / exam centre)
 - Carry: transparent water bottle, simple transparent ball-point pen, colour A4 printout of the admit card (with Self-Declaration/Undertaking filled — photo pasted, left thumb impression), 1 extra passport photo for the attendance sheet, original photo ID matching what was declared.
@@ -2118,8 +2127,12 @@ This is not clinical advice — it is peer-to-peer parent support language that 
 | COMEDK | comedk.org (counselling process document & round-wise cutoffs under "counselling-document-[year]") |
 | Karnataka 2nd PUC results / revaluation | karresults.nic.in ; dpue-exam.karnataka.gov.in (revaluation/retotal applications) |
 | CBSE revaluation → DigiLocker | via the CBSE revaluation portal's DigiLocker link, for updated marksheets |
+| JoSAA OR-CR (2026 / archive) | josaa.admissions.nic.in/Applicant/SeatAllotmentResult/currentorcr.aspx ; josaa.admissions.nic.in/applicant/seatmatrix/openingclosingrankarchieve.aspx |
+| DASA (foreign nationals / OCI) | csab.nic.in/csab-special/ (read the DASA Information Brochure) |
+| JEE Advanced — foreign nationals / OCI | jeeadv.ac.in/foreign.html |
+| DigiLocker support (duplicate/unverified profiles) | support.digilocker.gov.in |
 
-**Unofficial/community tools referenced (use with caution, always cross-check against official sources):** entrance-exams.netlify.app (JoSAA + KCET + COMEDK cutoff reference, built by an admin), jac-cutoff-and-predictor.netlify.app, iiitd-rank-converter.vercel.app (explicitly flagged by its own creator as "not accurate, just for fun"), apexbits.site (BITS iteration-wise cutoffs, crowd-sourced), keyexamdates.in/kcet-cutoffs.html (third-party KCET cutoff mirror).
+**Unofficial/community tools referenced (use with caution, always cross-check against official sources):** entrance-exams.netlify.app (JoSAA + KCET + COMEDK cutoff reference, built by an admin), jac-cutoff-and-predictor.netlify.app, iiitd-rank-converter.vercel.app (explicitly flagged by its own creator as "not accurate, just for fun"), apexbits.site (BITS iteration-wise cutoffs, crowd-sourced), keyexamdates.in/kcet-cutoffs.html (third-party KCET cutoff mirror). 2026–27 additions (see §17.10): entrance.bellur.in ("CutoffGenie", 2026 KCET/ComedK/JoSAA/NEET cutoff explorer built by an admin), kcet2027.bellur.in (KCET rank estimator — trend guide only), henceprove.com/exam-dates, room.examgoal.com.
 
 ---
 
@@ -2131,7 +2144,161 @@ This is not clinical advice — it is peer-to-peer parent support language that 
 4. **The §7.12 cutoff dataset is AI-assisted extraction from official KEA/COMEDK publications, not independently re-verified row by row**, per its own source disclaimer — treat every individual rank as needing a cross-check against the official publication before use in a real decision. It also covers **General Merit (GM) category only** and **Round 1 (plus ComedK Mock) only** — reserved-category cutoffs and later-round movement aren't in this dataset; later rounds typically loosen most cutoffs further as higher-ranked candidates upgrade out (see §7.10).
 5. **BITS-related and KCET/COMEDK-related operational complaints (city allocation, score discrepancies, seat-matrix delays, admit-card errors) reflect one specific admission cycle (2026)** and may not recur in future years — but the *category* of risk (state/private-body counselling can be less standardized/transparent than NTA's government process) is a durable, reusable insight.
 6. This document does not cover NEET/medical admissions, architecture-specific (NATA/JEE Paper 2) processes in depth, or international-university options beyond passing mentions.
+7. **§17 covers only the first ~6 weeks of the 2026–27 cycle (17 Sep – 1 Nov 2026)**, centred on JEE Main 2027 Session 1 registration. Its dates are current-cycle figures; the rest of the document remains 2025–26 history. Several 2027-form questions were still unresolved in the group when it was compiled (e.g., Cambridge registration numbers, the "APAAR authentication failure" error) and are flagged as such.
 
 ---
 
-*End of Knowledge Base. Compiled from the Margdarshak "Marg 25-26 Engg - IIT/ NIT/ IIIT/ BITS" WhatsApp group transcript (8 Sep 2025 – 13 Aug 2026).*
+## 17. 2026–27 Cycle Updates — "MD27 Engg - IIT/ NIT/ IIIT/ BITS" Group (17 Sep – 1 Nov 2026)
+
+**Source note:** this section draws on a FOURTH source — the new Margdarshak group for the *next* batch (children appearing for Class XII and JEE in 2027), "MD27 Engg - IIT/ NIT/ IIIT/ BITS" (~2,100 messages, ~680 members, 17 Sep – 1 Nov 2026). It covers only the **opening weeks of the 2026–27 cycle**, dominated by the **JEE Main 2027 Session 1 registration** (opened 24 Oct 2026), which introduced a new DigiLocker-based identity check that caused most of the confusion. Unlike §1–16, the dates in §17.1 are **current-cycle (2027) figures**, not prior-cycle history. Long AI-generated explainers that members re-posted into the group were deliberately **excluded** as a source, so nothing here is circular. As elsewhere, parent anecdotes are labelled as such; NTA rules can still change, so confirm on jeemain.nta.nic.in.
+
+### 17.1 JEE Main 2027 — Session 1 schedule, fees and pattern (as shared in the group)
+
+A parent posted a summary of the official NTA notification on 25 Oct 2026; the dates below match Careers360's live coverage of the NTA notice (checked 1 Nov 2026):
+- **Registration opened:** 24 Oct 2026. **Last date to apply and pay:** 22 Nov 2026, 11:50 PM.
+- **Late registration:** 23–26 Nov 2026, with an additional ₹500 late fee.
+- **Correction window:** 27–29 Nov 2026.
+- **Exam city intimation slip:** ~30–31 Dec 2026 (the parent-shared summary said 30 Dec; Careers360 listed 31 Dec — confirm on the NTA site). **Admit card:** 13 Jan 2027.
+- **Exam dates (revised):** **20, 21, 22, 23, 24 and 28 January 2027.** NTA's earlier calendar had shown 22, 23, 24, 28, 29 and 30 Jan; a parent flagged the revision on 28 Oct and noted that registration dates did *not* change. Shifts: 9 AM–12 PM and 3–6 PM.
+- **Session 2:** in April 2027. Per the Information Brochure (quoted by a parent), a candidate who wants to write **only Session 2** registers later, in the Session 2 window (**5 Jan – 3 Feb 2027**). **Fees are paid one session at a time** — the Session 1 payment does not cover Session 2.
+- **Who can apply:** candidates who passed Class 12 in 2025 or 2026, or are appearing in 2027 (subject to NTA eligibility rules).
+- **Fee per session (General):** **₹1,000 for boys, ₹800 for girls** for one paper; parents saw **₹2,000 / ₹1,600** when both Paper 1 (B.E./B.Tech) and Paper 2A (B.Arch) were selected. Payment by UPI QR worked for parents.
+- **Paper 1 pattern (B.E./B.Tech):** 75 questions, 300 marks, 3 hours; each of Physics, Chemistry and Maths has 20 MCQs + 5 numerical-answer questions, all compulsory; **+4 / −1, with negative marking for numerical questions too.**
+- **Paper choice:** Paper 1 is for B.E./B.Tech; **Paper 2A is for B.Arch and 2B for B.Planning** — admins reminded engineering-only students to tick only Paper 1.
+- **Only ONE application per candidate.** The brochure warns that multiple applications can be rejected. NTA later (advisory ~30 Oct, reported 31 Oct 2026) allowed a **fresh application even after payment**, where **only the last application with a paid fee and generated Confirmation Page counts**, and appearing with multiple application numbers is unfair means. Parents who called the NTA helpline were told this provision is **mainly for OCI/international candidates who picked the wrong nationality or parent details**, and that a **photo mismatch alone does not need a fresh form** (see §17.2).
+- The JEE Main 2027 syllabus PDF and the NTA advisories were posted on jeemain.nta.nic.in (News section); the Information Bulletin's later pages (a parent cited pp. 69–91) give step-by-step screenshots of the form.
+
+### 17.2 The new DigiLocker / Aadhaar identity step — what parents learned the hard way
+
+**How the first step works (parent experience, multiple confirmations):**
+- Registration starts with **DigiLocker consent** (Meri Pehchaan and JanParichay were also offered as identity routes). Choose **Aadhaar** (a tip circulated by a coaching college: log in with the *Aadhaar number*, not mobile/username). The system verifies identity through Aadhaar and pulls the **child's photo, name, DOB, parents' names and address** from it; it did **not** fetch other DigiLocker documents at this stage. Address came through incomplete for one parent and had to be corrected.
+- Once DigiLocker is verified and contact details are entered, the **Application Number is generated** — note it down; the site times out often and you log back in with it. The form can be **saved and continued** over multiple sessions.
+- NTA's own advisory (posted on X, 29 Oct 2026): **use the candidate's own DigiLocker/JanParichay credentials, complete DigiLocker Re-KYC in advance, and make sure Name and DOB match the Class 10 certificate exactly.**
+- **Never verify with a parent's Aadhaar/DigiLocker.** One family's form embedded the parent's photo because the parent's DigiLocker was used.
+
+**The photo-mismatch problem (the single biggest issue in the group):**
+- The form compares a **live webcam photo** of the child with the **Aadhaar photo**. Families whose Aadhaar still had a childhood photo (biometrics never updated after age 15, or DigiLocker not refreshed) got a mismatch warning: *"Proceed to fill the application form with photograph mismatch (candidature is liable to be cancelled in future if found to be a case of impersonation)."*
+- **The child must be physically present** for the live photo. Retrying with a neutral expression, without lifting the neck, fixed a false mismatch for one family.
+- **If you refresh DigiLocker after starting the form, the application keeps the old photo** — several parents found no way to go back. Lesson repeated by admins and parents: **update Aadhaar first, refresh it in DigiLocker, then start the form.**
+- **What NTA's helpline told several parents (consistent across calls):** you *can* submit with the mismatch; the application won't be rejected for it; carry **both the old and the new Aadhaar** to the exam centre; the **admit card will carry the live photo**. One parent cited an explainer video saying NTA may later ask for an affidavit attested by a gazetted officer or college principal — treat as reported, not confirmed. A coaching college (Narayana) circulated the same "don't panic, you can proceed" message for name and photo mismatches.
+
+**Aadhaar and DigiLocker preparation checklist (compiled from several parents):**
+1. **Update the child's Aadhaar biometrics and photo** if not done after age 15 (some re-did it anyway for a recent photo, or because fingerprints read poorly). Parents reported updates reflecting within **1–4 days** at Aadhaar centres, banks, Bangalore One and some post offices (one parent was still waiting after ~2 weeks). If the post-15 update is recent, admins said no need to redo it.
+2. **Create a DigiLocker account for the child** (it can sit on a parent's phone; one mobile number can hold several DigiLocker accounts — the form lists them all and you pick one).
+3. In DigiLocker, **refresh Aadhaar** (Issued Documents → Aadhaar → three dots → Refresh, OTP), then refresh **APAAR ID** and the **Class 10 marksheet**. The web version worked more reliably than the app; the app's profile photo sometimes stayed old until it was reinstalled (cache issue).
+4. **Track which mobile numbers are linked** to the child's Aadhaar, DigiLocker and APAAR. A DigiLocker-linked number can be changed online with OTP; an **Aadhaar mobile-number change can take up to 30 days**, so several parents chose not to change it mid-registration.
+5. **Fixing "account already exists" / unverified duplicate profiles:** one parent added a fresh profile for the child, verified it with the Aadhaar-linked OTP, then raised a ticket at support.digilocker.gov.in to delete the unverified duplicate — after which JEE verification passed. Others fixed it via DigiLocker → Menu → Switch accounts.
+6. **APAAR ID is optional** in the JEE form. If missing, it can be generated in DigiLocker (Search Documents → APAAR ID, using Class 10 board and roll number). One unresolved report: "APAAR authentication failure" when only Aadhaar was ticked at the consent step.
+7. **Class 10 marksheet:** CBSE marksheets fetch directly into DigiLocker; **ICSE** via "Council for the Indian School Certificate Examinations"; **Karnataka SSLC** fetch failed for at least one family. **Cambridge/IGCSE and foreign boards** don't fetch — parents uploaded a scan to the DigiLocker Drive (Education) instead, though the JEE form itself takes the marksheet as a separate PDF upload.
+8. **Name mismatches** (e.g., a parent's name expanded on the 10th marksheet but initialled in Aadhaar) — an admin's guidance: fill candidate and parent names **exactly as on the 10th marksheet**, and keep them consistent everywhere, including the 12th board registration.
+
+### 17.3 Form fields that confused parents (and how they were resolved)
+
+- **"12th registration / enrolment / roll number":** the form accepts any of the three, and a note in the form allows **"Not-Available"** if it isn't known yet. What parents used:
+  - **CBSE:** the registration number on the school's **LOC (List of Candidates)** verification slip, format like `K/2/27/<school no>/<student no>` (one school said it's the same for 11th and 12th); entering it with the slashes was accepted.
+  - **ICSE/ISC:** the **CISCE 7-digit Unique ID** from the ICSE admit card/marksheet — it stays the same from Grade 10 to 12.
+  - **Karnataka PU:** most PU colleges gave a **12-digit enrolment number starting "2025…"** (also on the 1st PU marks card). Some colleges told parents to use the **SATS number** instead; admins pointed out that **SATS is a Karnataka-only number** and the board registration/enrolment number is the right one (a counsellor-parent added that the form will technically accept SATS). One college said the final 2nd PUC exam registration number comes only after the PU board's regular-student registration deadline (11 Nov), and that NTA gives a later window to update qualification details — unconfirmed by previous-year parents in the group.
+  - **Cambridge:** only a candidate number exists, and it changes each year — unresolved in the group.
+  - Note: the earlier talk of a "Class 11 board registration number" refers to this 12th-board registration field — the 2027 form asks only for **10th and 12th** details.
+- **Qualifying exam option:** Karnataka PU students chose **"Intermediate or two-year Pre-University examination conducted by a recognized Board/University"**; the board is then "Karnataka State PU Board". A counsellor-parent said picking the "10+2" option instead has no practical consequence.
+- **10th marks:** enter total maximum and total obtained (percentage auto-calculates), with a CGPA/percentage choice. For a sixth additional subject (e.g., AI), an admin said Class 10 marks don't affect anything, so entering all six as per the marksheet is fine.
+- **Exam cities:** four choices, **all different**, and **only within your own state** (per the instruction manual). An early glitch duplicated city choices; it resolved for parents a few days later.
+- **Uploads (2027 brochure, as quoted by parents):**
+  - **Photo:** colour JPG/JPEG, **10–200 kB**, white background, ~80% face including ears, no mask.
+  - **Signature:** JPG/JPEG, **10–100 kB** (black pen on white paper is safest). Getting under 100 kB was the most common struggle; parents used Android's "Compress Image" or IrfanView on Windows.
+  - **Class 10 certificate/marksheet:** PDF, **50–300 kB**.
+  - **PwD/UDID and "physical limitation to write" certificates:** PDF, 50–300 kB, if applicable. **Foreign nationals/OCI** upload their non-Indian passport.
+  - So the form handles **three photos**: one pulled from Aadhaar, one live webcam capture, and one uploaded soft copy.
+  - These sizes **supersede the 2026 figures in §3.5** (signature was 4–30 kB then).
+- **Spectacles:** genuinely mixed advice. Aadhaar photos are taken without specs; admins suggested **without specs** to avoid glare, while noting the system matched photos with and without specs. Admins strongly advised a **professional studio photo** (with a soft copy emailed to you), **reused unchanged across every exam application** and admit card. One parent noted JEE seemed to want a 51 × 51 mm photo while other exams use 35 × 45 mm — unverified.
+- **Laptop over phone:** the form has long pages; parents and admins preferred a laptop. Servers were slow in evenings; early mornings worked better.
+- **Coaching-linked schools:** at least one (Narayana) told parents to fill and upload but **not final-submit** — the school does it with the student. A counsellor-parent also warned to enter the **exact school branch** the child is registered under.
+- **Payment glitch:** one parent's UPI payment was debited but not reflected for two days; the brochure directs such cases to the bank/payment portal's helpline.
+- **OCI candidates (2027 form):** the first step asks whether you hold an Indian passport. OCI families **did not go through Aadhaar** and uploaded the passport PDF instead — a change from the previous year, per one parent.
+
+### 17.4 Exam-day and centre expectations for 2027 (admin and parent experience)
+
+- **Slots and dates are allotted randomly** — registering early does **not** get an earlier date or a closer centre.
+- **JEE Main centres:** in an admin's experience, Bangalore candidates almost always get Bangalore (Mysore at most), but centres can be anywhere across the city (Peenya and Yelachenahalli were named). **BITSAT** was different: in 2026 Bangalore candidates were sent to Mysore, Tumkur, Shimoga, Chitradurga and Mangalore.
+- Admins said JEE Main usually doesn't clash with other exams, so pick preferred cities rather than trying to align with other exams' centres.
+- **At the centre (admin experience):** the admit card is collected; only Aadhaar is allowed in (no pens or pouches). The instructions ask for four printed admit-card copies; one is collected and the rest are discarded at the gate.
+- **Identity checks:** face and fingerprint authentication. If biometrics fail, secondary documents (PAN, passport) are used for manual verification, which takes longer. One parent advised keeping **Aadhaar and its biometrics unlocked** (or disabling OTP-based lock) before the exam. An admin had *heard* iris validation may be introduced — unconfirmed.
+
+### 17.5 BITS / BITSAT clarifications from admins (2026–27 cycle)
+
+- **Timeline (admin's general pattern):** registration opens ~December and closes by ~March; Session 1 ~April–May; Session 2 ~May–June. Exact dates are published on the BITS admissions site once registration opens.
+- **One exam (BITSAT) for all three campuses**; it is computer-based and has an **English section**. JEE preparation covers the rest; a BITSAT PYQ book shows the pattern. **Scores, not ranks**, appear on screen right after the test. **Class 12 marks are used only for eligibility.**
+- **Board toppers** (all subjects, any Indian board) are offered admission **without BITSAT**.
+- **SAT scores are only for foreign nationals/OCI** under international admissions, at a much higher fee. OCI students can also write BITSAT at the normal Indian fee.
+- **No reservation and no management quota** at BITS — merit only (BITSAT, SAT or board-topper channels).
+- **BIT Mesra is not part of BITS Pilani** — it admits through JoSAA, not BITSAT.
+- **PCB students** are eligible for **B.Pharm and B.E. Environmental & Sustainability Engineering**.
+- **The degree is the same for all three campuses** and doesn't mention the campus. Each campus has its own website and slightly different course lists.
+- **Campus feedback (anecdotal, conflicting):** one parent relayed that current Pilani students reported hostel infrastructure, connectivity and temperature problems, and some would have chosen another campus. An admin said Goa and Hyderabad (both 20+ years old) are increasingly preferred by South Indian families for weather and proximity, with no such issues there.
+- **BITS Goa Mechanical** (an admin whose son studies there): strong department with good projects and competition teams. Passionate mechanical students often go for Masters; some move to software. A robotics minor is popular.
+- Reminder (already in §5.5): BITSAT top-500 rankers get a 100% tuition waiver; a parent's guess is that it's meant to stop fees from deterring top rankers who'd otherwise pick IITs.
+
+### 17.6 Other routes and questions that came up (mostly redirected to sister groups)
+
+- **Group routing:** PESU, VIT, SRM and MET discussions go to the "Engg - State & Private" group. IIM Bangalore's BSc (Hons), IISc BS and IISER IAT go to the "Science and Maths" group. Admins said they have no expertise on foreign universities and don't discuss them.
+- **IIM Bangalore BSc (Hons) Economics / Data Sciences** (4-year UG programmes, started 2025): a parent noted Economics is mandatory as a major or ancillary even in the Data Science track.
+- **IISER IAT:** Biology in 11th/12th is not required to be eligible, but a parent said the paper has questions in all four subjects (M, P, C, B; ~15 each), so PCM students should brush up on Biology.
+- **IIIT-H UGEE prep** (one parent): SUPR is easier than JEE, but REAP needs dedicated preparation.
+- **Non-JEE IIT courses:** parents shared news of **IIT Kanpur's B.Cyber, with admission through a hackathon** (not JEE Advanced), and **IIT Jodhpur's 4-year online BS in Management & Technology** with its own written test. One parent described pairing an IIT online degree with an industry-immersion programme (Masters' Union) — anecdotal.
+- **OCI / foreign passport holders:**
+  - Admins pointed to **jeeadv.ac.in/foreign.html**, the **JEE Advanced 2026 brochure** and the **DASA brochure** (csab.nic.in/csab-special).
+  - A parent's understanding: OCI cardholders registered before March 2021 could choose **OCI-I** (treated like Indian general candidates) or **OCI-F** (foreign-national seats only, can go straight to JEE Advanced).
+  - OCI students who studied in India can write JEE Main like Indian students and may also be eligible for DASA seats. Parent views, not verified.
+- **Engineering Physics:** an admin called it a good choice, offered at some IITs and NITs — search the JoSAA OR-CR archive for the programme name to see colleges and past cutoffs.
+
+### 17.7 College-tier and branch opinions (admin/parent views — not rankings)
+
+- **NITs vs RVCE/PESU** (an admin, plus a parent who is also a career counsellor):
+  - **NIT Trichy** competes with some IITs for students, in roughly the same band as BITS and the second set of IITs.
+  - **Surathkal and Warangal** sit in the next tier, with **RVCE and PESU typically in the same band**, then the rest of the NITs.
+  - This is "based on how people have preferred in the past."
+  - The counsellor-parent said RV/PES are at par with or better than most NITs for the same college-course combination; NITs offer larger campuses and a more active student life. They knew students who left IIT seats for a preferred branch at these colleges.
+- **Decisions are rarely purely data-driven** (counsellor-parent): climate (e.g., Jodhpur heat), hostel sharing, food and language, safety, and distance from home often outweigh cutoff data. An admin advised parking college comparisons until scores are in, since the choice depends on which NIT tier and branch are actually reachable.
+- **Aerospace Engineering** (one parent whose nephew is at RVCE and daughter at BMS, both in aerospace):
+  - It's essentially a branch of Mechanical with an aerospace flavour.
+  - UG-level knowledge is basic, so a Masters is usually needed for a job. Mechanical placements are currently better.
+  - **BMS stopped new aerospace admissions last year**, and Ramaiah introduced it two years ago. Placement and internship opportunities at private colleges are limited.
+  - IIT/IISc aerospace is "a league apart". It's a regular theory course with no extra practical component.
+
+### 17.8 Admin guidance on Session 1, Session 2 and JEE Advanced (2026–27)
+
+- **Aim to do your best in Session 1** and treat Session 2 as a backup (admin).
+- **Observations shared by an admin:**
+  - Some children in roughly the top 500 after Session 1 don't push hard in Session 2 and write it only to stay exam-fit. This lets others move up.
+  - Parents often treat "qualifying for JEE Advanced" as a milestone, but a **top-20k JEE Advanced finish is the practical minimum** for a decent General-category IIT seat.
+  - Some children sensibly stay focused on JEE Main and other exams rather than spending all their energy on JEE Advanced and missing out on everything else.
+- **Don't pressurise the child.** Schools have, in the past, moved practical exams that clashed with JEE Main.
+- **JEE ranks can't be predicted from marks** (percentile-based, with big batch-to-batch variation), unlike KCET, where a marks-based estimate is a rough guide only.
+- Session 1 percentiles come out ~February. The JEE Advanced qualifying cutoff is fixed only with the final result after Session 2 (see §3.3 and §3.7).
+
+### 17.9 Organisation tips and group etiquette from the new batch
+
+- **Keep a separate folder per exam** (IIM-B, JEE, MIT, VIT, BITS, KCET, COMEDK, NEET…) with submitted applications, logins, admit cards and results. Keep a common documents folder (marks cards, study certificate, TC, quota documents) and a passport-photo folder, plus an Excel/calendar of dates (admin and parent tips).
+- **Use the child's own email/phone or a parent's** — no rule either way. Use ones checked regularly so OTPs and notices aren't missed. One parent created a new email in the child's name; another suggested parent contacts during admission and the child's own email once in college.
+- **Etiquette asked for by admins and members:**
+  - One parent should join all the relevant groups.
+  - Use emoji reactions (🙏 👍 ➕) instead of "thank you / me too" messages.
+  - Send add-me requests (e.g., the used-book resale group run by a parent, or the BITSAT Facebook group) by DM.
+  - Check Google first for routine questions, such as whether registration has opened.
+
+### 17.10 Community tools and links shared (unofficial — cross-check against official sources)
+
+- **CutoffGenie — entrance.bellur.in** (built by an admin): free 2026-cutoff explorer for KCET/ComedK (what's within reach, round-by-round movement, KCET vs ComedK), JoSAA (top 50 options from JEE Main/Advanced ranks, incl. home-state and female-only seats), Karnataka NEET MBBS, and demand trends. It covers only KCET, ComedK and JoSAA counselling — **not** CSAB, VIT, MIT, PES, IIIT-H/B, Amrita or SRM.
+- **kcet2027.bellur.in:** KCET rank estimator from board + KCET marks, explicitly a trend guide, not a prediction.
+- **JoSAA opening/closing ranks:**
+  - 2026: josaa.admissions.nic.in/Applicant/SeatAllotmentResult/currentorcr.aspx
+  - 2025 and earlier: josaa.admissions.nic.in/applicant/seatmatrix/openingclosingrankarchieve.aspx
+- **Other links from parents:**
+  - Exam calendar: henceprove.com/exam-dates
+  - Previous-year papers: examgoal (room.examgoal.com)
+  - BITSAT prep: phodu.club, built by BITS alumni
+  - JEE Main 2025 and 2024 "tips and analysis" documents compiled by previous Margdarshak parents (shared as files in the group)
+
+---
+
+*End of Knowledge Base. Compiled from the Margdarshak "Marg 25-26 Engg - IIT/ NIT/ IIIT/ BITS" and "Marg 25-26 Engg - KCET/ COMEDK" WhatsApp group transcripts (8 Sep 2025 – 13 Aug 2026), a KCET/COMEDK cutoff dataset, and the "MD27 Engg - IIT/ NIT/ IIIT/ BITS" group transcript (17 Sep – 1 Nov 2026).*
